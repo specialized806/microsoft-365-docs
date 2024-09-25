@@ -19,7 +19,6 @@ ms.custom:
 - commerce_subscriptions
 - QuickDraft
 - AdminTemplateSet
-- admindeeplinkMAC
 search.appverid: MET150 
 description: "Learn how to understand and resolve issues related to detached subscriptions in the Microsoft 365 admin center."
 ms.date: 09/24/2024
@@ -31,11 +30,11 @@ When you buy a subscription from a Microsoft partner and that partner leaves the
 
 > [!IMPORTANT]
 > To avoid data loss or service disruptions, you must buy a subscription for the same product or service that you currently have with a partner and assign licenses to the same users.
-
+<!--
 ## Find a detached subscription
 
 When you sign in to the Microsoft 365 admin center, or when you open Outlook, OneNote, PowerPoint, or Excel, you see a banner that says to avoid losing access to your subscription, you must update the subscription details. Select the **View details** link in the warning to learn which subscriptions are affected, and what you must do to keep your subscriptions in good standing.
-
+-->
 ## Options to resolve a detached subscription
 
 If you have a detached subscription, you have two options:
