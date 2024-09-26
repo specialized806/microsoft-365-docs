@@ -21,15 +21,15 @@ ms.custom:
 - AdminTemplateSet
 search.appverid: MET150 
 description: "Learn how to understand and resolve issues related to detached subscriptions in the Microsoft 365 admin center."
-ms.date: 09/24/2024
+ms.date: 09/26/2024
 ---
 
 # Resolve detached subscriptions in the Microsoft 365 admin center
 
-When you buy a subscription from a Microsoft partner and that partner leaves the Cloud Service Provider (CSP) program, they no longer manage your subscription. We call these subscriptions *detached subscriptions*. Without an associated partner, if you take no action, the subscription will expire, and you'll lose access to your data and all associated apps and services. This article explains your options for resolving a detached subscription, either by finding a new partner or buying a subscription directly from Microsoft.
+When you buy a subscription from a Microsoft partner and that partner leaves the Cloud Service Provider (CSP) program, they no longer manage your subscription. We call these subscriptions *detached subscriptions*. Without an associated partner, if you take no action, the subscription will be unmanaged, and access to services will be disrupted. This article explains your options for resolving a detached subscription, either by finding a new partner or buying a subscription directly from Microsoft.
 
 > [!IMPORTANT]
-> To avoid data loss or service disruptions, you must buy a subscription for the same product or service that you currently have with a partner and assign licenses to the same users.
+> To avoid service disruptions, you must buy a subscription for the same product or service that you currently have with a partner and assign licenses to the same users.
 <!--
 ## Find a detached subscription
 
