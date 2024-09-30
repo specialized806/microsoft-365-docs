@@ -1,6 +1,8 @@
 ---
 title: "Resolve detached subscriptions in the Microsoft 365 admin center"
-f1.keywords: CSH
+f1.keywords: 
+- CSH
+- MACGlobalDetachedSubscription
 author: cmcatee-MSFT
 ms.author: cmcatee
 manager: scotv
@@ -20,8 +22,9 @@ ms.custom:
 - QuickDraft
 - AdminTemplateSet
 search.appverid: MET150 
-description: "Learn how to understand and resolve issues related to detached subscriptions in the Microsoft 365 admin center."
-ms.date: 09/26/2024
+ROBOTS: NOINDEX, NOFOLLOW
+description: "Learn how to resolve a detached subscription in the Microsoft 365 admin center."
+ms.date: 09/30/2024
 ---
 
 # Resolve detached subscriptions in the Microsoft 365 admin center
