@@ -1,5 +1,5 @@
 ---
-title: "Resolve detached subscriptions in the Microsoft 365 admin center"
+title: "Resolve subscriptions detached from CSP partners in the Microsoft 365 admin center"
 f1.keywords: 
 - CSH
 - MACGlobalDetachedSubscription
@@ -23,39 +23,28 @@ ms.custom:
 - AdminTemplateSet
 search.appverid: MET150 
 ROBOTS: NOINDEX, NOFOLLOW
-description: "Learn how to resolve a detached subscription in the Microsoft 365 admin center."
-ms.date: 09/30/2024
+description: "Learn how to use the Microsoft 365 admin center to resolve a detached subscription that you bought from a CSP partner."
+ms.date: 10/17/2024
 ---
 
-# Resolve detached subscriptions in the Microsoft 365 admin center
+# Resolve subscriptions detached from CSP partners in the Microsoft 365 admin center
 
-When you buy a subscription from a Microsoft partner and that partner leaves the Cloud Service Provider (CSP) program, they no longer manage your subscription. We call these subscriptions *detached subscriptions*. Without an associated partner, if you take no action, the subscription will be unmanaged, and access to services will be disrupted. This article explains your options for resolving a detached subscription, either by finding a new partner or buying a subscription directly from Microsoft.
+When you buy a subscription from a Microsoft Cloud Solution Provider (CSP), and that partner is no longer part of the CSP network, they no longer manage your subscription on your behalf. We call these subscriptions *detached subscriptions*. Without an associated partner, if you take no action, the subscription is unmanaged, and access to services will be disrupted. This article explains your options for resolving a detached subscription, either by finding a new partner or buying a subscription directly from Microsoft.
 
-> [!IMPORTANT]
-> To avoid service disruptions, you must buy a subscription for the same product or service that you currently have with a partner and assign licenses to the same users.
-<!--
-## Find a detached subscription
-
-When you sign in to the Microsoft 365 admin center, or when you open Outlook, OneNote, PowerPoint, or Excel, you see a banner that says to avoid losing access to your subscription, you must update the subscription details. Select the **View details** link in the warning to learn which subscriptions are affected, and what you must do to keep your subscriptions in good standing.
--->
-## Options to resolve a detached subscription
-
-If you have a detached subscription, you have two options:
-
-1. **Find a new CSP partner** through the partner marketplace.
-2. **Buy a subscription** directly from Microsoft.
-
-### Find a new partner
+## Find a new partner
 
 If you choose to find a new partner, you can explore available partners through the [Partner Directory on AppSource](https://appsource.microsoft.com/marketplace/partner-dir?filter=services%3DLicensing). This site lets you search for partners based on your specific products and requirements. When you contact a new partner, make sure to ask if they're a CSP. To learn more about working with a partner, see [Manage Microsoft-certified solution provider partner relationships](../manage-partners.md).
 
-### Buy a subscription directly from Microsoft
+## Buy a subscription directly from Microsoft
 
-When you buy a subscription from Microsoft, you have a direct relationship with us for billing and support. To learn more, see [Learn how to buy a new subscription](../try-or-buy-microsoft-365.md#buy-a-different-subscription) and [Explore Microsoft 365 for business support plans](https://www.microsoft.com/microsoft-365/business/microsoft-365-for-business-support-options?msockid=15af1489bfd667952f27000abefb66ef).
+When you buy a subscription from Microsoft, we provide direct billing and support. To learn more, see [Learn how to buy a new subscription](../try-or-buy-microsoft-365.md#buy-a-different-subscription) and [Explore Microsoft 365 for business support plans](https://www.microsoft.com/microsoft-365/business/microsoft-365-for-business-support-options?msockid=15af1489bfd667952f27000abefb66ef).
+
+> [!IMPORTANT]
+> If you elect to move and buy your subscription directly with Microsoft, to avoid service disruptions, you must buy a subscription for the same product or service that you currently have with a CSP partner and assign the licenses to the same users.
 
 ## Related content
 
 [Find your Microsoft 365 partner or reseller - Microsoft 365 admin](../../admin/manage/find-your-partner-or-reseller.md) (article)\
 [Add, change, or delete a Microsoft 365 subscription advisor partner - Microsoft 365 admin](../../admin/misc/add-partner.md) (article)\
-[Try or buy a Microsoft 365 for business subscription – Microsoft 365 admin](../try-or-buy-microsoft-365.md) (article)\
+[Try or buy a Microsoft 365 for business subscription - Microsoft 365 admin](../try-or-buy-microsoft-365.md) (article)\
 [What happens to my data and access when my Microsoft 365 for business subscription ends?](what-if-my-subscription-expires.md) (article)
