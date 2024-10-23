@@ -49,7 +49,7 @@ Follow these steps to update a glossary file.
 
 ## Link to a glossary file
 
-If the glossary file is in the same SharePoint library, you can select it from the drop-down list. If the glossary file is in a different library, you can add a link to the file.
+If the glossary file you want to use is in the same SharePoint library as the document you want to translate, you can select it from the drop-down list. If the glossary file is in a different library, you need to add a link to the file.
 
 Follow these steps to add a link to a glossary file.
 
@@ -57,7 +57,9 @@ Follow these steps to add a link to a glossary file.
 
 2. Next to the file name in the list of documents, select **More actions** (**...**), and then select **Details**.
 
-3. On the **Details** panel, go to **Path**, and then select the **Copy direct link** icon (![Image of the Copy direct link button.](../media/content-understanding/translation-copy-direct-link-icon.png)).
+    ![Screenshot showing the Details option next to the document.](../media/content-understanding/translation-more-actions-details.png)
+
+3. On the **Details** panel, go to **Path**, and select the **Copy direct link** icon (![Image of the Copy direct link button.](../media/content-understanding/translation-copy-direct-link-icon.png)).
 
 4. Go back to the **Translate documents** screen, select the languge, and under **Translation glossary**, paste the link.
 
