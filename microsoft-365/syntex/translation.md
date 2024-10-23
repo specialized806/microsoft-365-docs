@@ -41,9 +41,11 @@ To create a translated version of a document, follow these steps:
 
 2. On the **Translate documents** screen, under **Languages**, select the language or languages you want to use from the drop-down menu or enter them manually. You can choose up to 10 languages.
 
-   ![Screenshot showing the Translate documents screen with language options.](../media/content-understanding/translation-translate-documents.png)
+   ![Screenshot showing the Translate documents screen with language options.](../media/content-understanding/translation-translate-documents-languages.png)
 
 3. If you want to use a [custom glossary file](translation-glossary.md) for the translation, under **Translation glossary**, select the glossary file or add a link to the file.
+
+   ![Screenshot showing the Translate documents screen with translation glossary options.](../media/content-understanding/translation-translate-documents-glossary.png)
 
 4. Select **Translate**.
 
