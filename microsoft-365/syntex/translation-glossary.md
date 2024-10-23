@@ -62,4 +62,3 @@ Follow these steps to add a link to a glossary file.
 3. On the **Details** panel, go to **Path**, and select the **Copy direct link** icon (![Image of the Copy direct link button.](../media/content-understanding/translation-copy-direct-link-icon.png)).
 
 4. Go back to the **Translate documents** screen, select the languge, and under **Translation glossary**, paste the link.
-
