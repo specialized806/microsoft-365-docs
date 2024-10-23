@@ -43,7 +43,7 @@ To create a translated version of a document, follow these steps:
 
    ![Screenshot showing the Translate documents screen with language options.](../media/content-understanding/translation-translate-documents-languages.png)
 
-3. If you want to use a [custom glossary file](translation-glossary.md) for the translation, under **Translation glossary**, select the glossary file or add a link to the file. The option to add a glossary is only available when you are translating one language at a time.
+3. If you want to use a [custom glossary file](translation-glossary.md) for the translation, under **Translation glossary**, select the glossary file or [add a link to the file](translation-glossary.md#link-to-a-glossary-file). The option to add a glossary is only available when you are translating one language at a time.
 
    ![Screenshot showing the Translate documents screen with translation glossary options.](../media/content-understanding/translation-translate-documents-glossary.png)
 

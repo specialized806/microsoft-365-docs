@@ -47,5 +47,17 @@ Follow these steps to update a glossary file.
 
 4. Upload the updated file back to the SharePoint library.
 
-## Use a glossary file
+## Link to a glossary file
+
+On the **Translate documents** screen, under **Translation glossary**, you can select the glossary you want to use for that translation. If the glossary file is in the same SharePoint library, you can select it from the drop-down list. If the glossary file is in a different library, you can add a link to the file.
+
+Follow these steps to add a link to a glossary file.
+
+1. Select the glossary file you want to use.
+
+2. Next to the file name in the list of documents, select **Show more actions for this item** (**...**), and then select **Details**.
+
+3. On the **Details** panel, go to **Path**, and then select the **Copy direct link** icon.
+
+4. Go back to the **Translate documents** screen, and under **Translation glossary**, paste the link.
 
