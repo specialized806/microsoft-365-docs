@@ -29,11 +29,23 @@ Follow these steps to create a glossary file. You need to create separate glossa
 
 1. Create a CSV file (or [other supported file format](/azure/ai-services/translator/document-translation/reference/get-supported-glossary-formats)) that contains all the terms and phrases you want to use in your translation.
 
-2. Use the first column to list the terms in the source language. Use the second column to list the terms in the target language.
+2. Use the first column to list the terms in the source language. Use the second column to list the terms in the target language. The terms in the glossary are case-senstive.
 
     ![Screenshot of a spreadsheet showing two columns with example source terms and target terms.](../media/content-understanding/translation-glossary-format-example.png)
 
 3. Upload the file to the appropriate SharePoint document library or OneDrive folder.
 
-## Use the glossary file
+## Update a glossary file
+
+Follow these steps to update a glossary file.
+
+1. Download the file from the SharePoint library to your computer.
+
+2. Make the necessary changes to the file.
+
+3. Save the updated CSV file on your computer.
+
+4. Upload the updated file back to the SharePoint library.
+
+## Use a glossary file
 
