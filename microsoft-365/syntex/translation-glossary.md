@@ -21,7 +21,7 @@ description: Learn how to create, upload, and use a glossary file for document t
 
 You can use a custom glossary file to ensure that the specific terminology is consistently and accurately translated. The glossary file contains a list of terms in the source language along with their corresponding translations in the target language.
 
-For example, if your organization has a brand name that you don't want translated, you can add that to the glossary file. You can also choose specific translations for ambiguous words or designate specific meanings for your unique context.
+For example, if your organization has a trademarked name that you don't want translated, you can add that to the glossary file. You can also specify the capitalization to use for words, choose specific translations for ambiguous words, or designate specific meanings for your unique context.
 
 ## Create a glossary file
 
