@@ -42,7 +42,7 @@ To create a rule to translate documents automatically when a document is created
 
       ![Screenshot of the rule statement page showing the enter language option.](../media/content-understanding/translation-rule-enter-language.png)
 
-    c. If you want to use a [custom glossary file](translation-glossary.md) for the translation, select **Choose a file or paste a link**, and then select the glossary file or [add a link to the file](translation-glossary.md#link-to-a-glossary-file). The option to add a glossary is only available when you are translating one language at a time.
+    c. If you want to use a [custom glossary file](translation-glossary.md) for the translation, select **Choose a file or paste a link**, and then select the glossary file or [add a link to the file](translation-glossary.md#link-to-a-glossary-file). The option to add a glossary is only available when you select one language at a time.
 
       ![Screenshot of the rule statement page showing the glossary option.](../media/content-understanding/translation-rule-enter-language-glossary.png)
 
