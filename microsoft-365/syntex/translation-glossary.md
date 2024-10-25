@@ -23,6 +23,8 @@ You can use a custom glossary file to ensure that the specific terminology is co
 
 For example, if your organization has a trademarked name that you don't want translated, you can add that to the glossary file. You can also specify the capitalization to use for words, choose specific translations for ambiguous words, or designate specific meanings for your unique context.
 
+You can use the same glossary file across multiple document libraries within the same SharePoint site [by copying its link path](#link-to-a-glossary-file). However, if you want to use a glossary file from a different SharePoint site, you must first download the file from one site and upload it to another site.
+
 ## Create a glossary file
 
 Follow these steps to create a glossary file. You need to create separate glossary file for each language.
