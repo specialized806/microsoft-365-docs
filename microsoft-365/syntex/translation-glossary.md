@@ -54,10 +54,6 @@ XLF files are used to store and exchange translation data between different loca
 
 2. Define the structure and content of the terms and phrases you want to store in a hierarchical format.
 
-    - Inside the <source></source> tag, add the term or phrase in the source language.
-    - Inside the <target></target> tag, add the corresponding term or phrase in the target language.
-    - If you have more pairs of translation, you can add new <trans-unit></trans-unit> tags.
-
 ~~~
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.2">
@@ -75,6 +71,11 @@ XLF files are used to store and exchange translation data between different loca
    </file>
 </xliff>
 ~~~
+
+    - Inside the \<source>\</source> tag, add the term or phrase in the source language.
+    - Inside the <target></target> tag, add the corresponding term or phrase in the target language.
+    - If you have more pairs of translation, you can add new <trans-unit></trans-unit> tags.
+
 
 <!---
 
