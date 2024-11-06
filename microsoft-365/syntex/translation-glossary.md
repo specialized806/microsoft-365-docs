@@ -27,9 +27,7 @@ You can use the same glossary file across multiple document libraries within the
 
 ## Create a glossary file
 
-The glossary file should include all the terms and phrases you want to use in your translation. You need to create a separate glossary file for each language.
-
-Two common file formats for a glossary are a simple CSV file or a more complicated XLF file. For other supported file formats, see [Get supported glossary formats](/azure/ai-services/translator/document-translation/reference/get-supported-glossary-formats).
+Two common file formats for a glossary file are a simple CSV file or a more complicated XLF file. For other supported file formats, see [Get supported glossary formats](/azure/ai-services/translator/document-translation/reference/get-supported-glossary-formats). You need to create a separate glossary file for each language.
 
 ### Create a CSV glossary file
 
