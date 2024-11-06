@@ -23,15 +23,13 @@ You can use a custom glossary file to ensure that the specific terminology is co
 
 For example, if your organization has a trademarked name that you don't want translated, you can add that to the glossary file. You can also specify the capitalization to use for words, choose specific translations for ambiguous words, or designate specific meanings for your unique context.
 
-You can use the same glossary file across multiple document libraries within the same SharePoint site [by copying its link path](#link-to-a-glossary-file). However, if you want to use a glossary file from a different SharePoint site, you must first download the file from one site and upload it to another site.
-
 ## Create a glossary file
 
 Two common file formats for a glossary file are a simple CSV file or a more complicated XLF file. For other supported file formats, see [Get supported glossary formats](/azure/ai-services/translator/document-translation/reference/get-supported-glossary-formats). You need to create a separate glossary file for each language.
 
 ### Create a CSV glossary file
 
-Follow these steps to create a glossary file as a CVS file.
+Follow these steps to create a glossary file as a CSV file.
 
 1. Open a new workbook in Microsoft Excel.
 <!---
@@ -52,7 +50,7 @@ Follow these steps to create a glossary file as a CVS file.
 
 XLF files are used to store and exchange translation data between different localization tools and systems. Follow these steps to create a glossary file as an XLF file.
 
-1. Open a text editor, such as Notepad, Visual Studio Code, or an integrated development environment (IDE) like Visual Studio.
+1. Open a text editor, such as Notepad. You can also use Visual Studio Code or an integrated development environment (IDE) like Visual Studio.
 
 2. Define the structure and content of the terms and phrases you want to store in a hierarchical format.
 
@@ -73,6 +71,10 @@ Follow these steps to update a glossary file.
 3. Save the updated CSV file on your computer.
 
 4. Upload the updated file back to the SharePoint library.
+
+## Share a glossary file
+
+You can use the same glossary file across multiple document libraries within the same SharePoint site [by copying its link path](#link-to-a-glossary-file). However, if you want to use a glossary file from a different SharePoint site, you must first download the file from one site and upload it to another site.
 
 ## Link to a glossary file
 
