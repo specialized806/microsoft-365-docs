@@ -56,9 +56,13 @@ XLF files are used to store and exchange translation data between different loca
 
 1. Open a text editor, such as Notepad, Visual Studio Code, or an integrated development environment (IDE) like Visual Studio.
 
-2. Define the structure and content of the data you want to store in a hierarchical format.
+2. Define the structure and content of the terms and phrases you want to store in a hierarchical format.
 
     ![Screenshot of a text editor showing the hierarchy with example source terms and target terms.](../media/content-understanding/translation-glossary-format-xlf-example.png)
+
+3. Save the file as an XLF (*.xlf) file.
+
+4. Upload the file to the appropriate SharePoint document library or OneDrive folder.
 
 ## Update a glossary file
 
