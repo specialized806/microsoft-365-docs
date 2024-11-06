@@ -27,15 +27,38 @@ You can use the same glossary file across multiple document libraries within the
 
 ## Create a glossary file
 
-Follow these steps to create a glossary file. You need to create separate glossary file for each language.
+The glossary file should include all the terms and phrases you want to use in your translation. You need to create a separate glossary file for each language.
 
-1. Create a CSV file (or [other supported file format](/azure/ai-services/translator/document-translation/reference/get-supported-glossary-formats)) that contains all the terms and phrases you want to use in your translation.
+The most common file formats are a simple CSV file or a more complicated XLF file. For other supported file formats, see [Get supported glossary formats](/azure/ai-services/translator/document-translation/reference/get-supported-glossary-formats).
 
-2. Use the first column to list the terms in the source language. Use the second column to list the terms in the target language. The terms in the glossary are case-senstive.
+### Create a CSV glossary file
+
+Follow these steps to create a glossary file as a CVS file.
+
+1. Open a new workbook in Microsoft Excel.
+<!---
+2. Add a column heading for each piece of information you want to record (for example, first name, last name, email address, phone number, and birthday), and then type the information in the appropriate columns.
+
+
+ Create a CSV file (or [other supported file format](/azure/ai-services/translator/document-translation/reference/get-supported-glossary-formats)) that contains all the terms and phrases you want to use in your translation.
+--->
+2. In the first column of the worksheet, add the terms or phrases in the source language. In the second column, add the terms or phrases in the target language. The terms and phrases in the glossary are case-senstive.
 
     ![Screenshot of a spreadsheet showing two columns with example source terms and target terms.](../media/content-understanding/translation-glossary-format-example.png)
 
-3. Upload the file to the appropriate SharePoint document library or OneDrive folder.
+3. Save the file as a CSV (*.csv) file.
+
+4. Upload the file to the appropriate SharePoint document library or OneDrive folder.
+
+### Create an XLF glossary file
+
+XLF files are used to store and exchange translation data between different localization tools and systems. Follow these steps to create a glossary file as an XLF file.
+
+1. Open a text editor, such as Notepad, Visual Studio Code, or an integrated development environment (IDE) like Visual Studio.
+
+2. Define the structure and content of the data you want to store in a hierarchical format.
+
+    ![Screenshot of a text editor showing the hierarchy with example source terms and target terms.](../media/content-understanding/translation-glossary-format-xlf-example.png)
 
 ## Update a glossary file
 
