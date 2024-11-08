@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: jtremper
 ms.reviewer: karlha, ssquires
-ms.date: 11/06/2024
+ms.date: 11/08/2024
 audience: admin
 ms.topic: conceptual
 ms.service: microsoft-syntex
@@ -25,7 +25,7 @@ For example, if your organization has a trademarked name that you don't want tra
 
 ## Create a glossary file
 
-Two common file formats for a glossary file are a simple CSV file or a more complicated XLF file. For other supported file formats, see [Get supported glossary formats](/azure/ai-services/translator/document-translation/reference/get-supported-glossary-formats). You need to create a separate glossary file for each language.
+Two common file formats for a glossary file are a simple CSV file or a more complicated XLF file. Other supported file formats include TSV and TAB, XLF. You need to create a separate glossary file for each language. The terms and phrases in the glossary are case-sensitive.
 
 ### Create a CSV glossary file
 
@@ -38,7 +38,11 @@ Follow these steps to create a glossary file as a CSV file.
 
  Create a CSV file (or [other supported file format](/azure/ai-services/translator/document-translation/reference/get-supported-glossary-formats)) that contains all the terms and phrases you want to use in your translation.
 --->
-2. In the first column of the worksheet, add the terms or phrases in the source language. In the second column, add the terms or phrases in the target language. The terms and phrases in the glossary are case-sensitive.
+
+2. Add the terms and phrases you want to use in your translation.
+
+    - In the first column of the worksheet, add the terms or phrases in the source language.
+    - In the second column, add the terms or phrases in the target language.
 
     ![Screenshot of a spreadsheet showing two columns with example source terms and target terms.](../media/content-understanding/translation-glossary-format-example.png)
 
@@ -85,6 +89,10 @@ XLF files are used to store and exchange translation data between different loca
 3. Save the file as an XLF file (*.xlf).
 
 4. Upload the file to the appropriate SharePoint document library or OneDrive folder.
+
+## Use a glossary file
+
+You can specify which glossary file to use when you create a translated copy of a file. For guidance on how to use a glossary file, see [Translate a document on demand](translation.md#translate-a-document-on-demand) or [Translate a document automatically](translation.md#translate-a-document-automatically).
 
 ## Update a glossary file
 
