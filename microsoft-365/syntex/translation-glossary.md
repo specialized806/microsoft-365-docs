@@ -92,7 +92,10 @@ XLF files are used to store and exchange translation data between different loca
 
 ## Use a glossary file
 
-You can specify which glossary file to use when you create a translated copy of a file. For guidance on how to use a glossary file, see [Translate a document on demand](translation.md#translate-a-document-on-demand) or [Translate a document automatically](translation.md#translate-a-document-automatically).
+You use a glossary file when you create a translated copy of a file. For step-by-step instruction about how to specify a glossary file, see [Translate a document on demand](translation.md#translate-a-document-on-demand) or [Translate a document automatically](translation.md#translate-a-document-automatically).
+
+
+You can specify which glossary file to use when you create a translated copy of a file. For step-bystep instruction, see [Translate a document on demand](translation.md#translate-a-document-on-demand) or [Translate a document automatically](translation.md#translate-a-document-automatically).
 
 ## Update a glossary file
 
