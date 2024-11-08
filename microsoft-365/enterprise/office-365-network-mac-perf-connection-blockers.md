@@ -19,8 +19,7 @@ ms.reviewer: roshanp
 search.appverid: MET150  
 f1.keywords:  
 audience:  
-ai-usage:  
-- ai-assisted  
+ai-usage: ai-assisted  
 ---  
 
 # Understanding Connection Error Rate and WSS Error Rate in Microsoft 365 Network Connectivity
