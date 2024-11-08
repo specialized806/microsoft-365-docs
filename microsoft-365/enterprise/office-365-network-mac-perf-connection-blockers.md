@@ -22,7 +22,7 @@ audience:
 ai-usage: ai-assisted  
 ---  
 
-# Understanding Connection Error Rate and WSS Error Rate in Microsoft 365 Network Connectivity
+# Microsoft 365 Connection Blockers in the Microsoft 365 admin center
 
 In the network connectivity space, understanding error rates is crucial for maintaining optimal performance and enhancing user experience. This article aims to explain two significant error rates: the Connection Error Rate and the WSS Error Rate. Both metrics will be prominently displayed on the new Connection Blockers page in the Microsoft 365 admin center under Network Connectivity.
 
