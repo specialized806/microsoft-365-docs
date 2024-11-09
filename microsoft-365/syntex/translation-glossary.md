@@ -25,11 +25,37 @@ For example, if your organization has a trademarked name that you don't want tra
 
 ## Create a glossary file
 
-Two common file formats for a glossary file are a simple CSV file or a more complicated XLF file. Other supported file formats include TSV and TAB. You need to create a separate glossary file for each language. The terms and phrases in the glossary are case-sensitive.
+Supported file formats for a glossary file include a simple CSV, TSV, or TAB file or a more complicated XLF file. You need to create a separate glossary file for each language. The terms and phrases in the glossary are case-sensitive.
+
+### Create a CSV, TSV, or TAB glossary file
+
+Follow these steps to create a glossary file as a CSV, TSV, or TAB file.
+
+1. Open a text editor or a spreadsheet application, such as Notepad or Microsoft Excel.
+
+2. Add the terms and phrases you want to use in your translation.
+
+    - In the first column of the worksheet, add the terms or phrases in the source language.
+    - In the second column, add the terms or phrases in the target language.
+
+    ```
+       Bank     Banque
+       Card     Carte
+       Crane    Grue
+       Office   Office
+       Tiger    Tiger
+       US       United States
+    ```
+
+3. Save the file as a CSV file (\*.csv), TSV file (\*.tsv), or a TAB file (*tab.).
+
+4. Upload the file to the appropriate SharePoint document library or OneDrive folder.
+
+<!---
 
 ### Create a CSV glossary file
 
-Follow these steps to create a glossary file as a CSV file.
+Follow these steps to create a glossary file as a CSV, TSV, or TAB file.
 
 1. Open a new workbook in a spreadsheet application, such as Microsoft Excel.
 <!---
@@ -38,7 +64,7 @@ Follow these steps to create a glossary file as a CSV file.
 
  Create a CSV file (or [other supported file format](/azure/ai-services/translator/document-translation/reference/get-supported-glossary-formats)) that contains all the terms and phrases you want to use in your translation.
 --->
-
+<!---
 2. Add the terms and phrases you want to use in your translation.
 
     - In the first column of the worksheet, add the terms or phrases in the source language.
@@ -122,6 +148,8 @@ ipson ccccccc
 3. Save the file as a TSV file (\*.tsv) or a TAB file (*tab.).
 
 4. Upload the file to the appropriate SharePoint document library or OneDrive folder.
+
+--->
 
 ### Create an XLF glossary file
 
