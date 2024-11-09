@@ -31,7 +31,7 @@ Two common file formats for a glossary file are a simple CSV file or a more comp
 
 Follow these steps to create a glossary file as a CSV file.
 
-1. Open a new workbook in Microsoft Excel.
+1. Open a new workbook in a spreadsheet application, such as Microsoft Excel.
 <!---
 2. Add a column heading for each piece of information you want to record (for example, first name, last name, email address, phone number, and birthday), and then type the information in the appropriate columns.
 
@@ -47,6 +47,48 @@ Follow these steps to create a glossary file as a CSV file.
     ![Screenshot of a spreadsheet showing two columns with example source terms and target terms.](../media/content-understanding/translation-glossary-format-example.png)
 
 3. Save the file as a CSV file (*.csv).
+
+4. Upload the file to the appropriate SharePoint document library or OneDrive folder.
+
+### Create a TSV or TAB glossary file
+
+In a TSV or TAB file, each row of data is represented as a line of text, and columns within each row are separated by tab characters. Follow these steps to create a glossary file as a TSV or TAB file.
+
+1. Open a text editor or a spreadsheet application.
+
+2. Add the terms and phrases you want to use in your translation.
+
+    - In the first column of the worksheet, add the terms or phrases in the source language.
+    - In the second column, add the terms or phrases in the target language.
+    - Use a tab to separate the terms source column from the terms in the target column.
+
+```json
+    {
+        "aggregator": {
+            "batchSize": 1000,
+            "flushTimeout": "00:00:30"
+        }
+    }
+    ```
+
+```tsv
+   Bank     Banque
+   Card     Carte
+   Crane    Grue
+   Office   Office
+   Tiger    Tiger
+   US       United States
+```
+
+<code class="lang-tsv">   Bank     Banque
+   Card     Carte
+   Crane    Grue
+   Office   Office
+   Tiger    Tiger
+   US       United States
+</code>
+
+3. Save the file as a TSV file (\*.tsv) or a TAB file (*tab.).
 
 4. Upload the file to the appropriate SharePoint document library or OneDrive folder.
 
