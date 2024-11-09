@@ -119,15 +119,6 @@ ipson ccccccc
    US       United States
 ```
 
-```json
-    {
-        "aggregator": {
-            "batchSize": 1000,
-            "flushTimeout": "00:00:30"
-        }
-    }
-    ```
-
 ```tsv
    Bank     Banque
    Card     Carte
