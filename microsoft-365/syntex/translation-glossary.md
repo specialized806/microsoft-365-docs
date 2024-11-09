@@ -14,7 +14,7 @@ ms.collection:
     - enabler-strategic
     - m365initiative-syntex
 ms.localizationpriority:  medium
-description: Learn how to create, upload, and use a glossary file for document translation in Microsoft Syntex.
+description: Learn how to create, use, update, share, and link to a glossary file for document translation.
 ---
 
 # Create and use a custom glossary for document translation in Microsoft Syntex
@@ -25,7 +25,7 @@ For example, if your organization has a trademarked name that you don't want tra
 
 ## Create a glossary file
 
-Supported file formats for a glossary file include a simple CSV, TSV, or TAB file or a more complicated XLF file. You need to create a separate glossary file for each language. The terms and phrases in the glossary file are case-sensitive.
+Supported file formats for a glossary file include a simple [CSV, TSV, or TAB file](#create-a-csv-tsv-or-tab-glossary-file) or a more complicated [XLF file](#create-an-xlf-glossary-file). You need to create a separate glossary file for each language. The terms and phrases in the glossary file are case-sensitive.
 
 ### Create a CSV, TSV, or TAB glossary file
 
