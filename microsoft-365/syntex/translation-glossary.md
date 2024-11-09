@@ -62,6 +62,27 @@ In a TSV or TAB file, each row of data is represented as a line of text, and col
     - In the second column, add the terms or phrases in the target language.
     - Use a tab to separate the terms source column from the terms in the target column.
 
+
+    ```tsv
+       Bank     Banque
+       Card     Carte
+       Crane    Grue
+       Office   Office
+       Tiger    Tiger
+       US       United States
+        ```
+
+ipson ccccccc
+
+```tsv
+   Bank     Banque
+   Card     Carte
+   Crane    Grue
+   Office   Office
+   Tiger    Tiger
+   US       United States
+```
+
 ```json
     {
         "aggregator": {
