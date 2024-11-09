@@ -25,7 +25,7 @@ For example, if your organization has a trademarked name that you don't want tra
 
 ## Create a glossary file
 
-Supported file formats for a glossary file include a simple CSV, TSV, or TAB file or a more complicated XLF file. You need to create a separate glossary file for each language. The terms and phrases in the glossary are case-sensitive.
+Supported file formats for a glossary file include a simple CSV, TSV, or TAB file or a more complicated XLF file. You need to create a separate glossary file for each language. The terms and phrases in the glossary file are case-sensitive.
 
 ### Create a CSV, TSV, or TAB glossary file
 
