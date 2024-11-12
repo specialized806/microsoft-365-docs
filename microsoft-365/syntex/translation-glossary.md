@@ -38,7 +38,7 @@ Follow these steps to create a glossary file as a CSV, TSV, or TAB file.
     - In the first column of the worksheet, add the terms or phrases in the source language.
     - In the second column, add the terms or phrases in the target language.
 
-    ```
+    ```tsv
        Bank     Banque
        Card     Carte
        Crane    Grue
@@ -47,7 +47,7 @@ Follow these steps to create a glossary file as a CSV, TSV, or TAB file.
        US       United States
     ```
 
-3. Save the file as a CSV file (\*.csv), TSV file (\*.tsv), or TAB file (*.tab).
+3. Save the file as a TSV file (\*.tsv) or TAB file (\*.tab). If the content is comma (,) separated, save it as CSV file (\*.csv).
 
 4. Upload the file to the appropriate SharePoint document library or OneDrive folder.
 
