@@ -47,7 +47,7 @@ Follow these steps to create a glossary file as a CSV, TSV, or TAB file.
        US       United States
     ```
 
-3. Save the file as a TSV file (\*.tsv) or TAB file (\*.tab). If the content is comma (,) separated, save it as CSV file (\*.csv).
+3. Save the file as a TSV file (\*.tsv) or a TAB file (\*.tab). If the content is comma (,) separated, save it as a CSV file (\*.csv).
 
 4. Upload the file to the appropriate SharePoint document library or OneDrive folder.
 
