@@ -42,7 +42,9 @@ Understanding and monitoring the Connection Error Rate is vital for several reas
 The Connection Error Rate is calculated using the formula:
 
 - Connection Error Rate (%) = (Number of Failed Connections / Total Connection Attempts) x 100
+
 For instance, if there are 50 failed connections out of 1000 attempts, the connection error rate would be:
+
 - (50 / 1000) x 100 = 5%
 
 ### Common Causes and Mitigations for High Connection Error Rate
@@ -50,12 +52,12 @@ For instance, if there are 50 failed connections out of 1000 attempts, the conne
 Various factors can contribute to a high connection error rate, including:
 
 - **DNS Issues**: Problems with domain name resolution can prevent successful connections. Ensure DNS resolvers are correctly configured to resolve names required for Microsoft 365 services as described in [Microsoft 365 URLs and IP address ranges](https://aka.ms/m365endpoints). 
-- **Proxy Restrictions**: Incorrectly configured web proxies can block traffic to specific domains. Ensure web proxies are configured to allow connections to required domains for Microsoft 365 like `*.cloud.microsoft`, `*.static.microsoft`, `*.usercontent.microsoft`. Refer to [Microsoft 365 URLs and IP address ranges](https://aka.ms/m365endpoints) for the complete list. 
+- **Proxy Restrictions**: Incorrectly configured web proxies can block traffic to specific domains. Ensure web proxies are configured to allow connections to required domains for Microsoft 365 like `*.cloud.microsoft`, `*.static.microsoft`, and `*.usercontent.microsoft`. Refer to [Microsoft 365 URLs and IP address ranges](https://aka.ms/m365endpoints) for the complete list. 
 - **Incorrect categorization of domain**: if the domain is incorrectly categorized, it can block legitimate traffic. Ensure domains and subdomains in `*.cloud.microsoft`, `*.static.microsoft`, and `*.usercontent.microsoft` are correctly categorized to avoid legitimate traffic being blocked.
 
 ## WSS Error Rate
 
-The WSS (WebSocket Secure) Error Rate refers to the percentage of failed attempts to upgrade a connection to a WebSocket, a protocol that provides full-duplex communication channels over a single TCP connection. This metric is essential for applications relying on real-time data transmission, for example: Microsoft 365 Copilot. 
+The WSS (WebSocket Secure) Error Rate refers to the percentage of failed attempts to upgrade a connection to a WebSocket, a protocol that provides full-duplex communication channels over a single TCP connection. This metric is essential for applications relying on real-time data transmission; for example, Microsoft 365 Copilot. 
 
 Monitoring the WSS Error Rate is crucial for:
 
