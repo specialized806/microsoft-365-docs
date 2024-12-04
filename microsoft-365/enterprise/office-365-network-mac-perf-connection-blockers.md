@@ -17,9 +17,8 @@ ms.collection:
 ms.custom: QuickDraft
 ms.reviewer: roshanp  
 search.appverid: MET150  
-f1.keywords:  
-audience:  
-ai-usage: ai-assisted  
+f1.keywords: 
+audience: 
 ---  
 
 # Microsoft 365 Connection Blockers in the Microsoft 365 admin center
