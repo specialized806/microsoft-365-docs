@@ -49,8 +49,8 @@ For instance, if there are 50 failed connections out of 1000 attempts, the conne
 
 Various factors can contribute to a high connection error rate, including:
 
-- **DNS Issues**: Problems with domain name resolution can prevent successful connections. Ensure DNS resolvers are correctly configured to resolve names required for Microsoft 365 services https://aka.ms/m365endpoints 
-- **Proxy Restrictions**: Incorrectly configured web proxies can block traffic to specific domains. Ensure web proxies are configured to allow connections to required domains for Microsoft 365 like `*.cloud.microsoft`, `*.static.microsoft`, `*.usercontent.microsoft`, please refer to https://aka.ms/m365endpoints for the complete list. 
+- **DNS Issues**: Problems with domain name resolution can prevent successful connections. Ensure DNS resolvers are correctly configured to resolve names required for Microsoft 365 services as described in [Microsoft 365 URLs and IP address ranges](https://aka.ms/m365endpoints). 
+- **Proxy Restrictions**: Incorrectly configured web proxies can block traffic to specific domains. Ensure web proxies are configured to allow connections to required domains for Microsoft 365 like `*.cloud.microsoft`, `*.static.microsoft`, `*.usercontent.microsoft`. Refer to [Microsoft 365 URLs and IP address ranges](https://aka.ms/m365endpoints) for the complete list. 
 - **Incorrect categorization of domain**: if the domain is incorrectly categorized, it can block legitimate traffic. Ensure domains and subdomains in `*.cloud.microsoft`, `*.static.microsoft`, and `*.usercontent.microsoft` are correctly categorized to avoid legitimate traffic being blocked.
 
 ## WSS Error Rate
@@ -71,7 +71,7 @@ For example, if there are 30 failed WebSocket upgrades out of 600 attempts, the 
 - (30 / 600) x 100 = 5%
 Common Causes and Mitigations for High WSS Error Rate
 - Web proxy restrictions: web proxies blocking Websocket upgrades can cause upgrade failures, configure web proxies to allow protocol upgrade to websockets
-- Sometimes web proxies might be configured to allow websocket upgrades to specific domains or subdomains. In this scenario you might want to configure the web proxy to allow websockets for subdomains in `*.cloud.microsoft`.
+- Sometimes web proxies might be configured to allow websocket upgrades to specific domains or subdomains. In this scenario, you might want to configure the web proxy to allow websockets for subdomains in `*.cloud.microsoft`.
 
 ## Using Connection Blockers Page in Microsoft 365 admin center
 
@@ -81,7 +81,7 @@ The new Connection Blockers page in the Microsoft 365 admin center under Network
 
 To access the Connection Blockers page:
 
-- Log in to the Microsoft 365 admin center.
+- Sign in to the Microsoft 365 admin center.
 - Navigate to the **Network Connectivity** section under **Health**
 - Select **Connection Blockers** from the menu.
 
