@@ -33,8 +33,8 @@ The Connection Error Rate represents the percentage of HTTPS connection attempts
 
 Understanding and monitoring the Connection Error Rate is vital for several reasons:
 
-- Network Reliability: A high connection error rate can signal potential problems in the network infrastructure, such as DNS resolution failures, or misconfigurations that result in connections being blocked.
-- User Experience: Frequent connection failures can lead to poor user experience, affecting productivity and satisfaction.
+- **Network Reliability**: A high connection error rate can signal potential problems in the network infrastructure, such as DNS resolution failures, or misconfigurations that result in connections being blocked.
+- **User Experience**: Frequent connection failures can lead to poor user experience, affecting productivity and satisfaction.
 
 ### Calculating Connection Error Rate
 
@@ -70,11 +70,13 @@ The WSS Error Rate is calculated similarly to the connection error rate:
 - WSS Error Rate (%) = (Number of Failed WebSocket Upgrades / Total WebSocket Upgrade Attempts) x 100
 For example, if there are 30 failed WebSocket upgrades out of 600 attempts, the WSS error rate would be:
 - (30 / 600) x 100 = 5%
-Common Causes and Mitigations for High WSS Error Rate
-- Web proxy restrictions: web proxies blocking Websocket upgrades can cause upgrade failures, configure web proxies to allow protocol upgrade to websockets
+
+### Common Causes and Mitigations for High WSS Error Rate
+
+- Web proxy restrictions: web proxies blocking websocket upgrades can cause upgrade failures, so configure web proxies to allow protocol upgrade to websockets.
 - Sometimes web proxies might be configured to allow websocket upgrades to specific domains or subdomains. In this scenario, you might want to configure the web proxy to allow websockets for subdomains in `*.cloud.microsoft`.
 
-## Using Connection Blockers Page in Microsoft 365 admin center
+## Using the Connection Blockers Page in the Microsoft 365 admin center
 
 The new Connection Blockers page in the Microsoft 365 admin center under Network Connectivity is designed to provide administrators with a comprehensive view of connection error rates and WSS error rates. This page allows for proactive monitoring and troubleshooting.
 
