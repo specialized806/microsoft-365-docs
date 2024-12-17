@@ -20,6 +20,7 @@ ms.custom:
 - AdminTemplateSet
 - admindeeplinkMAC                                           
 search.appverid: MET150
+robots: NOINDEX NOFOLLOW
 description: "Learn about cloud subscriptions and how to view them in the Microsoft 365 admin center."
 ms.date: 12/18/2024
 ---
