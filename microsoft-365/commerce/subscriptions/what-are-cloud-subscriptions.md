@@ -39,7 +39,7 @@ Cloud subscriptions are different from standard subscriptions in the following w
 
 You must be a Global or Billing Administrator to view your cloud subscriptions in the Microsoft 365 admin center. To manage your cloud subscriptions, you must have the Global Administrator role in the Azure portal.
 
-[!INCLUDE [ga-roles-limitation](../../../../../../GitHub/microsoft-365-docs-pr/microsoft-365/includes/ga-roles-limitation.md)]
+[!INCLUDE [ga-roles-limitation](../../includes/ga-roles-limitation.md)]
 
 ## Find your cloud subscription
 
