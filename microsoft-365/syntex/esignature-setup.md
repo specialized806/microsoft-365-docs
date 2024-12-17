@@ -43,15 +43,17 @@ You must be a [SharePoint Administrator](/entra/identity/role-based-access-contr
 
 1. In the Microsoft 365 admin center, select <a href="https://go.microsoft.com/fwlink/p/?linkid=2171997" target="_blank">**Setup**</a>.
 
-2. Under **Files and content**, select **Automate content processes with Syntex**.
+2. Under **Billing and licenses**, select **Activate pay-as-you-go services**.
 
-3. On the **Automate content processes with Syntex** page, select **Go to Syntex settings**.
+3. On the **Activate pay-as-you-go services** page, select **Get started**.
 
-4. On the Syntex page, in the **Document & image services** section, select **eSignature**.
+4. On the **Pay-as-you-go services** page, select the **Settings** tab, and then select **Syntex services**.
 
-5. On the **eSignature** panel, select **Let people in your organization use eSignature**.
+5. On the Syntex page, in the **Document & image services** section, select **eSignature**.
 
-6. Select **Save**.
+6. On the **eSignature** panel, select **Let people in your organization use eSignature**.
+
+7. Select **Save**.
 <!---
 5. For existing customers, read the [terms of service](/legal/microsoft-365/esignature-terms-of-service), and then select **Turn on** to enable the service.
 

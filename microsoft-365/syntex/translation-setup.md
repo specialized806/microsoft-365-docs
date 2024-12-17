@@ -43,13 +43,15 @@ By default, document translation is turned on for libraries in all SharePoint si
 
 1. In the Microsoft 365 admin center, select <a href="https://go.microsoft.com/fwlink/p/?linkid=2171997" target="_blank">**Setup**</a>.
 
-2. Under **Files and content**, select **Automate content processes with Syntex**.
+2. Under **Billing and licenses**, select **Activate pay-as-you-go services**.
 
-3. On the **Automate content processes with Syntex** page, select **Go to Syntex settings**.
+3. On the **Activate pay-as-you-go services** page, select **Get started**.
 
-4. On the Syntex page, in the **Document & image services** section, select **Document translation**.
+4. On the **Pay-as-you-go services** page, select the **Settings** tab, and then select **Syntex services**.
 
-5. On the **Document translation** panel:
+5. On the Syntex page, in the **Document & image services** section, select **Document translation**.
+
+6. On the **Document translation** panel:
 
     a. Choose the site or sites on which this service should be enabled.
 
