@@ -37,7 +37,7 @@ Cloud subscriptions are different from standard subscriptions in the following w
 
 ## Before you begin
 
-You must be a Global or Billing Administrator to view your cloud subscriptions in the Microsoft 365 admin center. To manage your cloud subscriptions, you must have the Global Administrator role in the Azure portal.
+You must be a Global or Billing Administrator to view your cloud subscriptions in the Microsoft 365 admin center. For more information, see [About admin roles in the Microsoft 365 admin center](../../admin/add-users/about-admin-roles.md). To manage your cloud subscriptions, you must have the Global Administrator role in the Azure portal.
 
 [!INCLUDE [ga-roles-limitation](../../includes/ga-roles-limitation.md)]
 
@@ -73,4 +73,4 @@ You can use cloud subscriptions to manage the products and services that you buy
 
 ## Related content
 
-[What is cloud subscription? (Azure)](/azure/cost-management-billing/manage/cloud-subscription) (article)
+[What is a cloud subscription? (Azure)](/azure/cost-management-billing/manage/cloud-subscription) (article)
