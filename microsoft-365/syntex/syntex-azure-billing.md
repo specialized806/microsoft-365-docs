@@ -56,7 +56,7 @@ To configure Microsoft Syntex billing, follow these steps:
 
 3. On the **Activate pay-as-you-go services** page, select **Get started**.
 
-4. On the **Pay-as-you-go services** page, select **Syntex services**.
+4. On the **Pay-as-you-go services** page, on the **Billing** tab, select **Syntex services**.
 
 5. On the **Set up billing and turn on services** panel, in the **Set up billing** section, under **Azure subscription**, select the dropdown, and then follow the steps to select the Azure subscription, resource group, and region. (The region determines where your tenant ID and usage information such as site names will be stored.)
 
