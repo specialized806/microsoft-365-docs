@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: jtremper
 ms.reviewer: ssathyamoort
-ms.date: 10/22/2024
+ms.date: 12/18/2024
 audience: admin
 ms.topic: conceptual
 ms.service: microsoft-syntex
@@ -22,7 +22,7 @@ description: Learn how to create a template with the SharePoint Agreements solut
 
 Templates serve as a predefined structure that standardizes the creation of documents and agreements. They ensure consistency and uniformity across various documents within the workspace, streamlining the creation process and reducing the likelihood of errors. Templates can include specific sections, formatting, and content guidelines that align with the organization's requirements and branding.
 
-Once you create and publish a template, users with access to the template can start [generating agreements](agreements-create-agreement.md) from it. Users will be asked to [input values for fields](#add-fields-to-a-template), and send it for approval or eSignature based on the [workflow configured](#configure-a-workflow) with the template.
+Once you create and publish a template, users with access to the template can start [generating agreements](agreements-create-agreement.md) from it. Users are asked to [input values for fields](#add-fields-to-a-template), and send it for approval or eSignature based on the [workflow configured](#configure-a-workflow) with the template.
 
 > [!NOTE]
 > You can always edit a published template. However, you need to republish the template for the changes to take effect. Documents will be created based of the last published version of the template.
@@ -33,9 +33,9 @@ Once you create and publish a template, users with access to the template can st
 
 2. Optionally, you can select **Pick a file** to create a template from an existing document.
 
-   - If you pick a file, the content of the file will be copied over to the template.
+   - If you pick a file, the content of the file is copied over to the template.
 
-   - If not, a blank template will be created for you.
+   - If not, a blank template is created for you.
 
 3. On the **Create a template** page, provide a name for the template, select the workspace where the template will be stored, and the category that the template belongs to. Set values for the country or region and the language for the template.
 
@@ -181,11 +181,11 @@ To set up a mandatory signature workflow, follow these steps:
    > [!NOTE]
    > You only need to insert the signature field locations in the template. During document generation, authors will have to assign signatory email addresses to the fields and send the PDF version of this document for signing.
 
-4. You can add multiple instances of the same signature field across the template and then navigate through its occurrences.
+4. You can add multiple instances of the same signature field throughout the template and then navigate through each occurrence.
 
-5. You can create multiple signature fields for your template and add its instances in the Word document.
+5. You can create multiple signature fields for your template and add their instances in the Word document.
 
-   ![A screenshot of setting up the signature field in a Word document.](../../media/content-understanding/agreements-set-up-signature-fields.png)
+   ![A screenshot of setting up the signature fields in a Word document.](../../media/content-understanding/agreements-set-up-signature-fields.png)
 
 6. Once set up, you can also choose to later modify the signature request before publishing the template.
 
