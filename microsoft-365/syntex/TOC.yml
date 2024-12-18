@@ -13,7 +13,7 @@
               href: syntex-azure-billing.md
             - name: Set up pay-as-you-go services
               href: set-up-microsoft-syntex.md
-            - name: Set up per-user licenses
+            - name: Assign per-user licenses
               href: set-up-content-understanding.md
             - name: Privacy, security, & compliance
               href: syntex-privacy-security.md
