@@ -168,7 +168,7 @@ To set up a mandatory approval workflow on a template, follow these steps:
 
 ### Configure a SharePoint eSignature workflow
 
-After creating or editing a template, you can set up a SharePoint eSignature flow. This ensures that every document generated from the template is automatically sent for signatures according to the specified flow. SharePoint Agreements AI uses SharePoint eSignature to set up and send signature requests to recipients. For more information, see [Overview of SharePoint eSignature](/microsoft-365/syntex/esignature-overview).
+After creating or editing a template, you can set up a SharePoint eSignature flow. This ensures that every document generated from the template is automatically sent for signatures according to the specified flow. SharePoint Agreements uses SharePoint eSignature to set up and send signature requests to recipients. For more information, see [Overview of SharePoint eSignature](/microsoft-365/syntex/esignature-overview).
 
 To set up a mandatory signature workflow, follow these steps:
 
@@ -185,7 +185,9 @@ To set up a mandatory signature workflow, follow these steps:
 
 5. You can create multiple signature fields for your template and add its instances in the Word document.
 
-6. Once set up, you can also choose to later modify the signature request. Once your modifications are complete, select **Save changes** to save the updated flow. You can delete the already saved signature flow by selecting **Delete signature flow**.
+   ![A screenshot of setting up the signature field in a Word document.](../../media/content-understanding/agreements-set-up-signature-fields.png)
+
+6. Once set up, you can also choose to later modify the signature request before publishing the template.
 
 ## Publish the template
 
