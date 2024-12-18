@@ -82,7 +82,7 @@ Template creators have the option to configure two workflows: approval and eSign
 > [!NOTE]
 > If the workflow is not configured with the template, you can still request approvals for documents generated from templates.
 
-## Request approvals
+### Request approvals
 
 After you fill in the fields, the next step is to send the document for approval.
 
@@ -104,11 +104,42 @@ For documents where mandatory approvals aren't configured, you can still choose 
 
 The document is set as read-only, and the document will be shared with the approver.
 
-<!---
-## Request eSignature
+### Request eSignature
 
-To be provided.
---->
+After making the necessary changes to the document, filling in the required field values, running the revision analysis to review all section modifications, and obtaining approval according to the workflow set at the template level, you can then send the generated agreement for eSignature.
+
+> [!NOTE]
+> The document can only be sent for eSignature if at least one eSignature field is configured at the template level.
+
+Agreements Solution leverages SharePoint eSignature solution to set up and send signature requests to recipients. For more information, see  Learn more: Overview of SharePoint eSignature - Microsoft Syntex | Microsoft Learn.
+
+To request eSignature for a document, follow these steps:
+
+1. With the Word document open and the **Agreements** > **Generate documents** pane open, select **Request signatures**.
+
+2. The document is now set to viewing mode to prevent further edits. If the document is already approved, then the document can be directly sent for eSignature as the document content is already locked for editing.
+
+> [!NOTE]
+> If you select **Edit document** from the pane at any time during or after the eSignature process, the document's state will be reset to Draft, and any pending eSignature requests will be canceled. You will need to request eSignature again with the modified document after making the relevant changes. This ensures that the document's integrity is maintained both during and after the eSignature process.
+
+3.	In the next pane, set the name of the signature request and assign the signatory email IDs (whether internal or external to the organization). Optionally, you can add more information about the request for the signers.
+
+   ![A screenshot of a Word document and the Generate documents panel to request signatures.](../../media/content-understanding/agreements-generate-documents-request-signatures.png)
+
+4.	After all the details are entered, select **Send**. The PDF version of the Word document is created and is sent for eSignature to the signatory email IDs.
+
+   ![A screenshot showing that the signature request has been sent.](../../media/content-understanding/agreements-generate-documents-signature-request-sent.png)
+
+5.	Once the signature request is sent, you can track the request status (**Signature in progress**, **Signature completed**) through the Word pane by reloading the document management pane or selecting **Refresh**.
+
+   ![A screenshot of the Generate documents panel showing the request status.](../../media/content-understanding/agreements-generate-documents-signature-request-status.png)
+
+6.	You can also view the signature in progress and the final signed PDF document in SharePoint by selecting **Open PDF**.
+
+7.	You can cancel the sent signature request by selecting **Cancel request** or by selecting the **Edit** section. This will cancel all running flows, unlock the section for further edits, and return the document to the Draft state.
+
+   ![A screenshot showing that the Can signature request confirmation screen.](../../media/content-understanding/agreements-generate-documents-cancel-signature-request.png)
+
 
 <br>
 
