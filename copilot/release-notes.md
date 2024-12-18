@@ -1301,7 +1301,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 - **Visualize as table** [Web]  
   Easily turn plain text or lists into clear, organized tables for better readability and effortless data handling. <a href="https://support.microsoft.com/topic/923d9763-f896-4da7-8a3f-5b12c3bfc475" target="_blank">Learn more.</a>
 
-## [Android](#tab/android)
+## [Android](#tab/androidos)
 
 <!--- All features that have 'Android' tag  -->
 
@@ -1403,7 +1403,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 - **Summarize your Whiteboard sessions** [Windows, Web, Android, iOS]  
   Create summaries of your Whiteboard content, capturing key points from your collaborative work.
 
-## [iOS](#tab/ios)
+## [iOS](#tab/appleios)
 
 <!--- All features that have 'iOS' tag  -->
 
