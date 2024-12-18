@@ -31,9 +31,9 @@ A cloud subscription (also called an *Azure subscription*) is a way to manage th
 
 Cloud subscriptions are different from standard subscriptions in the following ways:
 
-- **No cost for cloud subscriptions.** A cloud subscription doesn’t cost any money. They're used to help you organize and manage the things that you buy. While individual products like calling features and perpetual software managed within a cloud subscription might incur charges, the subscription itself doesn't.
-- **Multiple subscriptions.** You can create multiple cloud subscriptions to delegate management to different users in your organization or to apply policies for security, budgeting, and compliance.
-- **Familiar management tools in the Azure portal.** If you use other Azure subscriptions, you can manage cloud subscriptions similarly, with more manageability for a broader set of products and services.
+- **No cost for cloud subscriptions**: A cloud subscription doesn’t cost any money. They're used to help you organize and manage the things that you buy. While individual products like calling features and perpetual software managed within a cloud subscription might incur charges, the subscription itself doesn't.
+- **Multiple subscriptions**: You can create multiple cloud subscriptions to delegate management to different users in your organization or to apply policies for security, budgeting, and compliance.
+- **Familiar management tools in the Azure portal**: If you use other Azure subscriptions, you can manage cloud subscriptions similarly, with more manageability for a broader set of products and services.
 
 ## Before you begin
 
