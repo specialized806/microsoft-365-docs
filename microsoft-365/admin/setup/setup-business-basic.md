@@ -131,7 +131,7 @@ Follow the steps below to set up Outlook, Teams, OneDrive and your website.
 
 ## Watch: Set up Outlook for email
 
-> [!VIDEO e30573c6-b0d5-4007-8ff6-8c9dfd4e39fe]]
+> [!VIDEO e30573c6-b0d5-4007-8ff6-8c9dfd4e39fe]
   
 More at [Set up Outlook for email](https://support.microsoft.com/office/f5bf0cd1-e1f3-4b0d-a022-ecab17efe86f).
   
