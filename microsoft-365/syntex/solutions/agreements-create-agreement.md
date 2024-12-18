@@ -124,21 +124,21 @@ To request eSignature for a document, follow these steps:
 
 3.	In the next pane, set the name of the signature request and assign the signatory email IDs (whether internal or external to the organization). Optionally, you can add more information about the request for the signers.
 
-   ![A screenshot of a Word document and the Generate documents panel to request signatures.](../../media/content-understanding/agreements-generate-documents-request-signatures.png)
+    ![A screenshot of a Word document and the Generate documents panel to request signatures.](../../media/content-understanding/agreements-generate-documents-request-signatures.png)
 
 4.	After all the details are entered, select **Send**. The PDF version of the Word document is created and is sent for eSignature to the signatory email IDs.
 
-   ![A screenshot showing that the signature request has been sent.](../../media/content-understanding/agreements-generate-documents-signature-request-sent.png)
+    ![A screenshot showing that the signature request has been sent.](../../media/content-understanding/agreements-generate-documents-signature-request-sent.png)
 
 5.	Once the signature request is sent, you can track its status (**Signature in progress**, **Signature completed**) through the Word pane by reloading the document management pane or selecting **Refresh**.
 
-   ![A screenshot of the Generate documents panel showing the request status.](../../media/content-understanding/agreements-generate-documents-signature-request-status.png)
+    ![A screenshot of the Generate documents panel showing the request status.](../../media/content-understanding/agreements-generate-documents-signature-request-status.png)
 
 6.	You can also view the signature in progress and view the final signed PDF document in SharePoint by selecting **Open PDF**.
 
 7.	You can cancel the sent signature request by selecting **Cancel request** or by selecting the **Edit** section. This will cancel all running flows, unlock the section for further edits, and return the document to the **Draft** state.
 
-   ![A screenshot showing that the Can signature request confirmation screen.](../../media/content-understanding/agreements-generate-documents-cancel-signature-request.png)
+    ![A screenshot showing that the Can signature request confirmation screen.](../../media/content-understanding/agreements-generate-documents-cancel-signature-request.png)
 
 
 <br>
