@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: jtremper
 ms.reviewer: ssathyamoort
-ms.date: 10/22/2024
+ms.date: 12/19/2024
 audience: admin
 ms.topic: conceptual
 ms.service: microsoft-syntex
@@ -130,13 +130,13 @@ To request eSignature for a document, follow these steps:
 
     ![A screenshot showing that the signature request has been sent.](../../media/content-understanding/agreements-generate-documents-signature-request-sent.png)
 
-5.	Once the signature request is sent, you can track its status (**Signature in progress**, **Signature completed**) through the Word pane by reloading the document management pane or selecting **Refresh**.
+5.	Once the signature request is sent, you can track its status (**Signature in progress**, **Signature completed**) through the Word pane by reloading the document management pane or by  selecting **Refresh**.
 
     ![A screenshot of the Generate documents panel showing the request status.](../../media/content-understanding/agreements-generate-documents-signature-request-status.png)
 
-6.	You can also view the signature in progress and view the final signed PDF document in SharePoint by selecting **Open PDF**.
+6.	You can view the signature in progress and view the final signed PDF document in SharePoint by selecting **Open PDF**.
 
-7.	You can cancel the sent signature request by selecting **Cancel request** or by selecting the **Edit** section. This will cancel all running flows, unlock the section for further edits, and return the document to the **Draft** state.
+7.	If you want to cancel the sent signature request, select **Cancel request** or select the **Edit** section. This will cancel all running flows, unlock the section for further edits, and return the document to the **Draft** state.
 
     ![A screenshot showing that the Can signature request confirmation screen.](../../media/content-understanding/agreements-generate-documents-cancel-signature-request.png)
 
