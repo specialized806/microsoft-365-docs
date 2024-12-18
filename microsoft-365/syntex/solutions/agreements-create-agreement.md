@@ -119,8 +119,8 @@ To request eSignature for a document, follow these steps:
 
 2. The document is now in viewing mode to prevent further edits. If the document is already approved, it can be directly sent for eSignature since the content is already locked for editing.
 
-> [!NOTE]
-> If you select **Edit document** from the pane at any time during or after the eSignature process, the document's state will be reset to **Draft**, and any pending signature requests will be canceled. You will need to request eSignature again with the modified document after making the relevant changes. This ensures that the document's integrity is maintained both during and after the eSignature process.
+    > [!NOTE]
+    > If you select **Edit document** from the pane at any time during or after the eSignature process, the document's state will be reset to **Draft**, and any pending signature requests will be canceled. You will need to request eSignature again with the modified document after making the relevant changes. This ensures that the document's integrity is maintained both during and after the eSignature process.
 
 3.	In the next pane, set the name of the signature request and assign the signatory email IDs (whether internal or external to the organization). Optionally, you can add more information about the request for the signers.
 
