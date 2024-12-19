@@ -77,7 +77,7 @@ To create an agreement from Microsoft Word, follow these steps:
 
 ## Send the agreement for workflow
 
-Template creators have the option to configure two workflows: [approval](#request-approvals) and [eSignature](#request-esignature). Any agreement generated from such a template needs to go through the workflow stages configured at the template level.
+Template creators have the option to configure two workflows: [request approvals](#request-approvals) and [request signatures](#request-signatures). Any agreement generated from such a template needs to go through the workflow stages configured at the template level.
 
 > [!NOTE]
 > If the workflow is not configured with the template, you can still request approvals for documents generated from templates.
@@ -104,7 +104,7 @@ For documents where mandatory approvals aren't configured, you can still choose 
 
 The document is set as read-only, and the document will be shared with the approver.
 
-### Request eSignature
+### Request signatures
 
 After making the necessary changes to the document, filling in the required field values, running the revision analysis to review all section modifications, and obtaining approval according to the workflow set at the template level, you can then send the generated agreement for electronic signatures.
 
@@ -115,7 +115,7 @@ SharePoint Agreements uses SharePoint eSignature to set up and send signature re
 
 To request eSignature for a document, follow these steps:
 
-1. With the Word document open and the **Agreements** > **Generate documents** pane open, select **Request signatures**.
+1. With the agreement open in Microsoft Word, on the **Generate documents** panel, select **Request signatures**.
 
 2. The document is now in viewing mode to prevent further edits. If the document is already approved, it can be directly sent for eSignature since the content is already locked for editing.
 
