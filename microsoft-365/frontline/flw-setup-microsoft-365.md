@@ -28,7 +28,7 @@ To set up Microsoft 365 for frontline workers, follow this overall process:
 1. **[Set up your environment and core Microsoft 365](#set-up-your-environment-and-core-microsoft-365)**: You can use the deployment guides in the Microsoft 365 admin center to help you set up Microsoft 365. Keep reading to learn how to access these guides.
 1. **[Provision users, configure groups, and assign licenses](#provision-users-configure-groups-and-assign-licenses)**: Provision users and create groups in Microsoft Entra ID, then assign frontline licenses to your users.
 1. **[Set up and configure devices](#set-up-and-configure-devices)**: Set up shared and personal devices to work with Microsoft 365 and Microsoft Teams and to allow your frontline workers to communicate more securely within your organization.
-1. **[Deploy your frontline teams](#set-up-and-configure-devices)**:
+1. **[Deploy Teams](#deploy-your-frontline-teams)**:
 1. **[Set up any other services needed for your scenario](#set-up-other-services)**: Set up services including Exchange, Outlook, SharePoint, and Microsoft Viva.
 1. **[Configure apps](#configure-apps-for-your-scenario)**: After everything is set up and configured in the admin center, you can follow the guidance for your scenarios to further configure the apps you need for each scenario.
 
@@ -40,14 +40,15 @@ The following table lists the scenarios for your frontline workers. You can read
 
 | Scenario | Required services |
 |  ------- | -------  |
-| [Team communication and collaboration](flw-team-collaboration.md) | [Microsoft Teams](#set-up-microsoft-teams) <br>[Email with Exchange Online](#set-up-email-with-exchange-online) |
-| [Corporate communications](flw-corp-comms.md) | [Microsoft Teams](#set-up-microsoft-teams) <br>[SharePoint](#set-up-sites-with-sharepoint-in-microsoft-365) <br>[Viva Connections](#set-up-viva-connections) <br>[Viva Engage](#set-up-your-organizations-social-network-with-viva-engage) |
-| [Virtual Appointments](virtual-appointments.md) | [Microsoft Teams](#set-up-microsoft-teams) |
-| [Engage your employees and focus on employee wellbeing](flw-wellbeing-engagement.md)| [Microsoft Teams](#set-up-microsoft-teams) <br>[SharePoint](#set-up-sites-with-sharepoint-in-microsoft-365) <br>[Viva Connections](#set-up-viva-connections) <br>[Viva Engage](#set-up-your-organizations-social-network-with-viva-engage) |
-| [Manage your team schedules with Shifts](shifts-for-teams-landing-page.md) | [Microsoft Teams](#set-up-microsoft-teams) |
-| [Onboard new employees](/sharepoint/onboard-employees)| [Microsoft Teams](#set-up-microsoft-teams) <br>[SharePoint](#set-up-sites-with-sharepoint-in-microsoft-365) <br>[Viva Connections](#set-up-viva-connections) <br>[Viva Learning](#set-up-viva-learning)|
-| [Ongoing training](flw-onboarding-training.md) | [Microsoft Teams](#set-up-microsoft-teams) <br>[Viva Learning](#set-up-viva-learning) |
-| [Simplify business processes](simplify-business-processes.md) | [Microsoft Teams](#set-up-microsoft-teams) <br>[Power Apps, Power Automate, and Power BI](#set-up-power-apps-power-automate-and-power-bi) |
+| [Team communication and collaboration](flw-team-collaboration.md) | [Microsoft Teams](#deploy-your-frontline-teams) <br>[Email with Exchange Online](#set-up-email-with-exchange-online) |
+| [Targeted communications](set-up-targeted-communications.md) | [Microsoft Teams](#deploy-your-frontline-teams) <br>[Viva Connections](#set-up-viva-connections)|
+| [Corporate communications](flw-corp-comms.md) | [Microsoft Teams](#deploy-your-frontline-teams) <br>[SharePoint](#set-up-sites-with-sharepoint-in-microsoft-365) <br>[Viva Connections](#set-up-viva-connections) <br>[Viva Engage](#set-up-your-organizations-social-network-with-viva-engage) |
+| [Schedule management](shifts-for-teams-landing-page.md) | [Microsoft Teams](#deploy-your-frontline-teams) |
+| [Virtual Appointments](virtual-appointments.md) | [Microsoft Teams](#deploy-your-frontline-teams) |
+| [Engage your employees and focus on employee wellbeing](flw-wellbeing-engagement.md)| [Microsoft Teams](#deploy-your-frontline-teams) <br>[SharePoint](#set-up-sites-with-sharepoint-in-microsoft-365) <br>[Viva Connections](#set-up-viva-connections) <br>[Viva Engage](#set-up-your-organizations-social-network-with-viva-engage) |
+| [Onboard new employees](/sharepoint/onboard-employees)| [Microsoft Teams](#deploy-your-frontline-teams) <br>[SharePoint](#set-up-sites-with-sharepoint-in-microsoft-365) <br>[Viva Connections](#set-up-viva-connections) <br>[Viva Learning](#set-up-viva-learning)|
+| [Ongoing training](flw-onboarding-training.md) | [Microsoft Teams](#deploy-your-frontline-teams) <br>[Viva Learning](#set-up-viva-learning) |
+| [Simplify business processes](simplify-business-processes.md) | [Microsoft Teams](#deploy-your-frontline-teams) <br>[Power Apps, Power Automate, and Power BI](#set-up-power-apps-power-automate-and-power-bi) |
 
 Some services are only included with F3 licenses, such as email and the Power Platform. Check out [Understand frontline worker user types and licensing](flw-licensing-options.md) to determine the type of licenses you need for your users.
 
@@ -127,9 +128,15 @@ Managing the devices that frontline workers use is a key fundamental. It's impor
 - [Overview of device management for frontline workers](flw-devices.md)
 - [Manage shared devices for frontline workers](flw-shared-devices.md)
 
-## Deploy your frontline teams in Teams
+## Deploy your frontline teams
 
-To learn more, see [Learn where to start with a frontline deployment](flw-deploy-overview.md).
+When deploying Teams to your frontline workforce, you have different options for how you can manage team membership. You can choose between dynamic team membership, static team membership, or a combination of both.
+
+To learn more, see the following guidance:
+
+- [Learn where to start with a frontline deployment](flw-deploy-overview.md)
+- [Deploy frontline dynamic teams at scale](deploy-dynamic-teams-at-scale.md)
+- [Deploy frontline static teams at scale with PowerShell for frontline workers](deploy-teams-at-scale.md)
 
 ## Set up other services
 
