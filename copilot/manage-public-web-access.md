@@ -13,7 +13,7 @@ ms.collection:
 - m365copilot
 - magic-ai-copilot
 hideEdit: true
-ms.date: 12/13/2024
+ms.date: 12/19/2024
 ---
 
 # Data, privacy, and security for web search in Microsoft 365 Copilot and Microsoft Copilot
@@ -87,7 +87,7 @@ The following table provides multiple examples of a user's prompt and the genera
 
 Microsoft 365 Copilot and Microsoft Copilot both use generated search queries sent to the Bing search service to ground responses in web data. The way Microsoft handles these queries is identical in both services.
 
-Generated search queries sent to the Bing search service have the user and tenant identifiers removed. They aren't shared with advertisers. Also, web search queries sent to Bing don't affect any of the following:
+Generated search queries sent to the Bing search service have the user and tenant identifiers removed. The queries aren't shared with advertisers and aren’t used to train foundation large language models (LLMs). Also, web search queries sent to Bing don't affect any of the following:
 
 - Search Ranking
 - Answers or features like Rich Captions
