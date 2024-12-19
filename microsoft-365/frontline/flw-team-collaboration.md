@@ -55,7 +55,7 @@ Retail employees can use Teams to keep in touch and better serve customers. Diff
 
 #### Healthcare
 
-Healthcare workers in a hospital use Teams capabilities to coordinate care. Everyone in the office is part of a general chat, and each group of workers (doctors, nurses, receptionists, and other staff) can have their own channel where they can ask questions and communicate. Staff in different departments uses Teams meetings and calls to keep up to date without having to leave their stations. When multiple staff are attending to one patient, they share notes and care plans over Teams. Staff who work with instruments and machinery, such as medical instrument technicians, can share fact and care sheets about equipment.
+Healthcare workers in a hospital use Teams capabilities to coordinate care. Everyone in the office is part of a general chat, and each group of workers (doctors, nurses, receptionists, and other staff) can have their own channel where they can ask questions and communicate. Staff in different departments uses Teams meetings and calls to keep up to date without having to leave their stations. When multiple staff members are attending to one patient, they share notes and care plans over Teams. Staff who work with instruments and machinery, such as medical instrument technicians, can share fact and care sheets about equipment.
 
 #### Financial services
 
@@ -69,7 +69,7 @@ Manufacturing workers can use Teams to communicate and coordinate production wit
 
 Your team can use apps in Teams to coordinate and collaborate with each other on everyday tasks, such as the following:
 
-- [Create, manage, and share schedules with Shifts](#create-manage-and-share-schedules-with-shifts)
+- [Create, manage, and publish schedules with Shifts](#create-manage-and-publish-schedules-with-shifts)
 - [Keep in touch with Walkie Talkie](#keep-in-touch-with-walkie-talkie)
 - [Boost morale with Praise](#boost-morale-with-praise)
 - [Track and monitor work with Planner](#track-and-monitor-work-with-planner)
@@ -84,13 +84,13 @@ You manage apps for your organization in the Teams admin center. To learn more, 
 
 Your users can add any apps that you have allowed to their teams. Share this training with your users to show them how: [Find and use apps](https://support.microsoft.com/office/find-and-use-apps-6e22a734-c002-4da0-ba63-681f155b142d).
 
-### Create, manage, and share schedules with Shifts
+### Create, manage, and publish schedules with Shifts
 
 Use Shifts to seamlessly manage and share schedules. Managers can create custom groups such as cashiers, nurses, or mortgage specialists, assign shifts to employees, add breaks, and add open shifts that employees can request to take. Employees can use Shifts to set their availability, view their schedules, swap shifts with coworkers, clock in and out, and more. For example, a volunteer coordinator at a nonprofit could create open shifts that volunteers can request to take.
 
-Learn how to [manage Shifts for your organization](/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams?bc=/microsoft-365/frontline/breadcrumb/toc.json&toc=/microsoft-365/frontline/toc.json).
+Learn how to [deploy and manage Shifts in your organization](shifts-for-teams-landing-page.md).
 
-Share this [Shifts video training](https://support.microsoft.com/office/what-is-shifts-f8efe6e4-ddb3-4d23-b81b-bb812296b821) with your users.
+Share the [Shifts help documentation](https://support.microsoft.com/office/get-started-in-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6) with your users.
 
 ### Keep in touch with Walkie Talkie
 
