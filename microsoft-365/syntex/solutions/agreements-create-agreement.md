@@ -122,11 +122,11 @@ To request eSignature for a document, follow these steps:
     > [!NOTE]
     > If you select **Edit document** from the pane at any time during or after the eSignature process, the document's state will be reset to **Draft**, and any pending signature requests will be canceled. You will need to request eSignature again with the modified document after making the relevant changes. This ensures that the document's integrity is maintained both during and after the eSignature process.
 
-3. In the next pane, set the name of the signature request and assign the signatory email IDs (whether internal or external to the organization). Optionally, you can add more information about the request for the signers.
+3. Enter the name for the signature request, and then enter the requested signers' names or email addresses (whether internal or external to the organization). Optionally, you can add more information about the request for the signers.
 
     ![A screenshot of a Word document and the Generate documents panel to request signatures.](../../media/content-understanding/agreements-generate-documents-request-signatures.png)
 
-4. After all the details are entered, select **Send**. The PDF version of the Word document is created and is sent for eSignature to the signatory email IDs.
+4. After all the details are entered, select **Send**. The PDF version of the Word document is created and is sent for signature to the names and email addresses you entered.
 
     ![A screenshot showing that the signature request has been sent.](../../media/content-understanding/agreements-generate-documents-signature-request-sent.png)
 
