@@ -24,7 +24,7 @@ ms.date: 04/04/2023
 
 To set up Microsoft 365 for frontline workers, follow this overall process:
 
-1. **[Identify your scenarios](#identify-your-scenarios)**: Which scenarios do you want to implement for your frontline workers? After you determine which scenarios you want, use the following table to identify the required apps and services for each scenario that you want to implement.
+1. **[Identify your scenarios](#identify-your-scenarios)**: Which scenarios do you want to implement for your frontline workers? After you determine which scenarios you want, use the following table to identify the apps and services for each scenario that you want to implement.
 1. **[Set up your environment and core Microsoft 365](#set-up-your-environment-and-core-microsoft-365)**: You can use the deployment guides in the Microsoft 365 admin center to help you set up Microsoft 365. Keep reading to learn how to access these guides.
 1. **[Provision users, configure groups, and assign licenses](#provision-users-configure-groups-and-assign-licenses)**: Provision users and create groups in Microsoft Entra ID, then assign frontline licenses to your users.
 1. **[Set up and configure devices](#set-up-and-configure-devices)**: Set up shared and personal devices to work with Microsoft 365 and Microsoft Teams and to allow your frontline workers to communicate more securely within your organization.
@@ -36,9 +36,9 @@ To set up Microsoft 365 for frontline workers, follow this overall process:
 
 ## Identify your scenarios
 
-The following table lists the scenarios for your frontline workers. You can read a summary of each scenario in [choose your scenarios](flw-choose-scenarios.md), and find out exactly what you need to configure by following the links to each scenario and to each app or service that's required.
+The following table lists the scenarios for your frontline workers. You can read a summary of each scenario in [choose your scenarios](flw-choose-scenarios.md), and find out what you need to configure by following the links to each scenario and to each app or service that's required.
 
-| Scenario | Required services |
+| Scenario | Services |
 |  ------- | -------  |
 | [Team communication and collaboration](flw-team-collaboration.md) | [Microsoft Teams](#deploy-your-frontline-teams) <br>[Email with Exchange Online](#set-up-email-with-exchange-online) |
 | [Targeted communications](set-up-targeted-communications.md) | [Microsoft Teams](#deploy-your-frontline-teams) <br>[Viva Connections](#set-up-viva-connections)|
