@@ -11,10 +11,10 @@
               href: syntex-pay-as-you-go-services.md
             - name: Set up pay-as-you-go billing
               href: syntex-azure-billing.md
-            - name: Set up per-user licenses
-              href: set-up-content-understanding.md
-            - name: Set up Microsoft Syntex
+            - name: Set up pay-as-you-go services
               href: set-up-microsoft-syntex.md
+            - name: Assign per-user licenses
+              href: set-up-content-understanding.md
             - name: Privacy, security, & compliance
               href: syntex-privacy-security.md
             - name: Set up a content center 
@@ -135,8 +135,6 @@
                   href: accessibility-mode.md
                 - name: Rename an extractor
                   href: rename-an-extractor.md
-            - name: Duplicate a model
-              href: duplicate-a-model.md
             - name: Manage your model
               items:
                 - name: Apply a model
@@ -153,6 +151,8 @@
                   href: rename-a-model.md
                 - name: Delete a model
                   href: delete-a-model.md
+                - name: Duplicate a model
+                  href: duplicate-a-model.md
                 - name: Manage library settings 
                   href: manage-library-settings.md
                 - name: Choose a library view 
