@@ -24,42 +24,42 @@ ms.date: 04/04/2023
 
 To set up Microsoft 365 for frontline workers, follow this overall process:
 
-1. **[Identify your scenarios](#identify-your-scenarios)**: Which scenarios do you want to implement for your frontline workers? After you determine which scenarios you want, use the following table to identify the apps and services for each scenario that you want to implement.
-1. **[Set up your environment and core Microsoft 365](#set-up-your-environment-and-core-microsoft-365)**: You can use the deployment guides in the Microsoft 365 admin center to help you set up Microsoft 365. Keep reading to learn how to access these guides.
-1. **[Provision users, configure groups, and assign licenses](#provision-users-configure-groups-and-assign-licenses)**: Provision users and create groups in Microsoft Entra ID, then assign frontline licenses to your users.
-1. **[Set up and configure devices](#set-up-and-configure-devices)**: Set up shared and personal devices to work with Microsoft 365 and Microsoft Teams and to allow your frontline workers to communicate more securely within your organization.
-1. **[Deploy Teams](#deploy-your-frontline-teams)**:
-1. **[Set up any other services needed for your scenario](#set-up-other-services)**: Set up services including Exchange, Outlook, SharePoint, and Microsoft Viva.
-1. **[Configure apps](#configure-apps-for-your-scenario)**: After everything is set up and configured in the admin center, you can follow the guidance for your scenarios to further configure the apps you need for each scenario.
+1. **[Identify your scenarios](#step-1-identify-your-scenarios)**: Which scenarios do you want to implement for your frontline workers? After you determine which scenarios you want, use the following table to identify the apps and services for each scenario that you want to implement.
+1. **[Set up your environment and core Microsoft 365](#step-2-set-up-your-environment-and-core-microsoft-365)**: You can use the deployment guides in the Microsoft 365 admin center to help you set up Microsoft 365. Keep reading to learn how to access these guides.
+1. **[Provision users, configure groups, and assign licenses](#step-3-provision-users-configure-groups-and-assign-licenses)**: Provision users and create groups in Microsoft Entra ID, then assign frontline licenses to your users.
+1. **[Set up and configure devices](#step-4-set-up-and-configure-devices)**: Set up shared and personal devices to work with Microsoft 365 and Microsoft Teams and to allow your frontline workers to communicate more securely within your organization.
+1. **[Deploy Teams](#step-5-deploy-your-frontline-teams)**:
+1. **[Set up any other services needed for your scenario](#step-6-set-up-other-services)**: Set up services including Exchange, Outlook, SharePoint, and Microsoft Viva.
+1. **[Configure apps](#step-7-configure-apps-for-your-scenario)**: After everything is set up and configured in the admin center, you can follow the guidance for your scenarios to further configure the apps you need for each scenario.
 
 [![Steps to set up Microsoft 365 for frontline workers.](media/setup-steps.png)](media/setup-steps.png#lightbox)
 
-## Identify your scenarios
+## Step 1: Identify your scenarios
 
 The following table lists the scenarios for your frontline workers. You can read a summary of each scenario in [choose your scenarios](flw-choose-scenarios.md), and find out what you need to configure by following the links to each scenario and to each app or service that's required.
 
 | Scenario | Services |
 |  ------- | -------  |
-| [Team communication and collaboration](flw-team-collaboration.md) | [Microsoft Teams](#deploy-your-frontline-teams) <br>[Email with Exchange Online](#set-up-email-with-exchange-online) |
-| [Targeted communications](set-up-targeted-communications.md) | [Microsoft Teams](#deploy-your-frontline-teams) <br>[Viva Connections](#set-up-viva-connections)|
-| [Corporate communications](flw-corp-comms.md) | [Microsoft Teams](#deploy-your-frontline-teams) <br>[SharePoint](#set-up-sites-with-sharepoint-in-microsoft-365) <br>[Viva Connections](#set-up-viva-connections) <br>[Viva Engage](#set-up-your-organizations-social-network-with-viva-engage) |
-| [Schedule management](shifts-for-teams-landing-page.md) | [Microsoft Teams](#deploy-your-frontline-teams) |
-| [Virtual Appointments](virtual-appointments.md) | [Microsoft Teams](#deploy-your-frontline-teams) |
-| [Engage your employees and focus on employee wellbeing](flw-wellbeing-engagement.md)| [Microsoft Teams](#deploy-your-frontline-teams) <br>[SharePoint](#set-up-sites-with-sharepoint-in-microsoft-365) <br>[Viva Connections](#set-up-viva-connections) <br>[Viva Engage](#set-up-your-organizations-social-network-with-viva-engage) |
-| [Onboard new employees](/sharepoint/onboard-employees)| [Microsoft Teams](#deploy-your-frontline-teams) <br>[SharePoint](#set-up-sites-with-sharepoint-in-microsoft-365) <br>[Viva Connections](#set-up-viva-connections) <br>[Viva Learning](#set-up-viva-learning)|
-| [Ongoing training](flw-onboarding-training.md) | [Microsoft Teams](#deploy-your-frontline-teams) <br>[Viva Learning](#set-up-viva-learning) |
-| [Simplify business processes](simplify-business-processes.md) | [Microsoft Teams](#deploy-your-frontline-teams) <br>[Power Apps, Power Automate, and Power BI](#set-up-power-apps-power-automate-and-power-bi) |
+| [Team communication and collaboration](flw-team-collaboration.md) | [Microsoft Teams](#step-5-deploy-your-frontline-teams) <br>[Email with Exchange Online](#set-up-email-with-exchange-online) |
+| [Targeted communications](set-up-targeted-communications.md) | [Microsoft Teams](#step-5-deploy-your-frontline-teams) <br>[Viva Connections](#set-up-viva-connections)|
+| [Corporate communications](flw-corp-comms.md) | [Microsoft Teams](#step-5-deploy-your-frontline-teams) <br>[SharePoint](#set-up-sites-with-sharepoint-in-microsoft-365) <br>[Viva Connections](#set-up-viva-connections) <br>[Viva Engage](#set-up-your-organizations-social-network-with-viva-engage) |
+| [Schedule management](shifts-for-teams-landing-page.md) | [Microsoft Teams](#step-5-deploy-your-frontline-teams) |
+| [Virtual Appointments](virtual-appointments.md) | [Microsoft Teams](#step-5-deploy-your-frontline-teams) |
+| [Engage your employees and focus on employee wellbeing](flw-wellbeing-engagement.md)| [Microsoft Teams](#step-5-deploy-your-frontline-teams) <br>[SharePoint](#set-up-sites-with-sharepoint-in-microsoft-365) <br>[Viva Connections](#set-up-viva-connections) <br>[Viva Engage](#set-up-your-organizations-social-network-with-viva-engage) |
+| [Onboard new employees](/sharepoint/onboard-employees)| [Microsoft Teams](#step-5-deploy-your-frontline-teams) <br>[SharePoint](#set-up-sites-with-sharepoint-in-microsoft-365) <br>[Viva Connections](#set-up-viva-connections) <br>[Viva Learning](#set-up-viva-learning)|
+| [Ongoing training](flw-onboarding-training.md) | [Microsoft Teams](#step-5-deploy-your-frontline-teams) <br>[Viva Learning](#set-up-viva-learning) |
+| [Simplify business processes](simplify-business-processes.md) | [Microsoft Teams](#step-5-deploy-your-frontline-teams) <br>[Power Apps, Power Automate, and Power BI](#set-up-power-apps-power-automate-and-power-bi) |
 
 Some services are only included with F3 licenses, such as email and the Power Platform. Check out [Understand frontline worker user types and licensing](flw-licensing-options.md) to determine the type of licenses you need for your users.
 
-## Set up your environment and core Microsoft 365
+## Step 2: Set up your environment and core Microsoft 365
 
 The Microsoft 365 admin center has a set of [deployment guides](/microsoft-365/enterprise/setup-guides-for-microsoft-365) that walk you through the steps to set up the products, services, security features, and collaboration tools in Microsoft 365. You can access these guides from the [Advanced deployment guides & assistance](https://aka.ms/advanceddeploymentguides) page in the Microsoft 365 admin center.
 
 1. Use the [Prepare your environment guide](https://aka.ms/prepareyourenvironment) to prepare your organization's environment for Microsoft 365 and Office 365 services.
 1. Use the [Microsoft 365 setup guide](https://aka.ms/microsoft365setupguide) to set up productivity tools, security policies, and device management capabilities. You can also use this advisor to set up and configure your organization's devices.
 
-## Provision users, configure groups, and assign licenses
+## Step 3: Provision users, configure groups, and assign licenses
 
 > [!NOTE]
 > Much of this information is also in the [downloadable technical planning guide for deploying frontline solutions](https://go.microsoft.com/fwlink/?linkid=2211637).
@@ -121,14 +121,14 @@ You can add licenses to individual users or to groups of users in Microsoft Entr
 
 You might need to [unassign licenses](../admin/manage/assign-licenses-to-users.md) if you're changing some users from E to F licenses. [Learn more about how to switch specific users from E to F licenses](switch-from-enterprise-to-frontline.md#switch-users-to-a-microsoft-365-f-plan).
 
-## Set up and configure devices
+## Step 4: Set up and configure devices
 
 Managing the devices that frontline workers use is a key fundamental. It's important to set a secure, compliant baseline to manage devices for your workforce, whether they're shared devices or workers' personal devices. For more information, see the following guidance:
 
 - [Overview of device management for frontline workers](flw-devices.md)
 - [Manage shared devices for frontline workers](flw-shared-devices.md)
 
-## Deploy your frontline teams
+## Step 5: Deploy your frontline teams
 
 When deploying Teams to your frontline workforce, you have different options for how you can manage team membership. You can choose between dynamic team membership, static team membership, or a combination of both.
 
@@ -138,7 +138,7 @@ To learn more, see the following guidance:
 - [Deploy frontline dynamic teams at scale](deploy-dynamic-teams-at-scale.md)
 - [Deploy frontline static teams at scale with PowerShell for frontline workers](deploy-teams-at-scale.md)
 
-## Set up other services
+## Step 6: Set up other services
 
 Depending on your scenarios, you'll need to configure additional Microsoft 365 services, such as Exchange and Outlook for email or Microsoft Viva to expand your employee experience. Read on for information about each service.
 
@@ -182,9 +182,9 @@ You can use all of these apps within Microsoft Teams. For more information about
 - [Power Virtual Agents app in Microsoft Teams](/power-virtual-agents/teams/fundamentals-what-is-power-virtual-agents-teams)
 - [Power Apps](/microsoftteams/manage-power-platform-apps)
 
-## Configure apps for your scenario
+## Step 7: Configure apps for your scenario
 
-After everything is set up and configured in the admin center, follow the guidance for your [scenarios](#identify-your-scenarios) to further configure the apps you need for each scenario.
+After everything is set up and configured in the admin center, follow the guidance for your [scenarios](#step-1-identify-your-scenarios) to further configure the apps you need for each scenario.
 
 Users with an F license get the [tailored frontline app experience](pin-teams-apps-based-on-license.md), which pins the following apps to Teams out-of-the-box.
 
