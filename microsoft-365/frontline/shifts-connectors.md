@@ -117,11 +117,11 @@ The Teams Shifts connector for UKG Pro Workforce Management is a first-party off
 
 Frontline managers can do the following in UKG Pro WFM and Shifts:
 
-- Publish shifts and schedules and view them in UKG Pro WFM and Shifts.
-- Create, view, manage, and assign open shifts and view in UKG Pro WFM and Shifts.
-- Create, edit, and delete time off and view in UKG Pro WFM and Shifts.
+- Publish shifts and schedules.
+- Create, view, manage, and assign open shifts.
+- Create, edit, and delete time off.
 - View and approve schedule requests from workers.
-- Set and update worker availability and view in UKG Pro WFM and Shifts.
+- Set and update worker availability.
 
 Frontline workers can:
 
