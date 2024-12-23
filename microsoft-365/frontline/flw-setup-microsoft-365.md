@@ -70,7 +70,7 @@ Before you provision frontline users, consider creating new administrator accoun
 
 Microsoft 365 for frontline workers uses Microsoft Entra ID as the underlying identity service for delivering and securing all apps and resources. Users must have an identity that exists in Microsoft Entra ID to access Microsoft 365 apps.
 
-If you choose to manage frontline user identities with Active Directory Domain Services (AD DS) or a third-party identity provider, you'll need to federate these identities to Microsoft Entra ID. You can import users in the following ways:
+If you choose to manage frontline user identities with Active Directory Domain Services (AD DS) or a third-party identity provider, you need to federate these identities to Microsoft Entra ID. You can import users in the following ways:
 
 - **Integrate Microsoft Entra ID with an existing Active Directory instance:** [Microsoft Entra Connect](/entra/identity/hybrid/connect/how-to-connect-install-prerequisites) replicates Active Directory user accounts to Microsoft Entra ID, allowing a user to have a single identity capable of accessing both local and cloud-based resources.
 - **Integrate Microsoft Entra ID with a third-party identity solution:** Microsoft Entra ID supports integration with some third-party providers through federation.
@@ -148,9 +148,7 @@ If you want your frontline managers and workers to have access to email, you nee
 
 Your users can also install the Outlook app to use for their email, so make sure to share information about where to download the Outlook app.
 
-#### Outlook
-
-Using dynamic group backed shared mailboxes based on attributes such as Location, Department, and Role enables your organization to send targeted communications to dynamic groups that don’t require administrator intervention.
+For Outlook, using dynamic group backed shared mailboxes based on attributes such as Location, Department, and Role enables your organization to send targeted communications to dynamic groups that don’t require administrator intervention.
 
 ### Set up sites with SharePoint in Microsoft 365
 
@@ -188,20 +186,9 @@ You can use all of these apps within Microsoft Teams. For more information about
 
 After everything is set up and configured in the admin center, follow the guidance for your scenarios to further configure the apps you need for each scenario.
 
-<!--The following table lists Teams apps commonly used in frontline solutions. Shifts, Approvals, and Walkie Talkie are present in the Teams mobile client out of the box. You can control which apps are available to all users in the Teams admin center.
+For users with an F license, the following apps are pinned to Teams out-of-the-box:
 
-**Scenarios and apps**
+- Teams mobile: Viva Connections, Planner, Walkie Talkie, Shifts, Approvals
+- Teams desktop: Viva Connections, Planner, Shifts, Approvals
 
-| Scenario | Approvals | Virtual Appointments or Bookings | Lists | Praise | Shifts | Planner | Updates |
-| :---- | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| [Team communication and collaboration](flw-team-collaboration.md) | &#x2705; | &nbsp; | &#x2705; | &#x2705; | &nbsp; | &#x2705; | &#x2705; |
-| [Corporate communications](flw-corp-comms.md) |  &nbsp; |  &nbsp; |  &nbsp; |  &nbsp; |  &nbsp; |  &nbsp; |  &nbsp; |
-| [Virtual Appointments with Teams](virtual-appointments.md) |  &nbsp; | &#x2705; |  &nbsp; |  &nbsp; | &#x2705; |  &nbsp;|  &nbsp; |
-| Wellbeing & engagement |  &nbsp; |  &nbsp; |  &nbsp; | &#x2705; |  &nbsp; |  &nbsp; | &#x2705; |
-| [Manage your team schedules with Shifts](shifts-for-teams-landing-page.md) |  &nbsp; | &nbsp; | &nbsp; |  &nbsp; | &#x2705; | &nbsp; | &nbsp; |
-| [Training: Onboard new employees](/sharepoint/onboard-employees) |  &nbsp; |  &nbsp; | &#x2705; |  &nbsp; |  &nbsp; | &#x2705; | &#x2705; |
-| Ongoing training |  &nbsp; |  &nbsp; | &#x2705; |  &nbsp; |  &nbsp; | &#x2705; | &#x2705; |
-| [Simplify business processes](simplify-business-processes.md) | &#x2705; |  &nbsp; | &#x2705; |  &nbsp; |  &nbsp; | &#x2705; | &#x2705; |
-| Manage sites, stores, and projects | &#x2705; |  &nbsp; | &#x2705; |  &nbsp; | &nbsp; | &#x2705; | &#x2705; |
-
-[Learn more about Teams apps](/microsoftteams/deploy-apps-microsoft-teams-landing-page#core-apps). -->
+To learn more, see [Tailor Teams apps for your frontline workers](pin-teams-apps-based-on-license.md).
