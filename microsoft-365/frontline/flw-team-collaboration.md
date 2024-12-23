@@ -127,7 +127,9 @@ Share this [Praise video training](https://support.microsoft.com/office/communic
 
 ### Track and monitor work with Planner
 
-Use Planner in Teams to track tasks for your whole frontline team. Store managers and employees can create, assign, and schedule tasks, categorize tasks, and update status at any time from any device running Teams. IT pros and admins can also publish tasks to specific teams for your organization. For example, you could publish a set of tasks for daily cleaning or steps to set up a new display.
+Use Planner in Teams to track tasks for your whole frontline team. Store managers and employees can create, assign, and schedule tasks, categorize tasks, and update status at any time from any device running Teams.
+
+Operations managers and business leaders can publish task lists to specific teams for your organization and monitor for completion of work. For example, you could publish a set of tasks for daily cleaning or steps to set up a new display.
 
 |Industry |Example |
 |:--------|:-------|
@@ -136,9 +138,11 @@ Use Planner in Teams to track tasks for your whole frontline team. Store manager
 |Financial services |A bank manager can assign mortgage specialists a task to review and get familiar with new rates or policies. |
 |Manufacturing |A supervisor can assign a worker a task to inspect a new batch of products. |
 
-Learn how to [manage the Planner app for your organization](/microsoftteams/manage-planner-app?bc=/microsoft-365/frontline/breadcrumb/toc.json&toc=/microsoft-365/frontline/toc.json).
+Learn how to [manage the Planner app for your organization](/microsoftteams/manage-planner-app?bc=/microsoft-365/frontline/breadcrumb/toc.json&toc=/microsoft-365/frontline/toc.json) and how to [set up your team targeting hierarchy](/microsoftteams/set-up-your-team-hierarchy) for task publishing.
 
 Share the [Planner in Teams help & learning](https://support.microsoft.com/office/getting-started-with-planner-in-teams-7a5e58f1-2cee-41b0-a41d-55d512c4a59c) with your users.
+
+Learn more about how to [publish task lists to define and track work in your organization](https://support.microsoft.com/office/publish-task-lists-to-define-and-track-work-in-your-organization-095409b3-f5af-40aa-9f9e-339b54e705df).
 
 ### Streamline approvals with Approvals
 
