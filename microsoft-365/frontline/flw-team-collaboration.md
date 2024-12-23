@@ -84,6 +84,14 @@ You manage apps for your organization in the Teams admin center. To learn more, 
 
 Your users can add any apps that you have allowed to their teams. Share this training with your users to show them how: [Find and use apps](https://support.microsoft.com/office/find-and-use-apps-6e22a734-c002-4da0-ba63-681f155b142d).
 
+### Create a personalized experience with Viva Connections
+
+Viva Connections is part of the [Microsoft Viva suite](/viva/microsoft-viva-overview) and enables you to create a personalized landing experience in Teams.
+
+The Viva Connections dashboard provides fast and easy access to information and job-related tasks. For example, add the Shifts card to show information about the next or current shift from the Shifts app. Content in the cards is dynamic and personalized to the user.
+
+Learn more about [Viva Connections](/viva/connections/viva-connections-overview) and [how to create a Viva Connections dashboard](/viva/connections/create-dashboard).
+
 ### Create, manage, and publish schedules with Shifts
 
 Use Shifts to seamlessly manage and share schedules. Managers can create custom groups such as cashiers, nurses, or mortgage specialists, assign shifts to employees, add breaks, and add open shifts that employees can request to take. Employees can use Shifts to set their availability, view their schedules, swap shifts with coworkers, clock in and out, and more. For example, a volunteer coordinator at a nonprofit could create open shifts that volunteers can request to take.
@@ -110,21 +118,6 @@ Share these Walkie Talkie resources with your users:
 - [Get started with Teams Walkie Talkie](https://support.microsoft.com/office/get-started-with-teams-walkie-talkie-25bdc3d5-bbb2-41b7-89bf-650fae0c8e0c)
 - [Communicate with your team in Walkie Talkie](https://support.microsoft.com/office/communicate-with-your-team-in-walkie-talkie-e4342550-5516-4451-b9ec-93166b60f8a4)
 
-### Boost morale with Praise
-
-The Praise app allows management and frontline team members to congratulate each other and share appreciation by sending badges. Praise helps employees feel recognized for achievements such as making sales goals and going above and beyond to help customers.
-
-|Industry |Example |
-|:--------|:-------|
-|Retail |A store manager can send the **Awesome** badge to an associate who meets their sales goals. |
-|Healthcare |A healthcare worker can send the **Kind heart** badge to a peer who puts extra effort into patient care. |
-|Financial services |A bank manager can send the **Achiever** badge to a relationship manager who helps to retain an important client. |
-|Manufacturing |A manager can send the **Leadership** badge to a supervisor whose team is performing well. |
-
-Learn how to [manage the Praise app for your organization](/microsoftteams/manage-praise-app?bc=/microsoft-365/frontline/breadcrumb/toc.json&toc=/microsoft-365/frontline/toc.json).
-
-Share this [Praise video training](https://support.microsoft.com/office/communication-and-praise-7d37ef80-542b-42e5-aa01-0fabbaa634b6) with your users.
-
 ### Track and monitor work with Planner
 
 Use Planner in Teams to track tasks for your whole frontline team. Store managers and employees can create, assign, and schedule tasks, categorize tasks, and update status at any time from any device running Teams.
@@ -142,7 +135,7 @@ Learn how to [manage the Planner app for your organization](/microsoftteams/mana
 
 Share the [Planner in Teams help & learning](https://support.microsoft.com/office/getting-started-with-planner-in-teams-7a5e58f1-2cee-41b0-a41d-55d512c4a59c) with your users.
 
-Learn more about how to [publish task lists to define and track work in your organization](https://support.microsoft.com/office/publish-task-lists-to-define-and-track-work-in-your-organization-095409b3-f5af-40aa-9f9e-339b54e705df).
+Learn how to [publish task lists to define and track work in your organization](https://support.microsoft.com/office/publish-task-lists-to-define-and-track-work-in-your-organization-095409b3-f5af-40aa-9f9e-339b54e705df).
 
 ### Streamline approvals with Approvals
 
@@ -174,13 +167,20 @@ Learn how to [manage the Updates app for your organization](/microsoftteams/mana
 
 Share this [Updates video training](https://support.microsoft.com/office/get-started-in-updates-c03a079e-e660-42dc-817b-ca4cfd602e5a) with your users.
 
-### Create a personalized experience with Viva Connections
+### Boost morale with Praise
 
-Viva Connections is part of the [Microsoft Viva suite](/viva/microsoft-viva-overview) and enables you to create a personalized landing experience in Teams.
+The Praise app allows management and frontline team members to congratulate each other and share appreciation by sending badges. Praise helps employees feel recognized for achievements such as making sales goals and going above and beyond to help customers.
 
-The Viva Connections dashboard provides fast and easy access to information and job-related tasks. For example, add the Shifts card to show information about the next or current shift from the Shifts app. Content in the cards is dynamic and personalized to the user.
+|Industry |Example |
+|:--------|:-------|
+|Retail |A store manager can send the **Awesome** badge to an associate who meets their sales goals. |
+|Healthcare |A healthcare worker can send the **Kind heart** badge to a peer who puts extra effort into patient care. |
+|Financial services |A bank manager can send the **Achiever** badge to a relationship manager who helps to retain an important client. |
+|Manufacturing |A manager can send the **Leadership** badge to a supervisor whose team is performing well. |
 
-Learn more about [Viva Connections](/viva/connections/viva-connections-overview) and [how to create a Viva Connections dashboard](/viva/connections/create-dashboard).
+Learn how to [manage the Praise app for your organization](/microsoftteams/manage-praise-app?bc=/microsoft-365/frontline/breadcrumb/toc.json&toc=/microsoft-365/frontline/toc.json).
+
+Share this [Praise video training](https://support.microsoft.com/office/communication-and-praise-7d37ef80-542b-42e5-aa01-0fabbaa634b6) with your users.
 
 ## Communicate over email with Exchange Online and Outlook
 
