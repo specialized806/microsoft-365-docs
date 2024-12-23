@@ -184,11 +184,13 @@ You can use all of these apps within Microsoft Teams. For more information about
 
 ## Configure apps for your scenario
 
-After everything is set up and configured in the admin center, follow the guidance for your scenarios to further configure the apps you need for each scenario.
+After everything is set up and configured in the admin center, follow the guidance for your [scenarios](#identify-your-scenarios) to further configure the apps you need for each scenario.
 
-For users with an F license, the following apps are pinned to Teams out-of-the-box:
+Users with an F license get the [tailored frontline app experience](pin-teams-apps-based-on-license.md), which pins the following apps to Teams out-of-the-box.
 
 - Teams mobile: Viva Connections, Planner, Walkie Talkie, Shifts, Approvals
 - Teams desktop: Viva Connections, Planner, Shifts, Approvals
 
-To learn more, see [Tailor Teams apps for your frontline workers](pin-teams-apps-based-on-license.md).
+## Related articles
+
+[Learn where to start with a frontline deployment](flw-deploy-overview.md)
