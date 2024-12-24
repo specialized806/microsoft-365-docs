@@ -30,7 +30,7 @@ To set up Microsoft 365 for frontline workers, follow this overall process:
 1. **[Set up and configure devices](#step-4-set-up-and-configure-devices)**: Set up shared and personal devices to work with Microsoft 365 and Microsoft Teams and to allow your frontline workers to communicate more securely within your organization.
 1. **[Deploy Teams](#step-5-deploy-your-frontline-teams)**: Deploy your frontline teams.
 1. **[Set up any other services needed for your scenario](#step-6-set-up-other-services)**: Set up services including Exchange, Outlook, SharePoint, and Microsoft Viva.
-1. **[Configure apps](#step-7-configure-apps-for-your-scenario)**: After everything is set up and configured in the admin center, you can follow the guidance for your scenarios to further configure the apps you need for each scenario.
+1. **[Configure apps](#step-7-configure-apps-for-your-scenario)**: Follow the guidance for your scenarios to further configure the apps you need for each scenario.
 
 :::image type="content" source="media/flw-setup-microsoft-365-steps.png" alt-text="Diagram showing steps to set up Microsoft 365 for frontline workers." lightbox="media/flw-setup-microsoft-365-steps.png":::
 
@@ -184,7 +184,7 @@ You can use all of these apps within Microsoft Teams. For more information about
 
 ## Step 7: Configure apps for your scenario
 
-After everything is set up and configured in the admin center, follow the guidance for your [scenarios](#step-1-identify-your-scenarios) to further configure the apps you need for each scenario.
+Follow the guidance for your [scenarios](#step-1-identify-your-scenarios) to further configure the apps you need for each scenario.
 
 Users with an F license get the [tailored frontline app experience](pin-teams-apps-based-on-license.md), which pins the following apps to Teams out-of-the-box.
 
