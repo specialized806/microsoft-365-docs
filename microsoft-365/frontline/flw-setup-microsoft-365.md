@@ -3,7 +3,7 @@ title: Set up Microsoft 365 for frontline workers
 author: lana-chin
 ms.author: v-chinlana
 manager: jtremper
-ms.reviewer: samanro
+ms.reviewer: 
 ms.topic: how-to
 audience: admin
 ms.service: microsoft-365-frontline
@@ -17,7 +17,7 @@ ms.collection:
 appliesto: 
   - Microsoft Teams
   - Microsoft 365 for frontline workers
-ms.date: 04/04/2023
+ms.date: 12/24/2024
 ---
 
 # Set up Microsoft 365 for frontline workers
@@ -28,11 +28,11 @@ To set up Microsoft 365 for frontline workers, follow this overall process:
 1. **[Set up your environment and core Microsoft 365](#step-2-set-up-your-environment-and-core-microsoft-365)**: You can use the deployment guides in the Microsoft 365 admin center to help you set up Microsoft 365. Keep reading to learn how to access these guides.
 1. **[Provision users, configure groups, and assign licenses](#step-3-provision-users-configure-groups-and-assign-licenses)**: Provision users and create groups in Microsoft Entra ID, then assign frontline licenses to your users.
 1. **[Set up and configure devices](#step-4-set-up-and-configure-devices)**: Set up shared and personal devices to work with Microsoft 365 and Microsoft Teams and to allow your frontline workers to communicate more securely within your organization.
-1. **[Deploy Teams](#step-5-deploy-your-frontline-teams)**:
+1. **[Deploy Teams](#step-5-deploy-your-frontline-teams)**: Deploy your frontline teams.
 1. **[Set up any other services needed for your scenario](#step-6-set-up-other-services)**: Set up services including Exchange, Outlook, SharePoint, and Microsoft Viva.
 1. **[Configure apps](#step-7-configure-apps-for-your-scenario)**: After everything is set up and configured in the admin center, you can follow the guidance for your scenarios to further configure the apps you need for each scenario.
 
-[![Steps to set up Microsoft 365 for frontline workers.](media/setup-steps.png)](media/setup-steps.png#lightbox)
+:::image type="content" source="media/flw-setup-microsoft-365-steps.png" alt-text="Diagram showing steps to set up Microsoft 365 for frontline workers." lighbox="media/flw-setup-microsoft-365-steps.png":::
 
 ## Step 1: Identify your scenarios
 
@@ -130,7 +130,7 @@ Managing the devices that frontline workers use is a key fundamental. It's impor
 
 ## Step 5: Deploy your frontline teams
 
-When deploying Teams to your frontline workforce, you have different options for how you can manage team membership. You can choose between dynamic team membership, static team membership, or a combination of both.
+Frontline teams are a collection of people, content, and tools within an organization for different frontline worker locations. When deploying Teams to your frontline workforce, you have different options for how you can manage team membership. You can choose between dynamic team membership, static team membership, or a combination of both.
 
 To learn more, see the following guidance:
 
