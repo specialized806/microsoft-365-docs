@@ -23,7 +23,7 @@ searchScope:
 appliesto: 
   - Microsoft Teams
   - Microsoft 365 for frontline workers
-ms.date: 02/07/2024
+ms.date: 12/24/2024
 ---
 
 # Frontline team collaboration
@@ -69,13 +69,13 @@ Manufacturing workers can use Teams to communicate and coordinate production wit
 
 Your team can use apps in Teams to coordinate and collaborate with each other on everyday tasks, such as the following:
 
+- [Create a personalized experience with Viva Connections](#create-a-personalized-experience-with-viva-connections)
 - [Create, manage, and publish schedules with Shifts](#create-manage-and-publish-schedules-with-shifts)
 - [Keep in touch with Walkie Talkie](#keep-in-touch-with-walkie-talkie)
-- [Boost morale with Praise](#boost-morale-with-praise)
 - [Track and monitor work with Planner](#track-and-monitor-work-with-planner)
 - [Streamline approvals with Approvals](#streamline-approvals-with-approvals)
 - [Check in on progress with Updates](#check-in-on-progress-with-updates)
-- [Create a personalized experience with Viva Connections](#create-a-personalized-experience-with-viva-connections)
+- [Boost morale with Praise](#boost-morale-with-praise)
 
 > [!TIP]
 > Examples are given for the financial services, healthcare, nonprofit, and retail industries, but you can use these apps for an organization in any sector.
