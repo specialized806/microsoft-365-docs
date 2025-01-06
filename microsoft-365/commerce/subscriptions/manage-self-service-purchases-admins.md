@@ -48,6 +48,9 @@ You can also control whether users in your organization can make purchases or si
 - [Find out what type of billing account you have](../manage-billing-accounts.md#view-my-billing-accounts).
 - If you have a Microsoft Customer Agreement (MCA) billing account type, you must be a Billing account owner or contributor or a Billing profile owner or contributor to do the tasks in this article. For more information about billing account roles, see [Understand your Microsoft business billing account](../manage-billing-accounts.md) and [Manage your Microsoft business billing profiles](../billing-and-payments/manage-billing-profiles.md).
 - If you have a Microsoft Online Services Agreement (MOSA) billing account type, you must be at least a Billing Administrator to do the tasks in this article. For more information, see [About admin roles in the Microsoft 365 admin center](../../admin/add-users/about-admin-roles.md).
+- If you're a partner who's an Admin On Behalf Of (AOBO) a customer, you must have a role that's set to Global Administrator in order to do the tasks in this article.
+
+[!INCLUDE [ga-roles-limitation](../../includes/ga-roles-limitation.md)]
 
 > [!NOTE]
 > If you're the person who signed up for the subscription, you're automatically a Billing account owner.
@@ -71,8 +74,7 @@ We use the directory data to provide the user with a license and to send email a
 [!INCLUDE [office-365-operated-by-21vianet-admin-center-link](../../includes/office-365-operated-by-21vianet-admin-center-link.md)]
 
 1. In the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">Microsoft 365 admin center</a>, go to the **Billing** > <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Your products</a> page.
-1. Select the **Self-service trials** tab. 
-
+2. Select the **Self-service trials** tab.
 3. To view more details about a subscription, select one from the list.
 
 ## View who has licenses for a self-service purchase or trial subscription
@@ -104,7 +106,7 @@ Both methods let you do the following tasks:
 ### Use the Microsoft 365 admin center to allow or block self-service purchases and trials
 
 > [!NOTE]
-> You must be a Global Administrator to do the following steps.
+> You must be a Global Administrator to do the following steps. Partners who are Admins On Behalf Of (AOBO) a customer must have a role that is set to Global Administrator to do the following steps.
 
 [!INCLUDE [ga-roles-limitation](../../includes/ga-roles-limitation.md)]
 
