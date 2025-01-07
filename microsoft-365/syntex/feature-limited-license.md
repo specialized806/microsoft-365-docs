@@ -12,6 +12,7 @@ ms.custom:
 search.appverid: 
 ms.collection: 
 ms.localizationpriority: medium
+ROBOTS: NOINDEX, NOFOLLOW
 description: Read the Microsoft Syntex features limited time license to see the Microsoft Syntex features available as a preview for all pay-as-you-go users on a limited time basis.
 ---
 

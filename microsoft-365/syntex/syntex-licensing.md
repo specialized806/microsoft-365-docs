@@ -3,7 +3,7 @@ title: Licensing for Microsoft Syntex
 ms.author: chucked
 author: chuckedmonson
 ms.reviewer: ssquires, kkameth
-ms.date: 11/08/2024
+ms.date: 12/30/2024
 manager: jtremper
 audience: admin
 ms.topic: conceptual
@@ -61,9 +61,9 @@ The following pay-as-you-go services are currently available:
 
 More services will be added as they become available.
 
-### Feature limited preview
+### Additional features
 
-Pay-as-you-go licensing includes access to additional Syntex features for a limited time as a preview. The feature limited preview ends December 31, 2024. You won't be charged on a pay-as-you-go basis during the preview. These features include:
+Pay-as-you-go licensing includes access to additional content management features. You won't be charged on a pay-as-you-go basis when you use these features. These features include:
 
 - Content query
 - Universal annotations
@@ -72,8 +72,6 @@ Pay-as-you-go licensing includes access to additional Syntex features for a limi
 - Taxonomy features (including import using SKOS, SKOS formatting reference, push content type to hub, and term store reports)
 - PDF merge and extract pages
 - Content processing rules (including move or copy a file, set a content type, and translate a document)
-
-For more information, see [Microsoft Syntex features limited time license agreement](feature-limited-license.md).
 
 ## If you still have active per-user licenses
 
