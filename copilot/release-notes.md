@@ -41,7 +41,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   Filter data by date range, review Microsoft Copilot usage by app entry point, and use these insights plan adoption strategies more confidently. <a href="/microsoft-365/admin/activity-reports/microsoft-copilot-usage" target="_blank">Learn more.</a>
 ### Microsoft 365 Copilot extensibility
 - **Include Code Interpreter in agents** [Windows, Web]  
-  Enhance your agents by including Code Interpreter for advanced data analysis tasks in agent builder <a href="/microsoft-365-copilot/extensibility/add-agent-capabilities#enable-code-interpreter" target="_blank">Learn more.</a>
+  Enhance your agents by including Code Interpreter for advanced data analysis tasks in agent builder. <a href="/microsoft-365-copilot/extensibility/add-agent-capabilities#enable-code-interpreter" target="_blank">Learn more.</a>
 ### OneNote
 - **Use Copilot quick actions in OneNote: Rewrite, Summarize, and Create To-Dos** [Windows]  
   Enhance your notes by using Copilot directly on the OneNote canvas. Instantly generate summaries, create to-do lists, or rewrite selected content within your notes. <a href="https://support.microsoft.com/office/summarize-your-onenote-notes-with-microsoft-365-copilot-89e1f3cd-9cbc-4b34-84da-40d52b39aff5" target="_blank">Learn more.</a>
@@ -608,7 +608,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ## January 7, 2024
 ### Microsoft 365 Copilot extensibility
 - **Include Code Interpreter in agents** [Windows, Web]  
-  Enhance your agents by including Code Interpreter for advanced data analysis tasks in agent builder <a href="/microsoft-365-copilot/extensibility/add-agent-capabilities#enable-code-interpreter" target="_blank">Learn more.</a>
+  Enhance your agents by including Code Interpreter for advanced data analysis tasks in agent builder. <a href="/microsoft-365-copilot/extensibility/add-agent-capabilities#enable-code-interpreter" target="_blank">Learn more.</a>
 ### OneNote
 - **Use Copilot quick actions in OneNote: Rewrite, Summarize, and Create To-Dos** [Windows]  
   Enhance your notes by using Copilot directly on the OneNote canvas. Instantly generate summaries, create to-do lists, or rewrite selected content within your notes. <a href="https://support.microsoft.com/office/summarize-your-onenote-notes-with-microsoft-365-copilot-89e1f3cd-9cbc-4b34-84da-40d52b39aff5" target="_blank">Learn more.</a>
@@ -958,7 +958,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   Filter data by date range, review Microsoft Copilot usage by app entry point, and use these insights plan adoption strategies more confidently. <a href="/microsoft-365/admin/activity-reports/microsoft-copilot-usage" target="_blank">Learn more.</a>
 ### Microsoft 365 Copilot extensibility
 - **Include Code Interpreter in agents** [Windows, Web]  
-  Enhance your agents by including Code Interpreter for advanced data analysis tasks in agent builder <a href="/microsoft-365-copilot/extensibility/add-agent-capabilities#enable-code-interpreter" target="_blank">Learn more.</a>
+  Enhance your agents by including Code Interpreter for advanced data analysis tasks in agent builder. <a href="/microsoft-365-copilot/extensibility/add-agent-capabilities#enable-code-interpreter" target="_blank">Learn more.</a>
 ### Outlook
 - **Schedule meetings with Copilot chat in Outlook** [Windows, Web]  
   Save time and streamline your day by asking Copilot to schedule meetings for you in Outlook. Whether it’s a 1:1 or focus time, Copilot will find the best available time slots with ease. <a href="https://support.microsoft.com/topic/8090e7b3-5b1d-4c6d-9b06-02edac062f58" target="_blank">Learn more.</a>
