@@ -157,7 +157,6 @@ The Loop experiences (except for Microsoft Teams) check the following [Cloud Pol
         - **Disabled**: Copilot pages creation and integration aren't available to the users.
         - **Not configured**: Copilot pages creation and integration are available to the users.
           >[!NOTE]
-          
           >If your organization has [disabled the creation of OneDrive](/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users), regardless of the setting noted here, these people in your organization will not be able to create a Copilot Pages workspace.  
     - For **Create and view Loop files in Outlook**:
         - **Enabled**: Creation of Loop components and integration is available to the users.
@@ -193,8 +192,6 @@ To check if Loop components are enabled, run `Get-SPOTenant` without any argumen
 To enable Loop components in Teams, run `Set-SPOTenant -IsLoopEnabled $true`. The change will take a short time to apply across your organization.
 
 To disable Loop components in Teams, run `Set-SPOTenant -IsLoopEnabled $false`. The change will take a short time to apply across your organization. If your organization has multiple regions (that is, organization URLs), you need to disable loop components for all the regions to have consistent results across the organization.
-
-These tenant-level properties 
 
 ## Related topics
 

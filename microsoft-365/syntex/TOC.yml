@@ -1,3 +1,4 @@
+items:
     - name: Microsoft Syntex
       href: index.yml
  
@@ -11,10 +12,10 @@
               href: syntex-pay-as-you-go-services.md
             - name: Set up pay-as-you-go billing
               href: syntex-azure-billing.md
-            - name: Set up per-user licenses
-              href: set-up-content-understanding.md
-            - name: Set up Microsoft Syntex
+            - name: Set up pay-as-you-go services
               href: set-up-microsoft-syntex.md
+            - name: Assign per-user licenses
+              href: set-up-content-understanding.md
             - name: Privacy, security, & compliance
               href: syntex-privacy-security.md
             - name: Set up a content center 
@@ -162,6 +163,15 @@
                 - name: Analyze model usage
                   href: model-usage-analytics.md
 
+    - name: Autofill columns
+      items: 
+        - name: Overview 
+          href: autofill-overview.md
+        - name: Admin setup 
+          href: autofill-setup.md
+        - name: Create autofill columns
+          href: autofill.md
+
     - name: Content assembly
       items: 
         - name: Overview 
@@ -180,24 +190,6 @@
           href: content-assembly-create-document.md
         - name: Generate documents using Power Automate 
           href: automate-document-generation.md
-
-    - name: Image tagging
-      items: 
-        - name: Overview 
-          href: image-tagging-overview.md
-        - name: Admin setup
-          href: image-tagging-setup.md
-        - name: Find and manage images
-          href: image-tagging.md
-
-    - name: Taxonomy tagging 
-      items: 
-        - name: Overview 
-          href: taxonomy-tagging-overview.md
-        - name: Admin setup 
-          href: taxonomy-tagging-setup.md
-        - name: Find and manage terms 
-          href: taxonomy-tagging.md
 
     - name: Document translation
       items: 
@@ -223,14 +215,14 @@
         - name: Troubleshoot a request 
           href: esignature-troubleshoot.md
 
-    - name: Autofill columns
+    - name: Image tagging
       items: 
         - name: Overview 
-          href: autofill-overview.md
-        - name: Admin setup 
-          href: autofill-setup.md
-        - name: Create autofill columns
-          href: autofill.md
+          href: image-tagging-overview.md
+        - name: Admin setup
+          href: image-tagging-setup.md
+        - name: Find and manage images
+          href: image-tagging.md
 
     - name: Optical character recognition 
       items: 
@@ -238,6 +230,15 @@
           href: ocr-overview.md
         - name: Admin setup 
           href: ocr.md
+
+    - name: Taxonomy tagging 
+      items: 
+        - name: Overview 
+          href: taxonomy-tagging-overview.md
+        - name: Admin setup 
+          href: taxonomy-tagging-setup.md
+        - name: Find and manage terms 
+          href: taxonomy-tagging.md
 
     - name: Microsoft 365 Archive
       href: /microsoft-365/archive
