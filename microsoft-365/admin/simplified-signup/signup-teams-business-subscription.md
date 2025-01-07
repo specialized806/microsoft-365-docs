@@ -33,7 +33,7 @@ Microsoft Teams Essentials and Microsoft 365 Business Basic 365 are offered for 
 
 When seeking to buy Microsoft Teams premium meeting and call functionality, you have 2 similarly priced options for how to get started – Microsoft Teams Essentials and Microsoft 365 Business Basic. Evaluate three key factors to choose which best meets your needs:
 
-1. Which apps and services do you want?.
+1. Which apps and services do you want?
 2. How much technical skill do you have?  
 3. What do you need to consider about data ownership and intellectual property rights?
 
