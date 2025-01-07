@@ -5,7 +5,7 @@ f1.keywords:
 ms.author: kwekua
 author: kwekuako
 manager: scotv
-ms.date: 11/21/2023
+ms.date: 01/06/2025
 audience: Admin
 ms.topic: article
 ms.service: microsoft-365-business
@@ -37,10 +37,10 @@ If you need to immediately prevent a user's sign-in access, reset their password
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 2. Select the user's name, and then select **Reset password**.
-3. Enter a new password, and then select **Reset**.
-4. On the **Reset password** page, choose whether to automatically create the new password or create one yourself.
-5. Select **Reset password** and then **Close**.
-6. Select the user's name again, and on the **Account** tab, select **Sign out of all sessions**.
+1. Enter a new password, and then select **Reset**.
+1. Choose whether to automatically create the new password or require the user to change their password when they first sign in.
+1. Select **Reset password**. You can print the new password if you want. Then select **Close**.
+1. Select the user's name again, and on the **Account** tab, select **Sign out of all sessions**.
 
 Within an hour - or after they leave the current Microsoft 365 page they're on - they're prompted to sign in again. An access token is good for an hour, so the timeline depends on how much time is left on that token, and whether they leave the current webpage.
   
@@ -57,8 +57,8 @@ For more information about how long it takes to get someone out of email, see [W
  > Blocking an account can take up to 24 hours to take effect. If you need to immediately prevent a user's sign-in access, follow the steps above and reset their password.
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
-2. Select the name of the employee that you want to block, and under the user's name, select the symbol for **Block this user** and then select **Block sign-in**.
-3. On the Block sign-in page, select Block this user from signing in and then **Save changes**.
+2. Select the name of the employee that you want to block, and select **Block sign-in**.
+3. On the **Block sign-in** page, select Block this user from signing in and then **Save changes**.
 
 ## Block a former employee's access to email (Exchange Online)
 
