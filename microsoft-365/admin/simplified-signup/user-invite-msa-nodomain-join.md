@@ -59,8 +59,6 @@ In virtually all cases, any documents and chats you save into the Microsoft 365 
 
 However, as part of setting up Microsoft 365 business, you're consenting that your technical admin has access to a limited amount of account information. This includes information like your account information, your name, profile picture, email address, and your sign-in details and activity.
 
-For further information about data privacy, see the [Terms of use](https://ssu.office.com/terms/en-US/smb_eula.txt).
-
 ### How can I leave this business (and stop using this license)?
 
 There are a couple of options in this case:

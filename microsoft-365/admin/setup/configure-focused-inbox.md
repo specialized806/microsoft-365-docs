@@ -59,7 +59,7 @@ The following PowerShell example turns Focused Inbox **Off** in your organizatio
     Set-OrganizationConfig -FocusedInboxOn $false
     ```
 
-6. Run the **Get-OrganizationConfig** cmdlet again and you'll see that FocusedInboxOn is set to $false, which means it's been turned off. 
+6. Run the **Get-OrganizationConfig** cmdlet again and you'll see that FocusedInboxOn is set to $false, which means it's been turned off.
 
 **To turn on Focused Inbox:**
   
