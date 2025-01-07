@@ -32,7 +32,7 @@ Check out [Using PowerShell with Exchange Online](/powershell/exchange/exchange-
 
 You can enable Clutter manually for a mailbox by running the [Set-Clutter](/powershell/module/exchange/set-clutter) cmdlet. You can also view Clutter settings for mailboxes in your organization by running the [Get-Clutter](/powershell/module/exchange/get-clutter) cmdlet.
   
-Turn on Clutter for a single user named Allie Bellew
+Turn on Clutter for a single user named Allie Bellew:
 
 `Set-Clutter -Identity "Allie Bellew" -Enable $true`
 
