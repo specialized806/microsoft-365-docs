@@ -79,4 +79,3 @@ This section explains how to allow users to send email on behalf of a group in t
 [Add-RecipientPermission](/powershell/module/exchange/add-recipientpermission)
 
 [Set-UnifiedGroup](/powershell/module/exchange/set-unifiedgroup)
-
