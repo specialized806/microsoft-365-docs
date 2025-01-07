@@ -46,7 +46,7 @@ To access detailed monitoring pages for specific services, select the Monitoring
 
 Here's an example of the Exchange Online monitoring page in the Microsoft 365 admin center that shows the health of organization-level and priority account scenarios available from **Health** > **Service health** > **Monitoring** > **Exchange Online**.
 
-![Screenshot of organization-level scenarios for Exchange Online Monitoring.](../media/microsoft-365-2.png)
+[![Screenshot of organization-level scenarios for Exchange Online Monitoring.](../media/microsoft-365-2.png)](../media/microsoft-365-2.png#lightbox)
 
 With the scenario list page, you can see whether the Microsoft service is healthy or not and whether there are any associated incidents or advisories. For example, with Exchange Online monitoring, you can look at the service health for specific email scenarios and view near real-time signals to determine the impact by organization-level scenario. You can also see health of priority account scenarios, if available.
 
@@ -80,7 +80,7 @@ There are two ways you can provide feedback:
 
 - Submit feedback using the **Is this post helpful? link for a specific incident or advisory.
 
-  ![Screenshot of the "Is this post helpful?" link for a specific incident or advisory.](../media/microsoft-365-3.png)
+  [![Screenshot of the "Is this post helpful?" link for a specific incident or advisory.](../media/microsoft-365-3.png)](../media/microsoft-365-3.png#lightbox)
 
 ## Frequently asked questions
 

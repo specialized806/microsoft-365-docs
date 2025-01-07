@@ -40,6 +40,6 @@ Microsoft 365 Apps monitoring supports the following organizational-level scenar
 
 Here's an example of the Apps monitoring dashboard:
 
-![Organization-level scenarios for Microsoft 365 Apps monitoring.](../media/microsoft-365-apps.png)
+[![Screenshot that shows Organization-level scenarios for Microsoft 365 Apps monitoring.](../media/microsoft-365-apps.png)](../media/microsoft-365-apps.png#lightbox)
 
 When Microsoft detects an error condition, a post is created to notify the tenant admin to go to the Microsoft 365 App Health dashboard for further information to remediate issues. For more information, see [Microsoft 365 Apps health](/deployoffice/admincenter/microsoft-365-apps-health).

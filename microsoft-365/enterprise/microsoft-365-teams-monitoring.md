@@ -26,7 +26,7 @@ description: "Use Teams monitoring for information about incidents or advisories
 
 Microsoft Teams monitoring supports the following organizational scenarios with near real-time information:
 
-![Organization-level scenarios for Teams Monitoring.](../media/microsoft-teams.png)
+[![Screenshot that shows Organization-level scenarios for Teams Monitoring.](../media/microsoft-teams.png)](../media/microsoft-teams.png#lightbox)
 
 - **App Launch**. The number of times users opened the Teams client without errors. Data is sampled and retrieved every 30 minutes.
 
@@ -40,4 +40,4 @@ Microsoft Teams monitoring supports the following organizational scenarios with 
 
 Admins can use the information to correlate any Microsoft-reported issues with the usage data to confirm any actual impact to their organization. Also, admins can view any usage from the last two weeks of usage data to identify any  anomalies.
 
-![Example of Teams Monitoring.](../media/microsoft-teams-2.png)
+[![Screenshot that shows an example of Teams Monitoring.](../media/microsoft-teams-2.png)](../media/microsoft-teams-2.png#lightbox)
