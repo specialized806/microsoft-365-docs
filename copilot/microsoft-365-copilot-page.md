@@ -102,3 +102,7 @@ To learn more, see [Copilot in Viva Engage](/viva/copilot/viva-copilot-overview#
 Copilot in Viva Goals helps people brainstorm new goals, refine and improve existing ones, and summarize key information. Use a combination of the org-wide setting and custom policies to refine access for the people in your organization.
 
 To learn more, see [Copilot in Viva Goals](/viva/copilot/viva-copilot-overview#copilot-in-viva-goals).
+
+### Copilot in Viva Insights 
+
+Copilot in Viva Insights simplifies the query building process for analysts by suggesting a template, metrics, filters, and attributes relevant to their analysis. Use a combination of org-wide setting and custom policies to refine access for the people in your organization. [Learn more](/viva/insights/advanced/analyst/copilot-query). 
