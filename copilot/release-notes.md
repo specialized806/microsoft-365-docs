@@ -41,9 +41,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   Filter data by date range, review Microsoft Copilot usage by app entry point, and use these insights plan adoption strategies more confidently. <a href="/microsoft-365/admin/activity-reports/microsoft-copilot-usage" target="_blank">Learn more.</a>
 ### Microsoft 365 Copilot extensibility
 - **Include Code Interpreter in agents** [Windows, Web]  
-  Enhance your agents by including Code Interpreter for advanced data analysis tasks in agent builder. <a href="/microsoft-365-copilot/extensibility/add-agent-capabilities#enable-code-interpreter" target="_blank">Learn more.</a>
-
-
+  Enhance your agents by including Code Interpreter for advanced data analysis tasks in agent builder. <a href="/microsoft-365-copilot/extensibility/add-agent-capabilities#enable-code-interpreter" target="_blank">Learn more.</a>
 ### OneNote
 - **Use Copilot quick actions in OneNote: Rewrite, Summarize, and Create To-Dos** [Windows]  
   Enhance your notes by using Copilot directly on the OneNote canvas. Instantly generate summaries, create to-do lists, or rewrite selected content within your notes. <a href="https://support.microsoft.com/office/summarize-your-onenote-notes-with-microsoft-365-copilot-89e1f3cd-9cbc-4b34-84da-40d52b39aff5" target="_blank">Learn more.</a>
@@ -170,8 +168,8 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   Expand your drafting capabilities by referencing up to 10 items—such as files, emails, and meetings—when using Copilot in Word. <a href="https://support.microsoft.com/topic/272ac2c1-c5f7-49c9-8a42-2a8a87846fa0" target="_blank">Learn more.</a>
 ## September, 2024
 ### Business Chat
-  Ground your Copilot conversations in your work content with Microsoft 365 Copilot Business Chat in the Microsoft 365 app.
-  Ground your Copilot conversations in your work content with Microsoft 365 Copilot Business Chat in the Microsoft 365 app. <a href="https://support.microsoft.com/topic/boost-your-productivity-with-the-microsoft-365-app-24bd7d62-f3c7-47d8-8cce-ee78edc018d4" target="_blank">Learn more.</a>
+- **Access Business Chat work mode in Microsoft 365 app on mobile** [Android, iOS]  
+  Ground your Copilot conversations in your work content with Microsoft 365 Copilot Business Chat in the Microsoft 365 app.
 - **Convert Microsoft 365 Copilot Business Chat conversations into shareable pages** [Web]  
   Transform Business Chat Copilot responses in work mode into editable and shareable pages, so you can easily access and distribute important information.
 - **Generate images in Microsoft 365 Copilot Business Chat** [Web]  
@@ -609,10 +607,8 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 
 ## January 7, 2024
 ### Microsoft 365 Copilot extensibility
-  Enhance your agents by including Code Interpreter for advanced data analysis tasks in agent builder. <a href="/microsoft-365-copilot/extensibility/add-agent-capabilities#enable-code-interpreter" target="_blank">Learn more.</a>
-
+- **Include Code Interpreter in agents** [Windows, Web]  
   Enhance your agents by including Code Interpreter for advanced data analysis tasks in agent builder. <a href="/microsoft-365-copilot/extensibility/add-agent-capabilities#enable-code-interpreter" target="_blank">Learn more.</a>
-
 ### OneNote
 - **Use Copilot quick actions in OneNote: Rewrite, Summarize, and Create To-Dos** [Windows]  
   Enhance your notes by using Copilot directly on the OneNote canvas. Instantly generate summaries, create to-do lists, or rewrite selected content within your notes. <a href="https://support.microsoft.com/office/summarize-your-onenote-notes-with-microsoft-365-copilot-89e1f3cd-9cbc-4b34-84da-40d52b39aff5" target="_blank">Learn more.</a>
@@ -960,11 +956,9 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ### Microsoft 365 admin center
 - **Track usage of Microsoft Copilot with enterprise data protection** [Web]  
   Filter data by date range, review Microsoft Copilot usage by app entry point, and use these insights plan adoption strategies more confidently. <a href="/microsoft-365/admin/activity-reports/microsoft-copilot-usage" target="_blank">Learn more.</a>
-  Enhance your agents by including Code Interpreter for advanced data analysis tasks in agent builder. <a href="/microsoft-365-copilot/extensibility/add-agent-capabilities#enable-code-interpreter" target="_blank">Learn more.</a>
-
+### Microsoft 365 Copilot extensibility
 - **Include Code Interpreter in agents** [Windows, Web]  
   Enhance your agents by including Code Interpreter for advanced data analysis tasks in agent builder. <a href="/microsoft-365-copilot/extensibility/add-agent-capabilities#enable-code-interpreter" target="_blank">Learn more.</a>
-
 ### Outlook
 - **Schedule meetings with Copilot chat in Outlook** [Windows, Web]  
   Save time and streamline your day by asking Copilot to schedule meetings for you in Outlook. Whether it’s a 1:1 or focus time, Copilot will find the best available time slots with ease. <a href="https://support.microsoft.com/topic/8090e7b3-5b1d-4c6d-9b06-02edac062f58" target="_blank">Learn more.</a>
@@ -1403,10 +1397,10 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ### Outlook
 - **Rewrite selected text in emails using Copilot** [Windows, Web, Android, iOS, Mac]  
   Select specific parts of your drafted email and ask Copilot in new Outlook to rewrite it or provide more information to rewrite it. Provide detailed instructions or adjust the tone and length to suit your needs.
-  Ground your Copilot conversations in your work content with Microsoft 365 Copilot Business Chat in the Microsoft 365 app.
+## September, 2024
 ### Business Chat
 - **Access Business Chat work mode in Microsoft 365 app on mobile** [Android, iOS]  
-  Ground your Copilot conversations in your work content with Microsoft 365 Copilot Business Chat in the Microsoft 365 app. <a href="https://support.microsoft.com/topic/boost-your-productivity-with-the-microsoft-365-app-24bd7d62-f3c7-47d8-8cce-ee78edc018d4" target="_blank">Learn more.</a>
+  Ground your Copilot conversations in your work content with Microsoft 365 Copilot Business Chat in the Microsoft 365 app.
 ### Outlook
 - **Instantly apply coaching suggestions from Copilot to your emails** [Web, Android, iOS, Mac]  
   Improve your email writing with Coaching by Copilot in new Outlook. Request a full rewrite based on Copilot's feedback or apply the suggestions with a single click. <a href="https://support.microsoft.com/topic/91a3cd56-1586-4a31-85c7-2eb8cdb02405" target="_blank">Learn more.</a>
@@ -1519,10 +1513,10 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ### Viva Insights
 - **New Business Chat prompts submitted through Teams** [Windows, iOS, Mac]  
   Adding new Business Chat prompts submitted through Teams metric to Copilot dashboard and Viva Insights Advanced insights.
-  Ground your Copilot conversations in your work content with Microsoft 365 Copilot Business Chat in the Microsoft 365 app.
+## September, 2024
 ### Business Chat
 - **Access Business Chat work mode in Microsoft 365 app on mobile** [Android, iOS]  
-  Ground your Copilot conversations in your work content with Microsoft 365 Copilot Business Chat in the Microsoft 365 app. <a href="https://support.microsoft.com/topic/boost-your-productivity-with-the-microsoft-365-app-24bd7d62-f3c7-47d8-8cce-ee78edc018d4" target="_blank">Learn more.</a>
+  Ground your Copilot conversations in your work content with Microsoft 365 Copilot Business Chat in the Microsoft 365 app.
 ### Excel
 - **Copilot in Excel is generally available** [Windows, Web, iOS, Mac]  
   Copilot in Excel, now no longer in Preview but Generally Available, works alongside you to analyze and explore your data, answering questions in natural language and revealing insights without the need for complex formulas. <a href="https://support.microsoft.com/topic/d7110502-0334-4b4f-a175-a73abdfc118a" target="_blank">Learn more.</a>
@@ -1944,5 +1938,5 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 - **Use chat in Word's Viewing mode** [Windows, Mac]  
   Access chat while in Viewing mode to ask questions about the document's content without switching to Editing mode, improving your reading experience. <a href="https://support.microsoft.com/topic/4482c688-a495-4571-bfcd-4a9fc6608090" target="_blank">Learn more.</a>
 - **Use voice prompts for assistance** [Windows, Web, Mac]  
-  Use voice to dictate into the Copilot chat prompt field
+  Use voice to dictate into the Copilot chat prompt field.
 
