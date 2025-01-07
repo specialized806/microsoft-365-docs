@@ -56,8 +56,6 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ### Viva Insights
 - **Expand your understanding of Copilot adoption with enhanced metrics** [Windows, iOS, Mac]  
   Access seven new Copilot metrics and see them reflected in “total actions taken,” helping you better track how teams use Copilot. <a href="/viva/insights/advanced/analyst/templates/microsoft-365-copilot-adoption" target="_blank">Learn more.</a>
-- **New metrics for Copilot for Sales** [Windows, Web, Android, iOS, Mac]  
-  Gain visibility into how employees are using Copilot for Sales within Microsoft 365 apps like Outlook, Teams, and Word. <a href="/viva/insights/advanced/reference/metrics#copilot-for-sales-metrics" target="_blank">Learn more.</a>
 - **New metrics for enterprise data-protected prompts** [Windows, Web, Android, iOS, Mac]  
   Gain visibility into prompts submitted through Business Chat (web) and enterprise data-protected Copilot scenarios. <a href="/viva/insights/advanced/reference/metrics#microsoft-365-copilot-metrics" target="_blank">Learn more.</a>
 ### Viva Learning
@@ -620,8 +618,6 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ### Viva Insights
 - **Expand your understanding of Copilot adoption with enhanced metrics** [Windows, iOS, Mac]  
   Access seven new Copilot metrics and see them reflected in “total actions taken,” helping you better track how teams use Copilot. <a href="/viva/insights/advanced/analyst/templates/microsoft-365-copilot-adoption" target="_blank">Learn more.</a>
-- **New metrics for Copilot for Sales** [Windows, Web, Android, iOS, Mac]  
-  Gain visibility into how employees are using Copilot for Sales within Microsoft 365 apps like Outlook, Teams, and Word. <a href="/viva/insights/advanced/reference/metrics#copilot-for-sales-metrics" target="_blank">Learn more.</a>
 - **New metrics for enterprise data-protected prompts** [Windows, Web, Android, iOS, Mac]  
   Gain visibility into prompts submitted through Business Chat (web) and enterprise data-protected Copilot scenarios. <a href="/viva/insights/advanced/reference/metrics#microsoft-365-copilot-metrics" target="_blank">Learn more.</a>
 ## December 17, 2024
@@ -970,8 +966,6 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 - **Copilot in Viva Amplify editor** [Web]  
   Experience the power of Copilot right in your Amplify editing workflow. You can quickly auto-rewrite sections of your text, expand or condense content to match your preferred length, and seamlessly adjust the tone—casual, engaging, or professional—to suit your audience. <a href="https://support.microsoft.com/topic/introduction-to-copilot-in-viva-amplify-768222a0-9b83-402f-861e-9f7691183368" target="_blank">Learn more.</a>
 ### Viva Insights
-- **New metrics for Copilot for Sales** [Windows, Web, Android, iOS, Mac]  
-  Gain visibility into how employees are using Copilot for Sales within Microsoft 365 apps like Outlook, Teams, and Word. <a href="/viva/insights/advanced/reference/metrics#copilot-for-sales-metrics" target="_blank">Learn more.</a>
 - **New metrics for enterprise data-protected prompts** [Windows, Web, Android, iOS, Mac]  
   Gain visibility into prompts submitted through Business Chat (web) and enterprise data-protected Copilot scenarios. <a href="/viva/insights/advanced/reference/metrics#microsoft-365-copilot-metrics" target="_blank">Learn more.</a>
 ### Viva Learning
@@ -1384,8 +1378,6 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 - **Switch between Work and Web grounding in Copilot Business Chat** [Android, iOS]  
   In Outlook mobile apps, you can now toggle between Microsoft 365 Graph (Work) and Web grounding in Copilot Business Chat. Choose the grounding source that best suits your needs for more personalized assistance.
 ### Viva Insights
-- **New metrics for Copilot for Sales** [Windows, Web, Android, iOS, Mac]  
-  Gain visibility into how employees are using Copilot for Sales within Microsoft 365 apps like Outlook, Teams, and Word. <a href="/viva/insights/advanced/reference/metrics#copilot-for-sales-metrics" target="_blank">Learn more.</a>
 - **New metrics for enterprise data-protected prompts** [Windows, Web, Android, iOS, Mac]  
   Gain visibility into prompts submitted through Business Chat (web) and enterprise data-protected Copilot scenarios. <a href="/viva/insights/advanced/reference/metrics#microsoft-365-copilot-metrics" target="_blank">Learn more.</a>
 ## November, 2024
@@ -1499,8 +1491,6 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ### Viva Insights
 - **Expand your understanding of Copilot adoption with enhanced metrics** [Windows, iOS, Mac]  
   Access seven new Copilot metrics and see them reflected in “total actions taken,” helping you better track how teams use Copilot. <a href="/viva/insights/advanced/analyst/templates/microsoft-365-copilot-adoption" target="_blank">Learn more.</a>
-- **New metrics for Copilot for Sales** [Windows, Web, Android, iOS, Mac]  
-  Gain visibility into how employees are using Copilot for Sales within Microsoft 365 apps like Outlook, Teams, and Word. <a href="/viva/insights/advanced/reference/metrics#copilot-for-sales-metrics" target="_blank">Learn more.</a>
 - **New metrics for enterprise data-protected prompts** [Windows, Web, Android, iOS, Mac]  
   Gain visibility into prompts submitted through Business Chat (web) and enterprise data-protected Copilot scenarios. <a href="/viva/insights/advanced/reference/metrics#microsoft-365-copilot-metrics" target="_blank">Learn more.</a>
 ## November, 2024
@@ -1718,8 +1708,6 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ### Viva Insights
 - **Expand your understanding of Copilot adoption with enhanced metrics** [Windows, iOS, Mac]  
   Access seven new Copilot metrics and see them reflected in “total actions taken,” helping you better track how teams use Copilot. <a href="/viva/insights/advanced/analyst/templates/microsoft-365-copilot-adoption" target="_blank">Learn more.</a>
-- **New metrics for Copilot for Sales** [Windows, Web, Android, iOS, Mac]  
-  Gain visibility into how employees are using Copilot for Sales within Microsoft 365 apps like Outlook, Teams, and Word. <a href="/viva/insights/advanced/reference/metrics#copilot-for-sales-metrics" target="_blank">Learn more.</a>
 - **New metrics for enterprise data-protected prompts** [Windows, Web, Android, iOS, Mac]  
   Gain visibility into prompts submitted through Business Chat (web) and enterprise data-protected Copilot scenarios. <a href="/viva/insights/advanced/reference/metrics#microsoft-365-copilot-metrics" target="_blank">Learn more.</a>
 ## December 17, 2024
