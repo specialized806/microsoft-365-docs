@@ -38,10 +38,10 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   Discover and use suggested Copilot prompts in Prompt Gallery within the Word and PowerPoint apps on iOS and Android. Enhance your productivity on the go with helpful AI suggestions.
 ### Microsoft 365 admin center
 - **Track usage of Microsoft Copilot with enterprise data protection** [Web]  
-  Filter data by date range, review Microsoft Copilot usage by app entry point, and use these insights plan adoption strategies more confidently. <a href="/microsoft-365/admin/activity-reports/microsoft-copilot-usage?view=o365-worldwide" target="_blank">Learn more.</a>
+  Filter data by date range, review Microsoft Copilot usage by app entry point, and use these insights plan adoption strategies more confidently. <a href="https://learn.microsoft.com/microsoft-365/admin/activity-reports/microsoft-copilot-usage" target="_blank">Learn more.</a>
 ### Microsoft 365 Copilot extensibility
 - **Include Code Interpreter in agents** [Windows, Web]  
-  Enhance your agents by including Code Interpreter for advanced data analysis tasks in agent builder <a href="/microsoft-365-copilot/extensibility/add-agent-capabilities#enable-code-interpreter" target="_blank">Learn more.</a>
+  Enhance your agents by including Code Interpreter for advanced data analysis tasks in agent builder <a href="https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/add-agent-capabilities#enable-code-interpreter" target="_blank">Learn more.</a>
 ### OneNote
 - **Use Copilot quick actions in OneNote: Rewrite, Summarize, and Create To-Dos** [Windows]  
   Enhance your notes by using Copilot directly on the OneNote canvas. Instantly generate summaries, create to-do lists, or rewrite selected content within your notes. <a href="https://support.microsoft.com/office/summarize-your-onenote-notes-with-microsoft-365-copilot-89e1f3cd-9cbc-4b34-84da-40d52b39aff5" target="_blank">Learn more.</a>
@@ -55,14 +55,14 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   Experience the power of Copilot right in your Amplify editing workflow. You can quickly auto-rewrite sections of your text, expand or condense content to match your preferred length, and seamlessly adjust the tone—casual, engaging, or professional—to suit your audience. <a href="https://support.microsoft.com/topic/introduction-to-copilot-in-viva-amplify-768222a0-9b83-402f-861e-9f7691183368" target="_blank">Learn more.</a>
 ### Viva Insights
 - **Expand your understanding of Copilot adoption with enhanced metrics** [Windows, iOS, Mac]  
-  Access seven new Copilot metrics and see them reflected in “total actions taken,” helping you better track how teams use Copilot. <a href="/viva/insights/advanced/analyst/templates/microsoft-365-copilot-adoption" target="_blank">Learn more.</a>
+  Access seven new Copilot metrics and see them reflected in “total actions taken,” helping you better track how teams use Copilot. <a href="https://learn.microsoft.com/viva/insights/advanced/analyst/templates/microsoft-365-copilot-adoption" target="_blank">Learn more.</a>
 - **New metrics for Copilot for Sales** [Windows, Web, Android, iOS, Mac]  
-  Gain visibility into how employees are using Copilot for Sales within Microsoft 365 apps like Outlook, Teams, and Word. <a href="/viva/insights/advanced/reference/metrics#copilot-for-sales-metrics" target="_blank">Learn more.</a>
+  Gain visibility into how employees are using Copilot for Sales within Microsoft 365 apps like Outlook, Teams, and Word. <a href="https://learn.microsoft.com/en-us/viva/insights/advanced/reference/metrics#copilot-for-sales-metrics" target="_blank">Learn more.</a>
 - **New metrics for enterprise data-protected prompts** [Windows, Web, Android, iOS, Mac]  
-  Gain visibility into prompts submitted through Business Chat (web) and enterprise data-protected Copilot scenarios. <a href="/viva/insights/advanced/reference/metrics#microsoft-365-copilot-metrics" target="_blank">Learn more.</a>
+  Gain visibility into prompts submitted through Business Chat (web) and enterprise data-protected Copilot scenarios. <a href="https://learn.microsoft.com/viva/insights/advanced/reference/metrics#microsoft-365-copilot-metrics" target="_blank">Learn more.</a>
 ### Viva Learning
 - **Copilot Academy support for external content** [Web]  
-  Enhance your learning experience with a wider range of external content in Copilot Academy, including links to Copilot Prompt Gallery. <a href="/viva/learning/academy-copilot" target="_blank">Learn more.</a>
+  Enhance your learning experience with a wider range of external content in Copilot Academy, including links to Copilot Prompt Gallery. <a href="https://learn.microsoft.com/viva/learning/academy-copilot" target="_blank">Learn more.</a>
 ## December 17, 2024
 ### Microsoft 365 Copilot
 - **Microsoft 365 Copilot GCC general availability** [Windows, Web]  
@@ -112,7 +112,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 - **Control site creation permissions with Restricted Site Creation** [Web]  
   Administrators can now manage who can create different types of SharePoint sites. Configure specific user groups with permissions to create Team sites, Communication sites, or all sites, enhancing governance and control. <a href="/sharepoint/restricted-site-creation" target="_blank">Learn more.</a>
 - **Manage inactive sites with new lifecycle policies** [Web]  
-  SharePoint administrators can now set up policies to detect inactive sites, notify site owners, and automatically archive or set sites to read-only if no action is taken. This helps in managing unused content and optimizing resources. <a href="/sharepoint/site-lifecycle-management" target="_blank">Learn more.</a>
+  SharePoint administrators can now set up policies to detect inactive sites, notify site owners, and automatically archive or set sites to read-only if no action is taken. This helps in managing unused content and optimizing resources. <a href="https://learn.microsoft.com/sharepoint/site-lifecycle-management" target="_blank">Learn more.</a>
 - **Site Access Review for scalable governance** [Web]  
   SharePoint administrators can now request site owners to review permissions directly from Data Access Governance reports. This helps in identifying and correcting potential oversharing, enhancing security and compliance. <a href="https://aka.ms/DAGSiteAccessReviews" target="_blank">Learn more.</a>
 - **Use Data Access Governance to analyze permissions and prevent Oversharing** [Web]  
@@ -610,7 +610,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ## January 7, 2024
 ### Microsoft 365 Copilot extensibility
 - **Include Code Interpreter in agents** [Windows, Web]  
-  Enhance your agents by including Code Interpreter for advanced data analysis tasks in agent builder <a href="/microsoft-365-copilot/extensibility/add-agent-capabilities#enable-code-interpreter" target="_blank">Learn more.</a>
+  Enhance your agents by including Code Interpreter for advanced data analysis tasks in agent builder <a href="https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/add-agent-capabilities#enable-code-interpreter" target="_blank">Learn more.</a>
 ### OneNote
 - **Use Copilot quick actions in OneNote: Rewrite, Summarize, and Create To-Dos** [Windows]  
   Enhance your notes by using Copilot directly on the OneNote canvas. Instantly generate summaries, create to-do lists, or rewrite selected content within your notes. <a href="https://support.microsoft.com/office/summarize-your-onenote-notes-with-microsoft-365-copilot-89e1f3cd-9cbc-4b34-84da-40d52b39aff5" target="_blank">Learn more.</a>
@@ -619,11 +619,11 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   Save time and streamline your day by asking Copilot to schedule meetings for you in Outlook. Whether it’s a 1:1 or focus time, Copilot will find the best available time slots with ease. <a href="https://support.microsoft.com/topic/8090e7b3-5b1d-4c6d-9b06-02edac062f58" target="_blank">Learn more.</a>
 ### Viva Insights
 - **Expand your understanding of Copilot adoption with enhanced metrics** [Windows, iOS, Mac]  
-  Access seven new Copilot metrics and see them reflected in “total actions taken,” helping you better track how teams use Copilot. <a href="/viva/insights/advanced/analyst/templates/microsoft-365-copilot-adoption" target="_blank">Learn more.</a>
+  Access seven new Copilot metrics and see them reflected in “total actions taken,” helping you better track how teams use Copilot. <a href="https://learn.microsoft.com/viva/insights/advanced/analyst/templates/microsoft-365-copilot-adoption" target="_blank">Learn more.</a>
 - **New metrics for Copilot for Sales** [Windows, Web, Android, iOS, Mac]  
-  Gain visibility into how employees are using Copilot for Sales within Microsoft 365 apps like Outlook, Teams, and Word. <a href="/viva/insights/advanced/reference/metrics#copilot-for-sales-metrics" target="_blank">Learn more.</a>
+  Gain visibility into how employees are using Copilot for Sales within Microsoft 365 apps like Outlook, Teams, and Word. <a href="https://learn.microsoft.com/en-us/viva/insights/advanced/reference/metrics#copilot-for-sales-metrics" target="_blank">Learn more.</a>
 - **New metrics for enterprise data-protected prompts** [Windows, Web, Android, iOS, Mac]  
-  Gain visibility into prompts submitted through Business Chat (web) and enterprise data-protected Copilot scenarios. <a href="/viva/insights/advanced/reference/metrics#microsoft-365-copilot-metrics" target="_blank">Learn more.</a>
+  Gain visibility into prompts submitted through Business Chat (web) and enterprise data-protected Copilot scenarios. <a href="https://learn.microsoft.com/viva/insights/advanced/reference/metrics#microsoft-365-copilot-metrics" target="_blank">Learn more.</a>
 ## December 17, 2024
 ### Microsoft 365 Copilot
 - **Microsoft 365 Copilot GCC general availability** [Windows, Web]  
@@ -959,10 +959,10 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ## January 7, 2024
 ### Microsoft 365 admin center
 - **Track usage of Microsoft Copilot with enterprise data protection** [Web]  
-  Filter data by date range, review Microsoft Copilot usage by app entry point, and use these insights plan adoption strategies more confidently. <a href="/microsoft-365/admin/activity-reports/microsoft-copilot-usage?view=o365-worldwide" target="_blank">Learn more.</a>
+  Filter data by date range, review Microsoft Copilot usage by app entry point, and use these insights plan adoption strategies more confidently. <a href="https://learn.microsoft.com/microsoft-365/admin/activity-reports/microsoft-copilot-usage" target="_blank">Learn more.</a>
 ### Microsoft 365 Copilot extensibility
 - **Include Code Interpreter in agents** [Windows, Web]  
-  Enhance your agents by including Code Interpreter for advanced data analysis tasks in agent builder <a href="/microsoft-365-copilot/extensibility/add-agent-capabilities#enable-code-interpreter" target="_blank">Learn more.</a>
+  Enhance your agents by including Code Interpreter for advanced data analysis tasks in agent builder <a href="https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/add-agent-capabilities#enable-code-interpreter" target="_blank">Learn more.</a>
 ### Outlook
 - **Schedule meetings with Copilot chat in Outlook** [Windows, Web]  
   Save time and streamline your day by asking Copilot to schedule meetings for you in Outlook. Whether it’s a 1:1 or focus time, Copilot will find the best available time slots with ease. <a href="https://support.microsoft.com/topic/8090e7b3-5b1d-4c6d-9b06-02edac062f58" target="_blank">Learn more.</a>
@@ -971,16 +971,12 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   Experience the power of Copilot right in your Amplify editing workflow. You can quickly auto-rewrite sections of your text, expand or condense content to match your preferred length, and seamlessly adjust the tone—casual, engaging, or professional—to suit your audience. <a href="https://support.microsoft.com/topic/introduction-to-copilot-in-viva-amplify-768222a0-9b83-402f-861e-9f7691183368" target="_blank">Learn more.</a>
 ### Viva Insights
 - **New metrics for Copilot for Sales** [Windows, Web, Android, iOS, Mac]  
-  Gain visibility into how employees are using Copilot for Sales within Microsoft 365 apps like Outlook, Teams, and Word. <a href="/viva/insights/advanced/reference/metrics#copilot-for-sales-metrics" target="_blank">Learn more.</a>
+  Gain visibility into how employees are using Copilot for Sales within Microsoft 365 apps like Outlook, Teams, and Word. <a href="https://learn.microsoft.com/en-us/viva/insights/advanced/reference/metrics#copilot-for-sales-metrics" target="_blank">Learn more.</a>
 - **New metrics for enterprise data-protected prompts** [Windows, Web, Android, iOS, Mac]  
-  Gain visibility into prompts submitted through Business Chat (web) and enterprise data-protected Copilot scenarios. <a href="/viva/insights/advanced/reference/metrics#microsoft-365-copilot-metrics" target="_blank">Learn more.</a>
+  Gain visibility into prompts submitted through Business Chat (web) and enterprise data-protected Copilot scenarios. <a href="https://learn.microsoft.com/viva/insights/advanced/reference/metrics#microsoft-365-copilot-metrics" target="_blank">Learn more.</a>
 ### Viva Learning
 - **Copilot Academy support for external content** [Web]  
-  Enhance your learning experience with a wider range of external content in Copilot Academy, including links to Copilot Prompt Gallery. <a href="/viva/learning/academy-copilot" target="_blank">Learn more.</a>
-## November, 2024
-### SharePoint
-- **Manage inactive sites with new lifecycle policies** [Web]  
-  SharePoint administrators can now set up policies to detect inactive sites, notify site owners, and automatically archive or set sites to read-only if no action is taken. This helps in managing unused content and optimizing resources. <a href="/sharepoint/site-lifecycle-management" target="_blank">Learn more.</a>
+  Enhance your learning experience with a wider range of external content in Copilot Academy, including links to Copilot Prompt Gallery. <a href="https://learn.microsoft.com/viva/learning/academy-copilot" target="_blank">Learn more.</a>
 ## December 17, 2024
 ### Microsoft 365 Copilot
 - **Microsoft 365 Copilot GCC general availability** [Windows, Web]  
@@ -1019,7 +1015,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 - **Control site creation permissions with Restricted Site Creation** [Web]  
   Administrators can now manage who can create different types of SharePoint sites. Configure specific user groups with permissions to create Team sites, Communication sites, or all sites, enhancing governance and control. <a href="/sharepoint/restricted-site-creation" target="_blank">Learn more.</a>
 - **Manage inactive sites with new lifecycle policies** [Web]  
-  SharePoint administrators can now set up policies to detect inactive sites, notify site owners, and automatically archive or set sites to read-only if no action is taken. This helps in managing unused content and optimizing resources. <a href="/sharepoint/site-lifecycle-management" target="_blank">Learn more.</a>
+  SharePoint administrators can now set up policies to detect inactive sites, notify site owners, and automatically archive or set sites to read-only if no action is taken. This helps in managing unused content and optimizing resources. <a href="https://learn.microsoft.com/sharepoint/site-lifecycle-management" target="_blank">Learn more.</a>
 - **Site Access Review for scalable governance** [Web]  
   SharePoint administrators can now request site owners to review permissions directly from Data Access Governance reports. This helps in identifying and correcting potential oversharing, enhancing security and compliance. <a href="https://aka.ms/DAGSiteAccessReviews" target="_blank">Learn more.</a>
 - **Use Data Access Governance to analyze permissions and prevent Oversharing** [Web]  
@@ -1389,9 +1385,9 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   In Outlook mobile apps, you can now toggle between Microsoft 365 Graph (Work) and Web grounding in Copilot Business Chat. Choose the grounding source that best suits your needs for more personalized assistance.
 ### Viva Insights
 - **New metrics for Copilot for Sales** [Windows, Web, Android, iOS, Mac]  
-  Gain visibility into how employees are using Copilot for Sales within Microsoft 365 apps like Outlook, Teams, and Word. <a href="/viva/insights/advanced/reference/metrics#copilot-for-sales-metrics" target="_blank">Learn more.</a>
+  Gain visibility into how employees are using Copilot for Sales within Microsoft 365 apps like Outlook, Teams, and Word. <a href="https://learn.microsoft.com/en-us/viva/insights/advanced/reference/metrics#copilot-for-sales-metrics" target="_blank">Learn more.</a>
 - **New metrics for enterprise data-protected prompts** [Windows, Web, Android, iOS, Mac]  
-  Gain visibility into prompts submitted through Business Chat (web) and enterprise data-protected Copilot scenarios. <a href="/viva/insights/advanced/reference/metrics#microsoft-365-copilot-metrics" target="_blank">Learn more.</a>
+  Gain visibility into prompts submitted through Business Chat (web) and enterprise data-protected Copilot scenarios. <a href="https://learn.microsoft.com/viva/insights/advanced/reference/metrics#microsoft-365-copilot-metrics" target="_blank">Learn more.</a>
 ## November, 2024
 ### Business Chat
 - **Focus Copilot responses on specific emails in Business Chat** [Windows, Web, Android, iOS, Mac]  
@@ -1502,11 +1498,11 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   In Outlook mobile apps, you can now toggle between Microsoft 365 Graph (Work) and Web grounding in Copilot Business Chat. Choose the grounding source that best suits your needs for more personalized assistance.
 ### Viva Insights
 - **Expand your understanding of Copilot adoption with enhanced metrics** [Windows, iOS, Mac]  
-  Access seven new Copilot metrics and see them reflected in “total actions taken,” helping you better track how teams use Copilot. <a href="/viva/insights/advanced/analyst/templates/microsoft-365-copilot-adoption" target="_blank">Learn more.</a>
+  Access seven new Copilot metrics and see them reflected in “total actions taken,” helping you better track how teams use Copilot. <a href="https://learn.microsoft.com/viva/insights/advanced/analyst/templates/microsoft-365-copilot-adoption" target="_blank">Learn more.</a>
 - **New metrics for Copilot for Sales** [Windows, Web, Android, iOS, Mac]  
-  Gain visibility into how employees are using Copilot for Sales within Microsoft 365 apps like Outlook, Teams, and Word. <a href="/viva/insights/advanced/reference/metrics#copilot-for-sales-metrics" target="_blank">Learn more.</a>
+  Gain visibility into how employees are using Copilot for Sales within Microsoft 365 apps like Outlook, Teams, and Word. <a href="https://learn.microsoft.com/en-us/viva/insights/advanced/reference/metrics#copilot-for-sales-metrics" target="_blank">Learn more.</a>
 - **New metrics for enterprise data-protected prompts** [Windows, Web, Android, iOS, Mac]  
-  Gain visibility into prompts submitted through Business Chat (web) and enterprise data-protected Copilot scenarios. <a href="/viva/insights/advanced/reference/metrics#microsoft-365-copilot-metrics" target="_blank">Learn more.</a>
+  Gain visibility into prompts submitted through Business Chat (web) and enterprise data-protected Copilot scenarios. <a href="https://learn.microsoft.com/viva/insights/advanced/reference/metrics#microsoft-365-copilot-metrics" target="_blank">Learn more.</a>
 ## November, 2024
 ### Business Chat
 - **Focus Copilot responses on specific emails in Business Chat** [Windows, Web, Android, iOS, Mac]  
@@ -1721,11 +1717,11 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ## January 7, 2024
 ### Viva Insights
 - **Expand your understanding of Copilot adoption with enhanced metrics** [Windows, iOS, Mac]  
-  Access seven new Copilot metrics and see them reflected in “total actions taken,” helping you better track how teams use Copilot. <a href="/viva/insights/advanced/analyst/templates/microsoft-365-copilot-adoption" target="_blank">Learn more.</a>
+  Access seven new Copilot metrics and see them reflected in “total actions taken,” helping you better track how teams use Copilot. <a href="https://learn.microsoft.com/viva/insights/advanced/analyst/templates/microsoft-365-copilot-adoption" target="_blank">Learn more.</a>
 - **New metrics for Copilot for Sales** [Windows, Web, Android, iOS, Mac]  
-  Gain visibility into how employees are using Copilot for Sales within Microsoft 365 apps like Outlook, Teams, and Word. <a href="/viva/insights/advanced/reference/metrics#copilot-for-sales-metrics" target="_blank">Learn more.</a>
+  Gain visibility into how employees are using Copilot for Sales within Microsoft 365 apps like Outlook, Teams, and Word. <a href="https://learn.microsoft.com/en-us/viva/insights/advanced/reference/metrics#copilot-for-sales-metrics" target="_blank">Learn more.</a>
 - **New metrics for enterprise data-protected prompts** [Windows, Web, Android, iOS, Mac]  
-  Gain visibility into prompts submitted through Business Chat (web) and enterprise data-protected Copilot scenarios. <a href="/viva/insights/advanced/reference/metrics#microsoft-365-copilot-metrics" target="_blank">Learn more.</a>
+  Gain visibility into prompts submitted through Business Chat (web) and enterprise data-protected Copilot scenarios. <a href="https://learn.microsoft.com/viva/insights/advanced/reference/metrics#microsoft-365-copilot-metrics" target="_blank">Learn more.</a>
 ## December 17, 2024
 ### OneNote
 - **Use Copilot in OneNote on Mac and iPad** [iOS, Mac]  
@@ -1954,4 +1950,4 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 - **Use chat in Word's Viewing mode** [Windows, Mac]  
   Access chat while in Viewing mode to ask questions about the document's content without switching to Editing mode, improving your reading experience. <a href="https://support.microsoft.com/topic/4482c688-a495-4571-bfcd-4a9fc6608090" target="_blank">Learn more.</a>
 - **Use voice prompts for assistance** [Windows, Web, Mac]  
-  Use voice to dictate into the Copilot chat prompt field
+  Use voice to dictate into the Copilot chat prompt field.
