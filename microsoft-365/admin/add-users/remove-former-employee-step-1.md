@@ -33,7 +33,7 @@ description: "Block a former employee from logging in and block their access to 
 If you need to immediately prevent a user's sign-in access, reset their password. When you do this, you force a sign out of the user from Microsoft 365.
 
 > [!NOTE]
-> You need to be a global administrator to initiate sign-out for other administrators. For non administrator users, you can use a User Administrator or a Helpdesk Administrator user to perform this action. [Learn more about the Admin Roles](about-admin-roles.md)
+> You need to be a global administrator to initiate sign-out for other administrators. For non administrator users, you can use a User Administrator or a Helpdesk Administrator user to perform this action. [Learn more about the Admin Roles](about-admin-roles.md).
 
 1. In the admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 2. Select the user's name, and then select **Reset password**.
@@ -78,6 +78,6 @@ If you have email as part of your Microsoft 365 subscription, sign in to the <a 
 
 ## Related content
 
-[Exchange admin center in Exchange Online](/exchange/exchange-admin-center) (article)\
+[Exchange admin center in Exchange Online](/exchange/exchange-admin-center) (article)
 
 [Restore a user](restore-user.md) (article)
