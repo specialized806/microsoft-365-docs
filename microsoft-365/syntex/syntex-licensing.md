@@ -69,7 +69,7 @@ Pay-as-you-go licensing includes access to additional content management feature
 
 ## If you still have active per-user licenses
 
-As of July 1, 2023, per-user licenses are no longer available for purchase. Per-user licenses purchased prior to that date can still be assigned to new users. After existing per-user licenses expire, you'll need to opt in to Syntex [pay-as-you-go billing](syntex-azure-billing.md) to continue using Syntex services.
+As of July 1, 2023, per-user licenses are no longer available for purchase. Per-user licenses purchased prior to that date can still be assigned to new users. After existing per-user licenses expire, you'll need to opt in to [pay-as-you-go billing](syntex-azure-billing.md) to continue using Microsoft Syntex services.
 
 Users with active per-user licenses can perform the following tasks:
 
