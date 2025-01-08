@@ -29,10 +29,6 @@ items:
               href: difference-between-document-understanding-and-form-processing-model.md  
             - name: Requirements and limitations 
               href: requirements-and-limitations.md  
-            - name: Create an enterprise model
-              href: create-syntex-model.md
-            - name: Create a local model 
-              href: create-local-model.md 
 
     - name: Prebuilt document processing
       items:
