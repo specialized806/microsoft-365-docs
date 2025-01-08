@@ -252,12 +252,6 @@ items:
         - name: Find and manage terms 
           href: taxonomy-tagging.md
 
-    - name: Microsoft 365 Archive
-      href: /microsoft-365/archive
-
-    - name: Microsoft 365 Backup
-      href: /microsoft-365/backup
-
     - name: Annotations
       href: annotations.md
 
@@ -350,6 +344,12 @@ items:
               href: powershell-syntex-processing.md
             - name: Work with explanations
               href: powershell-syntex-explanations.md
+
+    - name: Microsoft 365 Archive
+      href: /microsoft-365/archive
+
+    - name: Microsoft 365 Backup
+      href: /microsoft-365/backup
 
     - name: SharePoint Advanced Management
       href: /sharepoint/advanced-management
