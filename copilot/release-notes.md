@@ -6,7 +6,7 @@ f1.keywords:
 ms.author: mandia
 author: MandiOhlinger
 manager: laurawi
-ms.date: 12/02/2024
+ms.date: 01/07/2025
 audience: Admin
 ms.reviewer: briandesouza
 ms.topic: get-started
@@ -44,7 +44,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   Enhance your agents by including Code Interpreter for advanced data analysis tasks in agent builder. <a href="/microsoft-365-copilot/extensibility/add-agent-capabilities#enable-code-interpreter" target="_blank">Learn more.</a>
 ### OneNote
 - **Use Copilot quick actions in OneNote: Rewrite, Summarize, and Create To-Dos** [Windows]  
-  Enhance your notes by using Copilot directly on the OneNote canvas. Instantly generate summaries, create to-do lists, or rewrite selected content within your notes. <a href="https://support.microsoft.com/office/summarize-your-onenote-notes-with-microsoft-365-copilot-89e1f3cd-9cbc-4b34-84da-40d52b39aff5" target="_blank">Learn more.</a>
+  Enhance your notes by using Copilot directly on the OneNote canvas. Instantly generate summaries, create to-do lists, or rewrite selected content within your notes. <a href="https://support.microsoft.com/office/rewrite-text-with-copilot-in-onenote-a33f14c9-b2f4-46b0-87b9-389690221610" target="_blank">Learn more.</a>
 ### Outlook
 - **Schedule meetings with Copilot chat in Outlook** [Windows, Web]  
   Save time and streamline your day by asking Copilot to schedule meetings for you in Outlook. Whether it’s a 1:1 or focus time, Copilot will find the best available time slots with ease. <a href="https://support.microsoft.com/topic/8090e7b3-5b1d-4c6d-9b06-02edac062f58" target="_blank">Learn more.</a>
@@ -611,7 +611,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   Enhance your agents by including Code Interpreter for advanced data analysis tasks in agent builder. <a href="/microsoft-365-copilot/extensibility/add-agent-capabilities#enable-code-interpreter" target="_blank">Learn more.</a>
 ### OneNote
 - **Use Copilot quick actions in OneNote: Rewrite, Summarize, and Create To-Dos** [Windows]  
-  Enhance your notes by using Copilot directly on the OneNote canvas. Instantly generate summaries, create to-do lists, or rewrite selected content within your notes. <a href="https://support.microsoft.com/office/summarize-your-onenote-notes-with-microsoft-365-copilot-89e1f3cd-9cbc-4b34-84da-40d52b39aff5" target="_blank">Learn more.</a>
+  Enhance your notes by using Copilot directly on the OneNote canvas. Instantly generate summaries, create to-do lists, or rewrite selected content within your notes. <a href="https://support.microsoft.com/office/rewrite-text-with-copilot-in-onenote-a33f14c9-b2f4-46b0-87b9-389690221610" target="_blank">Learn more.</a>
 ### Outlook
 - **Schedule meetings with Copilot chat in Outlook** [Windows, Web]  
   Save time and streamline your day by asking Copilot to schedule meetings for you in Outlook. Whether it’s a 1:1 or focus time, Copilot will find the best available time slots with ease. <a href="https://support.microsoft.com/topic/8090e7b3-5b1d-4c6d-9b06-02edac062f58" target="_blank">Learn more.</a>
@@ -1939,4 +1939,3 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
   Access chat while in Viewing mode to ask questions about the document's content without switching to Editing mode, improving your reading experience. <a href="https://support.microsoft.com/topic/4482c688-a495-4571-bfcd-4a9fc6608090" target="_blank">Learn more.</a>
 - **Use voice prompts for assistance** [Windows, Web, Mac]  
   Use voice to dictate into the Copilot chat prompt field.
-
