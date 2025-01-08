@@ -45,7 +45,7 @@ When you buy a Microsoft 365 for business subscription, you select a billing fre
 
 1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">Microsoft 365 admin center</a>.
     - If you're using the **Simplified view**, select **Subscriptions**.
-    - If you're using the **Dashboard view**, go to the **Billing**\> <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Your products</a> page.
+    - If you're using the **Dashboard view**, go to the **Billing** > <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">Your products</a> page.
 2. Select the subscription that you want to manage.
 3. On the subscription details page, in the **Subscription and payment settings** section, select **Edit billing frequency**.
 4. In the **Edit billing frequency** pane, choose either **Pay monthly** or **Pay yearly**, then select **Change**.
