@@ -3,7 +3,7 @@ title: Licensing for Microsoft Syntex
 ms.author: chucked
 author: chuckedmonson
 ms.reviewer: ssquires, kkameth
-ms.date: 12/30/2024
+ms.date: 01/07/2025
 manager: jtremper
 audience: admin
 ms.topic: conceptual
@@ -65,7 +65,7 @@ Pay-as-you-go licensing includes access to additional content management feature
 - Accounts payable accelerator
 - Taxonomy features, including import using SKOS, SKOS formatting reference, push content type to hub, and term store reports
 - PDF merge and extract pages
-- Content processing rules, including rules to move or copy a file, set a content type, and translate a document (to translate a document, you must have the document translation [pay-as-you-go service](syntex-pay-as-you-go-services.md) enabled)
+- Content processing rules, including rules to move or copy a file, set a content type, and translate a document (to use a rule to translate a document, you must have the document translation [pay-as-you-go service](syntex-pay-as-you-go-services.md) enabled)
 
 ## If you still have active per-user licenses
 
