@@ -29,10 +29,6 @@ items:
               href: difference-between-document-understanding-and-form-processing-model.md  
             - name: Requirements and limitations 
               href: requirements-and-limitations.md  
-            - name: Create an enterprise model
-              href: create-syntex-model.md
-            - name: Create a local model 
-              href: create-local-model.md 
 
     - name: Prebuilt document processing
       items:
@@ -40,6 +36,10 @@ items:
               href: prebuilt-overview.md
             - name: Admin setup
               href: prebuilt-setup.md
+            - name: Create an enterprise model
+              href: create-syntex-model.md
+            - name: Create a local model 
+              href: create-local-model.md 
             - name: Contracts
               href: prebuilt-model-contract.md
             - name: Invoices
@@ -83,6 +83,10 @@ items:
               href: form-processing-overview.md
             - name: Admin setup
               href: structured-freeform-setup.md
+            - name: Create an enterprise model
+              href: create-syntex-model.md
+            - name: Create a local model 
+              href: create-local-model.md 
             - name: Train your model
               href: create-a-form-processing-model.md
             - name: Manage your model
@@ -120,6 +124,10 @@ items:
               href: unstructured-setup.md
             - name: Import a sample model 
               href: learn-about-document-understanding-models-through-the-sample-model.md
+            - name: Create an enterprise model
+              href: create-syntex-model.md
+            - name: Create a local model 
+              href: create-local-model.md 
             - name: Train your model
               items:
                 - name: Create a classifier
@@ -243,12 +251,6 @@ items:
         - name: Find and manage terms 
           href: taxonomy-tagging.md
 
-    - name: Microsoft 365 Archive
-      href: /microsoft-365/archive
-
-    - name: Microsoft 365 Backup
-      href: /microsoft-365/backup
-
     - name: Annotations
       href: annotations.md
 
@@ -341,6 +343,12 @@ items:
               href: powershell-syntex-processing.md
             - name: Work with explanations
               href: powershell-syntex-explanations.md
+
+    - name: Microsoft 365 Archive
+      href: /microsoft-365/archive
+
+    - name: Microsoft 365 Backup
+      href: /microsoft-365/backup
 
     - name: SharePoint Advanced Management
       href: /sharepoint/advanced-management
