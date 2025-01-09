@@ -129,7 +129,8 @@ The Loop app is designed for both shared and personal workspaces.
 - User-owned workspaces can't be permanently reassigned to a new owner. These workspaces follow the same cleanup schedule as OneDrive: 30 days active, then soft deleted, and permanently purged 93 days after soft deletion.
 - Admins can recover content during the soft delete period using the SharePoint Admin Center or PowerShell.
 
-Note: A feature for IT admins to assign additional temporary custodians during the cleanup period of user-owned workspaces to make copies of content isn't yet available. Microsoft Roadmap ID 421612 addresses this.
+> [!NOTE]
+> A feature for IT admins to assign additional temporary custodians during the cleanup period of user-owned workspaces to make copies of content isn't yet available. Microsoft Roadmap ID 421612 addresses this.
 
 ### In Loop components created in Microsoft 365 outside of the Loop app
 
