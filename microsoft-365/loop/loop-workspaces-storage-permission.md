@@ -7,7 +7,7 @@ audience: Admin
 ms.topic: conceptual
 ms.service: loop
 ms.reviewer: michalbr
-ms.date: 06/26/2024
+ms.date: 01/08/2025
 ms.localizationpriority: medium
 search.appverid: MET150
 ms.collection: 
@@ -49,7 +49,7 @@ Loop app workspaces are stored inside your tenant, within SharePoint Embedded. A
 
 ## Loop workspace storage limits
 
-Loop workspaces have a maximum size of 25TB per workspace. This limit can't be increased or decreased. Workspace content counts towards a user's storage quota, and since this per-user storage quota is always less than 25TB, the 25TB limit should never be reached, in practice. Loop workspaces are implemented as SharePoint Embedded containers. Learn more about [SharePoint Embedded container limits](/sharepoint/dev/embedded/concepts/app-concepts/limit-calling).
+Loop workspaces have a maximum size of 25TB per workspace. This limit can't be increased or decreased. Workspace content counts towards a user's storage quota, and since this per-user storage quota is always less than 25TB, the 25TB limit should never be reached, in practice. Loop workspaces are implemented as SharePoint Embedded containers. Learn more about [SharePoint Embedded container limits](/sharepoint/dev/embedded/concepts/app-concepts/limits-calling).
 
 ## Content permissions mechanism
 
