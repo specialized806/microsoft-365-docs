@@ -36,7 +36,7 @@ The following video demonstrates the steps to help you set up pay-as-you-go bill
 
 </br>
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RW1kOkz]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=fea6b1e5-b757-4f33-8cdf-4fcc714c72e0]
 
 </br>
 
