@@ -107,7 +107,7 @@ External recipients might need to authenticate before they're able to access a d
 
 ### Conditional access
 
-Certain [conditional access](/entra/identity/conditional-access/overview) might determine whether external recipients (signers outside of your organization or Microsoft 365 tenant) are able sign a document. Depending on the admin setup, external signers might not be able to access and read the document for signing. In some other cases, they might be able to access the document for signing, but the signing operation is unsuccessful. One common way to resolve this is to add the **Microsoft eSignature Service** to the list of approved apps via the Microsoft Entra admin center.
+Certain [conditional access](/entra/identity/conditional-access/overview) might determine whether external recipients (signers outside of your organization or Microsoft 365 tenant) are able sign a document. Depending on the admin setup, external signers might not be able to access and read the document for signing. In some other cases, they might be able to access the document for signing, but the signing operation is unsuccessful. One common way to resolve this is to add **SharePoint eSignature** (or Microsoft eSignature Service) to the list of approved apps via the Microsoft Entra admin center.
 
 > [!NOTE]
 > When using other electronic signature providers, settings within Microsoft 365 don't impact whether you can send requests outside to external recipients.
