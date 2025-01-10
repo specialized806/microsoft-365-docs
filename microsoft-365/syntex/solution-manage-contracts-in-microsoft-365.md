@@ -25,7 +25,7 @@ This article describes how to create a contracts management solution for your or
 
 </br>
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RWJUR0]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=04c084c9-5419-408a-9e6e-92d01bb3ddee]
 
 </br>
 
