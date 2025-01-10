@@ -32,7 +32,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 
 <!--- All features regardless of platform go here  -->
 
-## January 7, 2024
+## January 7, 2025
 ### Copilot Prompt Gallery
 - **Access Copilot Prompt Gallery in Word and PowerPoint mobile apps** [Android, iOS]  
   Discover and use suggested Copilot prompts in Prompt Gallery within the Word and PowerPoint apps on iOS and Android. Enhance your productivity on the go with helpful AI suggestions.
@@ -605,7 +605,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 
 <!--- All features that have 'Windows' tag  -->
 
-## January 7, 2024
+## January 7, 2025
 ### Microsoft 365 Copilot extensibility
 - **Include Code Interpreter in agents** [Windows, Web]  
   Enhance your agents by including Code Interpreter for advanced data analysis tasks in agent builder. <a href="/microsoft-365-copilot/extensibility/add-agent-capabilities#enable-code-interpreter" target="_blank">Learn more.</a>
@@ -952,7 +952,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ## [Web](#tab/web)
 
 <!--- All features that have 'Web' tag  -->
-## January 7, 2024
+## January 7, 2025
 ### Microsoft 365 admin center
 - **Track usage of Microsoft Copilot with enterprise data protection** [Web]  
   Filter data by date range, review Microsoft Copilot usage by app entry point, and use these insights plan adoption strategies more confidently. <a href="/microsoft-365/admin/activity-reports/microsoft-copilot-usage" target="_blank">Learn more.</a>
@@ -1370,7 +1370,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ## [Android](#tab/androidos)
 
 <!--- All features that have 'Android' tag  -->
-## January 7, 2024
+## January 7, 2025
 ### Copilot Prompt Gallery
 - **Access Copilot Prompt Gallery in Word and PowerPoint mobile apps** [Android, iOS]  
   Discover and use suggested Copilot prompts in Prompt Gallery within the Word and PowerPoint apps on iOS and Android. Enhance your productivity on the go with helpful AI suggestions.
@@ -1481,7 +1481,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ## [iOS](#tab/appleios)
 
 <!--- All features that have 'iOS' tag  -->
-## January 7, 2024
+## January 7, 2025
 ### Copilot Prompt Gallery
 - **Access Copilot Prompt Gallery in Word and PowerPoint mobile apps** [Android, iOS]  
   Discover and use suggested Copilot prompts in Prompt Gallery within the Word and PowerPoint apps on iOS and Android. Enhance your productivity on the go with helpful AI suggestions.
@@ -1704,7 +1704,7 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 ## [Mac](#tab/mac)
 
 <!--- All features that have 'Mac' tag  -->
-## January 7, 2024
+## January 7, 2025
 ### Viva Insights
 - **Expand your understanding of Copilot adoption with enhanced metrics** [Windows, iOS, Mac]  
   Access seven new Copilot metrics and see them reflected in “total actions taken,” helping you better track how teams use Copilot. <a href="/viva/insights/advanced/analyst/templates/microsoft-365-copilot-adoption" target="_blank">Learn more.</a>
