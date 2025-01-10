@@ -121,7 +121,7 @@ After your organization converts your account to a managed Microsoft Entra ID, o
 
 - Your old sign-in ID
 - The new Microsoft Entra ID you just signed up for
-- Volume license agreement numbers
+- VL agreement numbers
 - The email address listed on the licensing agreement (the one where the invitation was sent)
 
 ### I don’t see the volume licensing page in the Microsoft 365 admin center
@@ -130,7 +130,7 @@ If you don't see the <a href="https://go.microsoft.com/fwlink/p/?linkid=2244144"
 
 - **Use the correct URL:** Verify that you're going to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">Microsoft 365 admin center</a>, then select **Billing** > **Your products** > <a href="https://go.microsoft.com/fwlink/p/?linkid=2244144" target="_blank">Volume licensing</a>.
 
-  - If you don't see **Billing**, at the bottom of the navigation menu, select **View all**, and then pin the **Billing** option to the navigation menu.
+  - If you don't see **Billing**, go to the bottom of the navigation menu, select **View all**, and then pin the **Billing** option to the navigation menu.
 - **Use the correct role:** You might have access to the admin center because of a different role.
 
   - If you're a VL user, verify that you completed the license registration by selecting the link in the welcome email that you received.  
@@ -143,8 +143,8 @@ The old Volume Licensing Service Center (VLSC) was retired in April 2024, and al
 
 If there's no administrator for that agreement, ask the VL support team to create a new VL profile for you. You must be able to confirm the following information:
 
-- Agreement (license ID) number
-- Business email address listed on the VL agreement
+- VL agreement (license ID) number
+- Business email address listed in the VL agreement
 - The sign-in ID that you use to sign in to the Microsoft 365 admin center
 
 ## Contact volume licensing support
