@@ -6,7 +6,7 @@ manager: jtremper
 ms.reviewer: ssquires
 audience: admin
 ms.topic: solution-overview
-ms.date: 02/14/2024
+ms.date: 01/08/2025
 ms.service: microsoft-syntex
 ms.collection:
 - m365solution-managecontracts
