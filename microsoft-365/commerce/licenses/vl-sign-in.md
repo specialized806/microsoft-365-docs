@@ -94,7 +94,7 @@ Alternatively, if you need a Microsoft Entra ID format that isn't linked to the 
 
 This section explains how to resolve issues that you might encounter when you try to sign in to the Microsoft 365 admin center to perform VL tasks.
 
-### You’re redirected to the Azure portal when you sign in[RH13.1]
+### You’re redirected to the Azure portal when you sign in
 
 When you try to sign in to the Microsoft 365 admin center, you might be redirected to the Azure portal (azure.microsoft.com) instead, and are unable to access your VL information. This redirect happens because of your organization’s Outlook settings and isn’t something that Microsoft’s VL support team can resolve. Ask your IT administrators to check the safe links list in their Microsoft Defender policy settings. For more information, see [Set up Safe Links policies in Microsoft Defender for Office 365](/defender-office-365/safe-links-policies-configure). If you need help with configuring Outlook safe settings, you can open a [technical support request](https://support.serviceshub.microsoft.com/supportforbusiness/create).
 
@@ -139,7 +139,7 @@ If you don't see the <a href="https://go.microsoft.com/fwlink/p/?linkid=2244144"
 
 ### My volume licensing welcome email is invalid
 
-The old Volume Licensing Service Center (VLSC) was retired in April 2024, and all existing customers were migrated to the Microsoft 365 admin center. If you received an invitation to the VLSC before April 2024 but haven't yet registered your account in the site, the invitation is now invalid. [CM19.1][RH19.2]If you still need permissions to view and manage a VL agreement, ask a VL administrator in your organization to add you as a VL user. For more information, see [How do I manage users and roles?](user-roles-faq.md#how-do-i-manage-users-and-roles-)
+The old Volume Licensing Service Center (VLSC) was retired in April 2024, and all existing customers were migrated to the Microsoft 365 admin center. If you received an invitation to the VLSC before April 2024 but haven't yet registered your account in the site, the invitation is now invalid. If you still need permissions to view and manage a VL agreement, ask a VL administrator in your organization to add you as a VL user. For more information, see [How do I manage users and roles?](user-roles-faq.yml#how-do-i-manage-users-and-roles-)
 
 If there's no administrator for that agreement, ask the VL support team to create a new VL profile for you. You must be able to confirm the following information:
 
