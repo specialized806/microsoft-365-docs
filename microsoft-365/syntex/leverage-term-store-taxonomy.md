@@ -23,7 +23,7 @@ description: Use term store taxonomy when creating an extractor in your model in
 
 </br>
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4GpJJ]  
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=a47ffcfc-0494-4a4a-85cb-9017bba024b0]  
 
 </br>
 
