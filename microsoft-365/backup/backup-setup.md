@@ -36,7 +36,7 @@ Once you have the information on this list, you're ready to [set up pay-as-you-g
 
 </br>
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RW1k4TO]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=0f61cfb9-425b-482a-aff2-7b21b3c5767d]
 
 </br>
 
