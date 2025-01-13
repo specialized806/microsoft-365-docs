@@ -64,9 +64,9 @@ To configure Microsoft Syntex billing, follow these steps:
 
 7. Select **Save**.
 
-## Remove Syntex from pay-as-you-go billing
+## Disconnect Syntex from pay-as-you-go billing
 
-To disconnect Microsoft Syntex billing, follow these steps:
+To disconnect Microsoft Syntex from pay-as-you-go billing, follow these steps:
 
 1. In the Microsoft 365 admin center, select **Settings** > **Org settings**.
 
