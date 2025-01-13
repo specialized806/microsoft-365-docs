@@ -24,7 +24,7 @@ ms.custom:
 search.appverid: MET150 
 ROBOTS: NOINDEX, NOFOLLOW
 description: "Learn how to use the Microsoft 365 admin center to resolve a detached subscription that you bought from a CSP partner."
-ms.date: 10/17/2024
+ms.date: 01/13/2025
 ---
 
 # Resolve subscriptions detached from CSP partners in the Microsoft 365 admin center
