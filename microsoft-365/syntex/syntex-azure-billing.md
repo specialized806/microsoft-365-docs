@@ -64,6 +64,22 @@ To configure Microsoft Syntex billing, follow these steps:
 
 7. Select **Save**.
 
+## Remove Syntex from pay-as-you-go billing
+
+To disconnect Microsoft Syntex billing, follow these steps:
+
+1. In the Microsoft 365 admin center, select **Settings** > **Org settings**.
+
+2. On the **Pay-as-you-go services** page, on the **Billing** tab, select **Syntex services**.
+
+3. On the **Manage billing** panel, under **Azure subscription**, select **Edit billing information**.
+
+4. Under **Manage billing**, select **Disconnect Azure subscription**.
+
+5. On the **Disconnect subscription?** confirmation window, select **Disconnect**.
+
+6. On the **Set up services and turn on services** panel, view the confirmation message that your Azure Subscription has been disconnected.
+
 ## Monitor your Microsoft Syntex pay-as-you-go usage
 
 You can monitor your Microsoft Syntex pay-as-you-go usage in Microsoft Cost Management for Azure. You must have at least *read* access to the resource group that you specified for Microsoft Syntex. Note that usage information might take up to 24 hours to appear in Cost Management.
