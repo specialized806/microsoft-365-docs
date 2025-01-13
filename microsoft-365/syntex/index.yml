@@ -12,7 +12,7 @@ metadata:
   ms.custom: intro-hub-or-landing
   author: chuckedmonson #Required; your GitHub user alias, with correct capitalization.
   ms.author: chucked #Required; microsoft alias of author; optional team alias.
-  ms.date: 05/07/2024 #Required; mm/dd/yyyy format
+  ms.date: 01/06/2025 #Required; mm/dd/yyyy format
   ms.localizationpriority: medium
   titleSuffix: Microsoft Syntex
 
@@ -38,17 +38,8 @@ landingContent:
             url: https://www.linkedin.com/learning/search?keywords=syntex&upsellOrderOrigin=default_guest_learning&trk=homepage-learning_learning-search-bar_search-submit
       - linkListType: whats-new
         links:
-          - text: Autofill columns
-            url: autofill-overview.md
-          - text: Content model Graph API
-            url: /graph/api/resources/contentmodel?view=graph-rest-beta
-          - text: Document processing Graph API
-            url: /graph/api/resources/documentprocessingjob?view=graph-rest-beta
-          - text: Sensitive information prebuilt model
-            url: prebuilt-model-sensitive-info.md
-          - text: Track and manage eSignature requests using Approvals in Teams
-            url: esignature-approvals.md
-
+          - text: Use a prebuilt model to extract information from simple documents
+            url: prebuilt-model-simple.md
 
 # Card 2
   - title: Get started
@@ -69,7 +60,7 @@ landingContent:
             url: create-local-model.md
 
 # Card 3
-  - title: Microsoft Syntex services
+  - title: Pay-as-you-go services
     linkLists:
       - linkListType: overview
         links:
@@ -79,20 +70,20 @@ landingContent:
             url: form-processing-overview.md
           - text: Unstructured document processing
             url: document-understanding-overview.md
-          - text: Content assembly
-            url: content-assembly.md
-          - text: Image tagging
-            url: image-tagging-overview.md
-          - text: Taxonomy tagging
-            url: taxonomy-tagging-overview.md
-          - text: SharePoint eSignature
-            url: esignature-overview.md
-          - text: Document translation
-            url: translation-overview.md
           - text: Autofill columns
             url: autofill-overview.md
+          - text: Content assembly
+            url: content-assembly.md
+          - text: Document translation
+            url: translation-overview.md
+          - text: eSignature
+            url: esignature-overview.md
+          - text: Image tagging
+            url: image-tagging-overview.md
           - text: Optical character recognition
             url: ocr-overview.md
+          - text: Taxonomy tagging
+            url: taxonomy-tagging-overview.md
       - linkListType: architecture
         links:
           - text: Microsoft 365 Archive
@@ -133,7 +124,7 @@ landingContent:
             url: adoption-assessment-tool.md
 
 # Card 6
-  - title: Other features
+  - title: Additional features
     linkLists:
       - linkListType: overview
         links:

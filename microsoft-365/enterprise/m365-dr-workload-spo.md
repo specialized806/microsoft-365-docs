@@ -100,6 +100,9 @@ Refer to the link above for more information about the retirement plan and the a
 
 ## **Multi-Geo Capabilities in SharePoint / OneDrive**
 
+> [!IMPORTANT]
+> There is currently a known issue caused by the retirement of BCS that is affecting site moves. The fix is currently being worked on. Currently, if you are facing issues, please try using the PowerShell cmdlet while using the -SuppressBcsCheck parameter.
+
 Multi-Geo capabilities in OneDrive and SharePoint enable control of shared resources like SharePoint team sites and Microsoft 365 group mailboxes stored at rest in a specified _Macro Region Geography_ or _Local Region Geography_.
 
 Each user, Group mailbox, and SharePoint site have a Preferred Data Location (PDL) which denotes the _Macro Region Geography_ or _Local Region Geography_ (location where related data is to be stored). Users' personal data (Exchange mailbox and OneDrive) along with any Microsoft 365 Groups or SharePoint sites that they create can be stored in the specified _Macro Region Geography_ or _Local Region Geographies_ location to meet data residency requirements. You can specify different administrators for each _Macro Region Geography_ or _Local Region Geographies_ location.
@@ -261,7 +264,7 @@ To schedule a _Geography_ move for a later time, use one of the following parame
 You can stop the _Geography_ move of a user's OneDrive, provided the move isn't in progress or completed by using the cmdlet:
 
 ```powershell
-Stop-SPOUserAndContentMove – UserPrincipalName <UserPrincipalName>
+Stop-SPOUserAndContentMove –UserPrincipalName <UserPrincipalName>
 ```
 
 Where _UserPrincipalName_ is the UPN of the user whose OneDrive move you want to stop.
@@ -487,11 +490,14 @@ The move statuses are described in the following table.
 
 |Status|Description|
 |---|---|
-|Ready to Trigger|The move hasn't started.|
+|Ready to Trigger|The move hasn't started. You must run the relevant PowerShell cmdlet to start the move.|
 |Scheduled|The move is in queue but hasn't yet started.|
 |InProgress (n/4)|The move is in progress in one of the following states: Validation (1/4), Back up (2/4), Restore (3/4), Cleanup (4/4).|
 |Success|The move completed successfully.|
 |Failed|The move failed.|
+|Stopped|The move was canceled by an admin while it was still queued.|
+|NotSupported|The move could not be processed because the PDL was invalid.|
+|Rescheduled|The move did not succeed and is being scheduled again for another attempt.|
 
 You can also apply the `-Verbose` option to see additional information about the move.
 

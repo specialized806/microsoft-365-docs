@@ -16,7 +16,7 @@ ms.collection:
 appliesto: 
   - Microsoft Teams
   - Microsoft 365 for frontline workers
-ms.date: 10/02/2024
+ms.date: 11/22/2024
 ---
 
 # Deploy your frontline operational hierarchy
@@ -28,7 +28,7 @@ ms.date: 10/02/2024
 
 Setting up your frontline operational hierarchy enables you to map your organization’s structure of frontline teams and locations to a hierarchy in the Teams admin center. You can organize your organization’s teams by country, region, area, city, district, and so on. Using a CSV file, you can connect each of your frontline teams and locations to parent teams to build this hierarchy. Admins can also define metadata in the CSV file that ranges from department information to brand information metadata for each team and location.
 
-The operational hierarchy coupled with this metadata enables frontline apps and experiences, like [targeted announcements in Viva Connections](/viva/connections/announcements-viva-connections), and numerous frontline capabilities, like task publishing, in the future. Start setting up your operational hierarchy today to get the full value of these upcoming features as they're released.
+The operational hierarchy coupled with this metadata enables frontline experiences, like [targeted announcements in Viva Connections](/viva/connections/announcements-viva-connections), [open shifts across locations in Shifts](set-up-open-shifts-across-locations.md) (Preview), and numerous frontline apps and capabilities, like task publishing, in the future. Start setting up your operational hierarchy today to get the full value of these upcoming features as they're released.
 
 > [!IMPORTANT]
 > If your organization already set up and uploaded a hierarchy through PowerShell to support task publishing, you should continue to [use PowerShell to make updates to your hierarchy for task publishing](/microsoftteams/set-up-your-team-hierarchy). Using the Teams admin center isn't supported yet. Soon, you'll be able to define, manage, and update your hierarchy for task publishing in the Teams admin center, along with PowerShell.
@@ -47,7 +47,7 @@ It's important to understand the following terms as you navigate hierarchies. Te
 
 ## Set up your hierarchy
 
-1. In the left navigation of the [Teams admin center](https://admin.teams.microsoft.com/), choose **Teams** > **Manage frontline teams**.
+1. In the left navigation of the [Teams admin center](https://admin.teams.microsoft.com/), choose **Frontline deployment** > **Manage frontline teams**.
 1. Go to the **Operational hierarchy** tab.
 
     :::image type="content" source="media/frontline-hierarchy-get-started.png" alt-text="Screenshot of the Operational hierarchy tab on the Manage frontline teams page, showing the Get started button." lightbox="media/frontline-hierarchy-get-started.png":::
@@ -109,7 +109,7 @@ When you add an attribute column, keep the following things in mind:
 
 ## Manage your hierarchy
 
-1. In the left navigation of the [Teams admin center](https://admin.teams.microsoft.com/), choose **Teams** > **Manage frontline teams**.
+1. In the left navigation of the [Teams admin center](https://admin.teams.microsoft.com/), choose **Frontline deployment** > **Manage frontline teams**.
 1. Go to the **Operational hierarchy** tab.
 
       :::image type="content" source="media/frontline-hierarchy-manage.png" alt-text="Screenshot of the table on the Operational hierarchy tab of the Manage frontline teams page, showing options after setup is completed." lightbox="media/frontline-hierarchy-manage.png":::
@@ -119,7 +119,7 @@ When you add an attribute column, keep the following things in mind:
     -  Start fresh and download the template again to create a new hierarchy CSV file.
 
         > [!NOTE]
-        > If you created more frontline teams through the [deploy frontline dynamic teams at scale](deploy-dynamic-teams-at-scale.md) experience since the last time you set up your hierarchy, the DisplayName and TeamId values of those frontline teams are added and pre-popluated in the CSV template.
+        > If you created more frontline teams through the [deploy frontline dynamic teams at scale](deploy-dynamic-teams-at-scale.md) experience since the last time you set up your hierarchy, the DisplayName and TeamId values of those frontline teams are added and pre-populated in the CSV template.
 
 1. When you're ready, [upload](#upload-your-hierarchy) your hierarchy CSV file.
 
@@ -138,3 +138,4 @@ To delete your hierarchy, [upload](#upload-your-hierarchy) a blank CSV file.
 ## Related articles
 
 - [Use announcements in Viva Connections](/viva/connections/announcements-viva-connections)
+- [Set up open shifts across locations in Shifts for your frontline](set-up-open-shifts-across-locations.md) (Preview)

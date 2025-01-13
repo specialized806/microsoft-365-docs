@@ -1,3 +1,4 @@
+items:
 - name: Microsoft 365 Lighthouse
   items:
     - name: What's new in Microsoft 365 Lighthouse
@@ -60,6 +61,10 @@
       href: m365-lighthouse-alerts-overview.md
     - name: Create and manage alert rules
       href: m365-lighthouse-create-manage-alert-rules.md
+- name: Get Copilot insights
+  items: 
+    - name: Overview of Copilot insights
+      href: m365-lighthouse-copilot-insights-overview.md
 - name: Manage tenants
   items: 
     - name: Overview of the Tenants page

@@ -22,7 +22,7 @@ description: Learn about the capabilities, services, and features in Microsoft S
 
 <!---</br>
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RW15yuU] 
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=2d175508-cfa8-4258-b595-3af948bb7559] 
 
 </br>--->
 
@@ -86,7 +86,7 @@ You create *modern templates* based on the business documents you use most. You 
       ![Icon for Receipts model.](../media/content-understanding/trained-receipts-model.png) 
    :::column-end:::
    :::column span="3":::
-      Use a [prebuilt model](prebuilt-overview.md) to save time processing and extracting information from [contracts](prebuilt-model-contract.md), [invoices](prebuilt-model-invoice.md), and [receipts](prebuilt-model-receipt.md), and detecting and extracting [sensitive information](prebuilt-model-sensitive-info.md) from documents. Prebuilt models are pretrained to recognize common business documents and the structured information in the documents.
+      Use a [prebuilt model](prebuilt-overview.md) to save time processing and extracting information from [contracts](prebuilt-model-contract.md), [invoices](prebuilt-model-invoice.md), [receipts](prebuilt-model-receipt.md), [sensitive information](prebuilt-model-sensitive-info.md) documents, and [simple documents](prebuilt-model-simple.md). Prebuilt models are pretrained to recognize common business documents and the structured information in the documents.
    :::column-end:::
 :::row-end:::
 

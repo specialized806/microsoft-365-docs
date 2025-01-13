@@ -39,7 +39,7 @@ Microsoft 365 or Office 365 subscription comes with a set of admin roles that yo
 
 Check out this video and others on our [YouTube channel](https://go.microsoft.com/fwlink/?linkid=2198028).
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1SRc0]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=09f25c9c-6c0b-4e0d-85c6-acd0964d39d9]
 
 1. While signed into Microsoft 365, select the app launcher. If you see the Admin button, then you're an admin.
 1. Select **Admin** to go to the Microsoft 365 admin center.
@@ -76,10 +76,11 @@ You'll probably only need to assign the following roles in your organization. By
 
 |Admin role     |Who should be assigned this role?  |
 |---------|---------|
-|Billing admin     |   Assign the Billing admin role to users who make purchases, manage subscriptions and service requests, and monitor service health. Billing admins cannot assign licenses; If a Billing admin is also a License or User Administrator, visit [Licenses](https://go.microsoft.com/fwlink/p/?linkid=842264) to assign licenses.<br><br> Billing admins also can:<br> &bull; Manage all aspects of billing<br> &bull; Create and manage support tickets in the Azure portal <br/><br/> **Note:** Only Global admins can view and manage subscriptions purchased through a Partner.|
+| AI administrator | Assign the AI Administrator role to users who need to do the following tasks:<br> &bull; Manage all aspects of Microsoft 365 Copilot <br> &bull; Manage AI-related enterprise services, extensibility, and copilot agents from the Integrated apps page in the Microsoft 365 admin center <br> &bull; Approve and publish line-of-business copilot agents <br> &bull; Allow users to install an app or install an app for users in the organization if the app does not require permission <br> &bull; Read and configure Azure and Microsoft 365 service health dashboards <br> &bull; View usage reports, adoption insights, and organizational insight <br> &bull; Create and manage support tickets in Azure and the Microsoft 365 admin center<br/>|
+|Billing admin     |   Assign the Billing admin role to users who make purchases, manage subscriptions and service requests, and monitor service health. Billing admins cannot assign licenses; If a Billing admin is also a License or User Administrator, visit [Licenses](https://go.microsoft.com/fwlink/p/?linkid=842264) to assign licenses.<br><br> Billing admins also can:<br> &bull; Manage all aspects of billing<br> &bull; Create and manage support tickets in the Azure portal <br/><br/>|
 |Exchange admin     |   Assign the Exchange admin role to users who need to view and manage your user's email mailboxes, Microsoft 365 groups, and Exchange Online. <br><br> Exchange admins can also:<br> &bull; Recover deleted items in a user's mailbox <br> &bull; Set up "Send As" and "Send on behalf" delegates <br>  |
 |Fabric admin |   Assign the Fabric admin role to users who need to do the following: <br> &bull; Manage all admin features for Microsoft Fabric and Power BI <br> &bull; Report on usage and performance <br> &bull; Review and manage auditing  |
-|Global admin     |   Giving too many users global access is a security risk and we recommend that you have as few global admins as possible. <br/><br/> Only global admins can:<br> &bull; Reset passwords for all users <br> &bull; Add and manage domains <br> &bull; Unblock another global admin <br/><br/> **Note:**   The person who signed up for Microsoft online services automatically becomes a Global admin. |
+|Global admin     |   Giving too many users global access is a security risk and we recommend that you have as few global admins as possible. <br/><br/> Only global admins can:<br> &bull; Reset passwords for all users <br> &bull; Add and manage domains <br> &bull; Unblock another global admin <br/><br/> **Note:**   The person who signed up for Microsoft online services automatically becomes a Global admin. Additionally, only Global admins can view and manage subscriptions purchased through a Partner.|
 |Global reader    |   Assign the global reader role to users who need to view admin features and settings in admin centers that the global admin can view. The global reader admin can't edit any settings.   |
 |Groups admin     |   Assign the groups admin role to users who need to manage all groups settings across admin centers, including the Microsoft 365 admin center and Microsoft Entra admin center. <br><br> Groups admins can:<br> &bull; Create, edit, delete, and restore Microsoft 365 groups<br> &bull; Create and update group creation, expiration, and naming policies<br> &bull; Create, edit, delete, and restore Microsoft Entra security groups|
 |Helpdesk admin     |   Assign the Helpdesk admin role to users who need to do the following:<br> &bull; Reset passwords<br> &bull; Force users to sign out<br> &bull; Manage service requests<br> &bull; Monitor service health<br/><br/> **Note**: The Helpdesk admin can only help non-admin users and users assigned these roles: Directory reader, Guest inviter, Helpdesk admin, Message center reader, and Reports reader.      |
@@ -114,6 +115,7 @@ You'll probably only need to assign the following roles in your organization. By
 | Skype admin  | Read | Read | Read | Read |
 | Service admin  | Read | Read  | Read | Read |
 | Group admin  | Create, Read, Update, Delete, ***Can't update EXO properties*** | Create, Read, Update, Delete | Read | Read |
+| AI administrator | Read | Read | Read | Read | 
 
 ## Delegated administration for Microsoft Partners
 
