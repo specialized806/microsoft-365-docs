@@ -2,7 +2,7 @@
 title: "Resolve subscriptions detached from CSP partners in the Microsoft 365 admin center"
 f1.keywords: 
 - CSH
-- MACGlobalDetachedSubscription
+- MACGlobalDetachedSubscriptions
 author: cmcatee-MSFT
 ms.author: cmcatee
 manager: scotv
