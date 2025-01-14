@@ -85,6 +85,10 @@ Give users the flexibility to acquire this product without an administrator's he
 
 To learn more, see [Use AllowSelfServicePurchase for the MSCommerce PowerShell module](/microsoft-365/commerce/subscriptions/allowselfservicepurchase-powershell).
 
+### Copilot Agent Consumption Meter Configuration
+
+You can reach Power Platform Licensing from the Copilot Settings page in the Microsoft 365 admin center. This setting allows for the creation of a billing plan that tracks and manages consumption for Microsoft 365 Copilot Chat. By setting up a new billing plan, selecting an Azure subscription, and linking the necessary environments, this configuration helps manage message capacity, monitor usage, and handle overages efficiently, ensuring cost-effective resource usage. To learn more, see [Set up a pay-as-you-go plan - Power Platform](/power-platform/admin/pay-as-you-go-set-up).
+
 ### Copilot in Teams meetings
 
 Manage how Copilot is used in Teams meetings through the Microsoft Teams admin center. This includes settings related to the meeting transcript. Specifically, admins can decide whether Copilot can be used only during the meeting or both during and after the meeting.
