@@ -278,8 +278,8 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 - **Support for data ranges resembling tables** [Windows, Web, iOS, Mac]  
   Copilot can now reason over data ranges with a single row of headers, even if they aren't formatted as formal tables. This makes data analysis more flexible.
 ### Microsoft 365 admin center
-- **Gain visibility into Copilot Graph-grounded chat usage** [Web]  
-  Access usage metrics for Microsoft 365 Copilot Graph-grounded chat to inform your adoption strategies. <a href="/microsoft-365/admin/activity-reports/microsoft-365-copilot-usage" target="_blank">Learn more.</a>
+- **Gain visibility into Microsoft 365 Copilot Chat usage** [Web]  
+  Access usage metrics for Microsoft 365 Copilot Chat to inform your adoption strategies. <a href="/microsoft-365/admin/activity-reports/microsoft-365-copilot-usage" target="_blank">Learn more.</a>
 ### Microsoft Loop
 - **Copilot-Assisted Loop Page Creation** [Web]  
   Collaborate with Copilot to create structured Loop pages quickly. Start from scratch or modify existing pages or templates with AI assistance for efficient teamwork.
@@ -1131,8 +1131,8 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 - **Support for data ranges resembling tables** [Windows, Web, iOS, Mac]  
   Copilot can now reason over data ranges with a single row of headers, even if they aren't formatted as formal tables. This makes data analysis more flexible.
 ### Microsoft 365 admin center
-- **Gain visibility into Copilot Graph-grounded chat usage** [Web]  
-  Access usage metrics for Microsoft 365 Copilot Graph-grounded chat to inform your adoption strategies. <a href="/microsoft-365/admin/activity-reports/microsoft-365-copilot-usage" target="_blank">Learn more.</a>
+- **Gain visibility into Microsoft 365 Copilot Chat usage** [Web]  
+  Access usage metrics for Microsoft 365 Copilot Chat to inform your adoption strategies. <a href="/microsoft-365/admin/activity-reports/microsoft-365-copilot-usage" target="_blank">Learn more.</a>
 ### Microsoft Loop
 - **Copilot-Assisted Loop Page Creation** [Web]  
   Collaborate with Copilot to create structured Loop pages quickly. Start from scratch or modify existing pages or templates with AI assistance for efficient teamwork.
