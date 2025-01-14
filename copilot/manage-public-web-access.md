@@ -120,7 +120,7 @@ If the IT admin doesn’t configure the **Allow web search in Copilot** policy, 
 
 > [!NOTE]
 > For Government Community Cloud (GCC) customers:
-> - Web search is available in GCC, except for BizChat in Teams.
+> - Web search is available in GCC, except for Microsoft 365 Copilot Chat (previously named Business Chat) in Teams.
 > - The **Allow web search in Copilot** policy is available in GCC in Cloud Policy service for Microsoft 365.
 > - If the IT admin doesn’t configure the **Allow web search in Copilot** policy, web search will be turned off in GCC, regardless of how the **Allow the use of additional optional connected experiences in Office** policy is configured.
 
