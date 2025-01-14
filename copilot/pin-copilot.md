@@ -90,7 +90,18 @@ Users with a paid version of Microsoft 365 Copilot will not see any pinning mess
 
 If you choose to pin Microsoft Copilot for all users, it will be pinned in the Microsoft 365 app for desktop, mobile, and web starting mid-September. Microsoft Copilot will be pinned in Microsoft Teams, Microsoft Outlook, and the Microsoft 365 web app soon after.
 
-To learn more about the Microsoft Copilot announcement, see [Frequently asked questions for Microsoft Copilot with enterprise data protection](https://aka.ms/MsftCopilot-BlogFAQ).
+To learn more about the Microsoft Copilot announcement, see [Frequently asked questions for Microsoft 365 Copilot Chat](https://aka.ms/MsftCopilot-BlogFAQ).
+
+## Pin Microsoft Copilot in Microsoft Teams through the Teams admin center
+
+You can pin Microsoft Copilot for your users in Microsoft Teams only through the Teams admin center. In the Teams admin center, create or modify [App setup policies](/microsoftteams/teams-app-setup-policies#pin-apps) by adding the Copilot app to the policy's Pinned apps. Assign the policy to users with a Microsoft Entra account to pin the Microsoft Copilot app for them. Like pinning any other app in Teams, Copilot will also need to be allowed for those users through [App permission policies](/microsoftteams/teams-app-permission-policies) or [App centric manage](/microsoftteams/app-centric-management) if you have migrated to it.
+
+> [!NOTE]
+> If you assign the policy to users with a Microsoft 365 Copilot license, they will have the Microsoft 365 Copilot app pinned.
+
+If you've chosen Pin Microsoft Copilot through the Microsoft 365 admin center **Copilot** > **Settings** page, and you have Copilot-pinned App setup policies assigned to users with a Microsoft Entra account, those users will have Microsoft Copilot pinned in the position defined by the App setup policy. Everyone else will be pinned in a default position.
+
+If you've chosen Do not pin Microsoft Copilot through the Microsoft 365 admin center **Copilot** > **Settings** page, and you have Copilot-pinned App setup policies assigned to users with a Microsoft Entra account, only those users will have Microsoft Copilot pinned.
 
 ## More resources
 
