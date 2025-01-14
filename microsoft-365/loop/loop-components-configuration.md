@@ -63,7 +63,7 @@ There are several IT Admin policy settings provided to enable creation of Loop c
 |Loop workspaces creation  |  Cloud Policy  |  **Create Loop workspaces in Loop**  |  Applies to: Loop workspaces (previously titled Create and view Loop workspaces in Loop)  |
 |Loop component creation and integration across Microsoft 365  |  Cloud Policy  | **Create and view Loop files in Microsoft apps that support Loop**  |  Applies to: <br/> - Outlook integration<br> - [Teams New Calendar](https://support.microsoft.com/en-us/office/get-started-with-the-new-calendar-in-microsoft-teams-98f3b637-5da2-43e2-91b3-f312ab3e4dc5) integration<br> - OneNote integration<br> - Whiteboard integration<br> Does **NOT** apply to:<br> - Loop workspaces<br> - Teams integration<br> - Copilot Pages  |
 |Copilot Pages creation and integration  |  Cloud Policy  |  **Create and view Loop files in Microsoft 365 Copilot Chat**  |  Applies to: Copilot Pages in a Copilot chat experience  |
-|Outlook creation and integration of Loop experiences  |  Cloud Policy  |  **Create and view Loop files in Outlook**  |  First checks **Create and view Loop files in Microsoft apps that support Loop**; then applies **Create and view Loop files in Outlook**, if applicable.  |
+|Outlook creation and integration of Loop experiences  |  Cloud Policy  |  **Create and view Loop files in Outlook**  |  First checks **Create and view Loop files in Microsoft apps that support Loop**; then applies **Create and view Loop files in Outlook**, if applicable.<br/><br/>Applies to: <br/> - Outlook<br/> - [Teams New Calendar](https://support.microsoft.com/en-us/office/get-started-with-the-new-calendar-in-microsoft-teams-98f3b637-5da2-43e2-91b3-f312ab3e4dc5)  |
 |Teams creation and integration  |  SharePoint property  |  See [Settings management for Loop components in Teams](#settings-management-for-loop-functionality-in-teams)  |  Teams only checks the settings in this row.  |
 
 ## Storage based view of the admin policy settings
@@ -161,7 +161,7 @@ The Loop experiences (except for Microsoft Teams) check the following [Cloud Pol
         - **Not configured**: Copilot pages creation and integration are available to the users.
           >[!NOTE]
           >If your organization has [disabled the creation of OneDrive](/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users), regardless of the setting noted here, these people in your organization will not be able to create a Copilot Pages workspace.  
-    - For **Create and view Loop files in Outlook** (includes Outlook and Teams New Calendar):
+    - For **Create and view Loop files in Outlook** (includes Outlook and [Teams New Calendar](https://support.microsoft.com/en-us/office/get-started-with-the-new-calendar-in-microsoft-teams-98f3b637-5da2-43e2-91b3-f312ab3e4dc5)):
         - **Enabled**: Creation of Loop components and integration is available to the users.
         - **Disabled**: Creation of Loop components and integration isn't available to the users.
         - **Not configured**: Creation of Loop components and integration is available to the users.
