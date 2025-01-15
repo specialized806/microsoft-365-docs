@@ -65,7 +65,7 @@ items:
   items:
     - name: Data, privacy, and security for Microsoft 365 Copilot
       href: microsoft-365-copilot-privacy.md
-    - name: Data, privacy, and security for web queries in Microsoft 365 Copilot and Microsoft 365 Copilot Chat
+    - name: Data, privacy, and security for web search in Microsoft 365 Copilot and Microsoft 365 Copilot Chat
       href: manage-public-web-access.md
     - name: AI security for Microsoft 365 Copilot
       href: microsoft-365-copilot-ai-security.md
