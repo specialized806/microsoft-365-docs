@@ -1,5 +1,5 @@
 ---
-title: Configure Microsoft Syntex for pay-as-you-go billing
+title: Set up Microsoft Syntex for pay-as-you-go billing
 ms.author: chucked
 author: chuckedmonson
 ms.reviewer: kkamath
@@ -9,9 +9,9 @@ audience: admin
 ms.topic: conceptual
 ms.service: microsoft-syntex
 ms.collection: 
-    - essentials-get-started
-    - m365initiative-syntex
-    - Tier1
+- essentials-get-started
+- m365initiative-syntex
+- Tier1
 search.appverid: MET150
 ms.localizationpriority: medium
 description: Learn about how to set up pay-as-you-go Azure billing for Microsoft Syntex and how to monitor your usage.
