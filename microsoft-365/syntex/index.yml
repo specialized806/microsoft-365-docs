@@ -110,7 +110,7 @@ landingContent:
             url: /sharepoint/dev/embedded/overview
 
 # Card 5
-  - title: Adoption
+  - title: Adopt Syntex
     linkLists:
       - linkListType: overview
         links:
@@ -138,6 +138,8 @@ landingContent:
             url: content-processing-overview.md
           - text: Solution accelerators
             url: site-templates.md
+          - text: Taxonomy features
+            url: import-term-set-skos.md
 
 
     # Card 7

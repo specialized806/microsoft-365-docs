@@ -274,17 +274,6 @@ items:
     - name: Merge and extract PDFs
       href: merge-extract-pdf.md
 
-    - name: Premium taxonomy features
-      items:
-        - name: Import using SKOS
-          href: import-term-set-skos.md
-        - name: SKOS formatting reference
-          href: skos-format-reference.md
-        - name: Push content type to hub
-          href: push-content-type-to-hub.md
-        - name: Term store reports
-          href: term-store-analytics.md
-
     - name: Processing rules
       items: 
         - name: Overview 
@@ -296,7 +285,18 @@ items:
         - name: Translate a file 
           href: content-processing-translate.md
 
-    - name: Adoption
+    - name: Taxonomy features
+      items:
+        - name: Import using SKOS
+          href: import-term-set-skos.md
+        - name: SKOS formatting reference
+          href: skos-format-reference.md
+        - name: Push content type to hub
+          href: push-content-type-to-hub.md
+        - name: Term store reports
+          href: term-store-analytics.md
+
+    - name: Adopt
       items:
         - name: Get started with adoption
           href: adoption-getstarted.md
