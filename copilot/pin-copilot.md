@@ -29,7 +29,7 @@ Admin pinning allows you to set Microsoft 365 Copilot Chat to appear on the navi
 
 ## Before you begin
 
-:::image type="content" source="media/pin-copilot-setting.png" alt-text="Screenshot showing the Pin Copilot setting on the Copilot settings page in the Microsoft 365 admin center." lightbox="media/pin-copilot-setting.png":::
+:::image type="content" source="media/pin-copilot-mac.png" alt-text="Screenshot showing the Pin Copilot setting on the Copilot settings page in the Microsoft 365 admin center." lightbox="media/pin-copilot-mac.png":::
 
 Global administrators can access this setting in the Microsoft 365 admin center by navigating to **Copilot** > **Settings**.
 
@@ -44,11 +44,11 @@ Administrators can change this behavior by selecting an option for pinning Micro
 
 1. **Pin Copilot to the navigation bar (recommended)**: Microsoft 365 Copilot Chat is automatically pinned for all users. Users will not be prompted.
 
-:::image type="content" source="media/copilot-pin-toggle.png" alt-text="Screenshot showing the option to pin Copilot to the navigation bar.":::
+:::image type="content" source="media/pin-copilot-setting.png" alt-text="Screenshot showing the option to pin Copilot to the navigation bar.":::
 
 2. **Do not pin Copilot to the navigation bar**: Microsoft 365 Copilot Chat is not automatically pinned to the navigation bar. When this option is selected, administrators can determine if users receive automatic prompts to pin using the checkbox.
 
-:::image type="content" source="media/copilot-not-pin.png" alt-text="Screenshot showing the option to not pin Copilot to the navigation bar.":::
+:::image type="content" source="media/do-not-pin-copilot-setting.png" alt-text="Screenshot showing the option to not pin Copilot to the navigation bar.":::
 
 When you uncheck the 'Allow users to be asked whether they want to pin it' option, Microsoft 365 Copilot Chat will no longer appear in the App Launcher.
 
