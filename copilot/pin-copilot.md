@@ -44,7 +44,7 @@ Administrators can change this behavior by selecting an option for pinning Micro
 
 1. **Pin Copilot to the navigation bar (recommended)**: Microsoft 365 Copilot Chat is automatically pinned for all users. Users will not be prompted.
 
-:::image type="content" source="media/pin-copilot-setting.png" alt-text="Screenshot showing the option to pin Copilot to the navigation bar.":::
+:::image type="content" source="media/pin-copilot.png" alt-text="Screenshot showing the option to pin Copilot to the navigation bar.":::
 
 2. **Do not pin Copilot to the navigation bar**: Microsoft 365 Copilot Chat is not automatically pinned to the navigation bar. When this option is selected, administrators can determine if users receive automatic prompts to pin using the checkbox.
 
