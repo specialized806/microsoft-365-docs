@@ -52,7 +52,7 @@ landingContent:
             url: set-up-microsoft-syntex.md
       - linkListType: how-to-guide
         links:
-          - text: Create a content center
+          - text: Set up a content center
             url: create-a-content-center.md
           - text: Create an enterprise model
             url: create-syntex-model.md
@@ -110,7 +110,7 @@ landingContent:
             url: /sharepoint/dev/embedded/overview
 
 # Card 5
-  - title: Adoption
+  - title: Adopt Syntex
     linkLists:
       - linkListType: overview
         links:
@@ -138,6 +138,8 @@ landingContent:
             url: content-processing-overview.md
           - text: Solution accelerators
             url: site-templates.md
+          - text: Taxonomy features
+            url: import-term-set-skos.md
 
 
     # Card 7
