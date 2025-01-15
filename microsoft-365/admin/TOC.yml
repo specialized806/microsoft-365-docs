@@ -268,7 +268,7 @@ items:
       items:
          - name: Microsoft 365 Copilot extensibility
            items:
-            - name: Manage Copilot agents
+            - name: Manage agents for Copilot
               href: manage/manage-copilot-agents-integrated-apps.md
             - name: Microsoft Graph connectors for Microsoft Search
               href: /microsoftsearch/connectors-overview
