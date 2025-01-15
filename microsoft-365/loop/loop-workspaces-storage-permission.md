@@ -35,7 +35,7 @@ Where the Loop content was originally created determines its storage location:
 |-----|-----|-----|-----|
 |Loop app|✔️in Loop workspace|||
 |Copilot Pages|✔️in Loop workspace|||
-|Teams channel meeting||✔️in Channel folder||
+|Teams channel meeting||✔️in 📁`Meetings`||
 |Teams channel||✔️in Channel folder||
 |Teams private chat|||✔️in 📁`Microsoft Teams Chat files`|
 |Teams private meeting|||✔️in 📁`Meetings`|
