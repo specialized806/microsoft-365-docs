@@ -23,7 +23,7 @@ description: "Learn how to improve organization use of Microsoft 365 Copilot Cha
 
 # Pin Microsoft 365 Copilot Chat to the navigation bar
 
-As an administrator, you can pin Copilot to the navigation bar of Teams, Outlook, and the Microsoft 365 Copilot app, including [microsoft365.com](https://www.office.com/), Microsoft 365 desktop app, and the Microsoft 365 mobile app. When you pin Copilot Chap, it encourages your organization to use Microsoft 365 Copilot Chat.
+As an administrator, you can pin Copilot to the navigation bar of Teams, Outlook, and the Microsoft 365 Copilot app, including [microsoft365.com](https://www.office.com/), Microsoft 365 desktop app, and the Microsoft 365 mobile app. When you pin Copilot Chat, it encourages your organization to use Microsoft 365 Copilot Chat.
 
 Admin pinning allows you to set Microsoft 365 Copilot Chat to appear on the navigation bar for the applications listed previously. This setting is only applicable for users who are signed in with a Microsoft Entra account for your tenant.
 
