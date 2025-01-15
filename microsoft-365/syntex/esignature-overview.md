@@ -44,7 +44,7 @@ Before you can use SharePoint eSignature, you must first link your Azure subscri
 
 ### External sharing
 
-SharePoint eSignature enables binding agreements between parties by allowing guests access to SharePoint to electronically sign documents. Certain external sharing must be enabled at a tenant or site level to allow this access. For more information, see [Set up SharePoint eSignature for external recipients](esignature-setup.md#external-recipients). Consider whether this meets your compliance and security requirements when enabling eSignature.
+SharePoint eSignature enables binding agreements between parties. External parties are allowed guests access to SharePoint via Azure Active directory in order to electronically sign a document. Certain external sharing settings must be enabled at a tenant and site level to allow this access. For more information, see [Set up SharePoint eSignature for external recipients](esignature-setup.md#external-recipients). Consider whether this meets your compliance and security requirements when enabling eSignature.
 
 ## Using other signature providers
 
