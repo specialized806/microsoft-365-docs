@@ -58,11 +58,11 @@ Apps like Word, Excel, PowerPoint, Outlook, Teams, and Loop work with Copilot to
 
 For more features, see [Copilot features in Microsoft 365 apps](#copilot-features-in-microsoft-365-apps) (in this article).
 
-✅ **Graph-grounded chat**
+✅ **Microsoft 365 Copilot Chat**
 
-With Graph-grounded chat, you can draft content, review what you missed, and get answers to questions using open-ended prompts. This information is securely grounded in your work data.
+With Microsoft 365 Copilot Chat, you can draft content, review what you missed, and get answers to questions using open-ended prompts. This information is securely grounded in your work data.
 
-You can use Graph-grounded Copilot in Microsoft Teams, at [Microsoft365.com](https://www.microsoft365.com/), and at [copilot.microsoft.com](https://copilot.microsoft.com/).
+You can use Microsoft 365 Copilot Chat in Microsoft Teams, at [Microsoft365.com](https://www.microsoft365.com/), and at [copilot.microsoft.com](https://copilot.microsoft.com/).
 
 ✅ **Microsoft Graph**
 
