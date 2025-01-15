@@ -64,12 +64,6 @@ landingContent:
     linkLists:
       - linkListType: overview
         links:
-          - text: Prebuilt document processing
-            url: prebuilt-overview.md
-          - text: Structured and freeform document processing
-            url: form-processing-overview.md
-          - text: Unstructured document processing
-            url: document-understanding-overview.md
           - text: Autofill columns
             url: autofill-overview.md
           - text: Content assembly
@@ -82,8 +76,14 @@ landingContent:
             url: image-tagging-overview.md
           - text: Optical character recognition
             url: ocr-overview.md
+          - text: Prebuilt document processing
+            url: prebuilt-overview.md
+          - text: Structured and freeform document processing
+            url: form-processing-overview.md
           - text: Taxonomy tagging
             url: taxonomy-tagging-overview.md
+          - text: Unstructured document processing
+            url: document-understanding-overview.md
       - linkListType: architecture
         links:
           - text: Microsoft 365 Archive
