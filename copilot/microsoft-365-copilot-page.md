@@ -49,7 +49,7 @@ You can manage Copilot licenses, including assigning and unassigning licenses, f
 
 For users signed in with a Microsoft Entra account, Microsoft 365 Copilot offers [enterprise data protection](/copilot/microsoft-365/enterprise-data-protection) (EDP) in an experience designed for work and education. Users who aren't signed in, or are signed in with a personal account, can use the public version of Copilot, accessed primarily through [copilot.microsoft.com](https://copilot.microsoft.com/) and [bing.com/chat](https://bing.com/chat).
 
-To ensure that users in your organization access Copilot with enterprise data protection for work and education, follow these [instructions on managing Copilot](/copilot/manage).
+To ensure that users in your organization access Copilot Chat, follow these [instructions on managing Microsoft 365 Copilot Chat](/copilot/manage).
 
 ### Manage agents that work with Microsoft 365 Copilot
 

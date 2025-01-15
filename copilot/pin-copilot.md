@@ -99,9 +99,9 @@ You can pin Microsoft 365 Copilot Chat for your users in Microsoft Teams only th
 > [!NOTE]
 > If you assign the policy to users with a Microsoft 365 Copilot license, they will have the Microsoft 365 Copilot app pinned.
 
-If you've chosen Pin Copilot through the Microsoft 365 admin center **Copilot** > **Settings** page, and you have Copilot-pinned App setup policies assigned to users with a Microsoft Entra account, those users will have Microsoft 365 Copilot Chat pinned in the position defined by the App setup policy. Everyone else will be pinned in a default position.
+If you've chosen Pin Copilot through the Microsoft 365 admin center **Copilot** > **Settings** page, and you have Copilot-pinned App setup policies assigned to users with a Microsoft Entra account, those users will have Copilot Chat pinned in the position defined by the App setup policy. Everyone else will be pinned in a default position.
 
-If you've chosen Do not pin Copilot through the Microsoft 365 admin center **Copilot** > **Settings** page, and you have Copilot-pinned App setup policies assigned to users with a Microsoft Entra account, only those users will have Microsoft 365 Copilot Chat pinned.
+If you've chosen Do not pin Copilot through the Microsoft 365 admin center **Copilot** > **Settings** page, and you have Copilot-pinned App setup policies assigned to users with a Microsoft Entra account, only those users will have Copilot Chat pinned.
 
 ## More resources
 
