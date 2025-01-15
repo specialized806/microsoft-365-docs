@@ -5,7 +5,7 @@ f1.keywords:
 ms.author: camillepack
 author: camillepack
 manager: scotv
-ms.date: 01/14/2025
+ms.date: 01/15/2025
 audience: Admin
 ms.topic: how-to
 ms.service: microsoft-365-copilot
@@ -21,7 +21,7 @@ ms.collection:
 description: "Learn how to improve organization use of Microsoft 365 Copilot Chat by pinning it to the navigation bar in Teams, Outlook, and the Microsoft 365 Copilot app."
 ---
 
-# Pin Microsoft 365 Copilot to the navigation bar
+# Pin Microsoft 365 Copilot Chat to the navigation bar
 
 As an administrator, you can encourage your organization to use Microsoft 365 Copilot Chat by pinning Copilot to the navigation bar of Teams, Outlook, and the Microsoft 365 Copilot app, including [microsoft365.com](https://www.office.com/), Microsoft 365 desktop app, and the Microsoft 365 mobile app.  
 
