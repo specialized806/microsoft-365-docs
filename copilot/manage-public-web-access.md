@@ -18,7 +18,7 @@ ms.date: 01/15/2025
 
 # Data, privacy, and security for web search in Microsoft 365 Copilot and Microsoft 365 Copilot Chat
 
-Microsoft 365 Copilot chat and [Microsoft 365 Copilot Chat](/copilot/overview) have an optional feature that allows Copilot to reference web content when responding to user prompts. Allowing Microsoft 365 Copilot and Microsoft 365 Copilot Chat to reference web content improves the quality of Copilot responses by grounding them in the latest information from the web.
+Microsoft 365 Copilot and [Microsoft 365 Copilot Chat](/copilot/overview) have an optional feature that allows Copilot to reference web content when responding to user prompts. Allowing Microsoft 365 Copilot and Microsoft 365 Copilot Chat to reference web content improves the quality of Copilot responses by grounding them in the latest information from the web.
 
 ## Web search
 
