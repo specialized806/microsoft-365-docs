@@ -45,7 +45,7 @@ You can manage Microsoft 365 Copilot through the Microsoft 365 admin center by g
 
 You can manage Copilot licenses, including assigning and unassigning licenses, for your users.
 
-### Manage how your organization interacts with Microsoft Copilot
+### Manage how your organization interacts with Microsoft 365 Copilot Chat
 
 For users signed in with a Microsoft Entra account, Microsoft Copilot offers [enterprise data protection](/copilot/microsoft-365/enterprise-data-protection) (EDP) in an experience designed for work and education. Users who aren't signed in, or are signed in with a personal account, can use the public version of Copilot, accessed primarily through [copilot.microsoft.com](https://copilot.microsoft.com/) and [bing.com/chat](https://bing.com/chat).
 
@@ -73,11 +73,11 @@ When users have an issue and aren't able to send feedback logs to Microsoft, you
 
 To learn more, see [Submit admin-initiated Copilot feedback from the Microsoft 365 admin center](provide-feedback.md).
 
-### Pin Microsoft Copilot to the navigation bar
+### Pin Microsoft 365 Copilot Chat to the navigation bar
 
-Pin Copilot to the navigation bar to make it easier for people in your organization to access it in Teams, Outlook, and the Microsoft 365 app on web, desktop, and mobile. Users with a license for Microsoft 365 Copilot will have it pinned by default. Microsoft Copilot used with Microsoft Entra ID is governed by your agreement for Online Services.
+Pin Copilot to the navigation bar to make it easier for people in your organization to access it in Teams, Outlook, and the Microsoft 365 Copilot app on web, desktop, and mobile. Users with a license for Microsoft 365 Copilot will have it pinned by default. Microsoft Copilot used with Microsoft Entra ID is governed by your agreement for Online Services.
 
-To learn more, see [Pin Microsoft Copilot to the navigation bar](pin-copilot.md).
+To learn more, see [Pin Microsoft 365 Copilot Chat to the navigation bar](pin-copilot.md).
 
 ### Copilot self-service purchase
 
