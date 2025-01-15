@@ -56,16 +56,16 @@ You must be a [password administrator](about-admin-roles.md) to perform these st
 
 Check out this video and others on our [YouTube channel](https://go.microsoft.com/fwlink/?linkid=2198204).
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE1FVVP]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=6abab91d-a375-496c-8a7e-f10bded3b389]
 ## Steps: Reset a business password for a user
 
-When a user requests a new password, you'll receive a password reset request in email. Follow these steps to reset the password.
+When a user requests a new password, you receive a password reset request in email. Follow these steps to reset the password.
 
 1. In the Microsoft 365 admin center, go to the **Users** \> <a href="https://go.microsoft.com/fwlink/p/?linkid=834822" target="_blank">Active users</a> page.
 
 2. On the **Active users** page, select the user and then select **Reset password**.
 
-3. Follow the instructions on the **Reset password** page to auto-generate a new password for the user or create one for them, and then select **Reset password**.  
+3. Follow the instructions on the **Reset password** page to autogenerate a new password for the user or create one for them, and then select **Reset password**.  
 
 4. Print the account details to a PDF file, store it in a secure location, then share the information with your users in a secure manner.
 
@@ -81,7 +81,7 @@ We strongly recommend that you set up self-service password reset. This way you 
 
 2. On the **Active users** page, select the user and then select **Reset password**.
 
-3. Follow the instructions on the **Reset password** page to auto-generate a new password for the user or create one for them, and then select **Reset password**.  
+3. Follow the instructions on the **Reset password** page to autogenerate a new password for the user or create one for them, and then select **Reset password**.  
 
 4. Print the account details to a PDF file, store it in a secure location, then share the information with your users in a secure manner.
 
@@ -117,7 +117,7 @@ These steps work for a business with tens of users. If you have hundreds or thou
 
 3. Select **Reset password**.
 
-4. Follow the instructions on the **Reset password** page, and select **Reset password**.  If you opted for auto-generating the passwords, the new temporary passwords will be displayed.
+4. Follow the instructions on the **Reset password** page, and select **Reset password**.  If you opted for autogenerating the passwords, the new temporary passwords are displayed.
 
 5. Print the account details to a PDF file, store it in a secure location, then share the information with your users in a secure manner.
   
