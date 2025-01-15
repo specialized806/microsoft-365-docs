@@ -18,10 +18,6 @@ items:
               href: set-up-content-understanding.md
             - name: Privacy, security, & compliance
               href: syntex-privacy-security.md
-            - name: Set up a content center 
-              href: create-a-content-center.md
-
-
 
     - name: Autofill columns
       items: 
@@ -103,6 +99,8 @@ items:
               href: prebuilt-overview.md
             - name: Admin setup
               href: prebuilt-setup.md
+            - name: Set up a content center 
+              href: create-a-content-center.md
             - name: Create an enterprise model
               href: create-syntex-model.md
             - name: Create a local model 
@@ -158,6 +156,8 @@ items:
               href: form-processing-overview.md
             - name: Admin setup
               href: structured-freeform-setup.md
+            - name: Set up a content center 
+              href: create-a-content-center.md
             - name: Create an enterprise model
               href: create-syntex-model.md
             - name: Create a local model 
@@ -216,6 +216,8 @@ items:
               href: unstructured-setup.md
             - name: Import a sample model 
               href: learn-about-document-understanding-models-through-the-sample-model.md
+            - name: Set up a content center 
+              href: create-a-content-center.md
             - name: Create an enterprise model
               href: create-syntex-model.md
             - name: Create a local model 
