@@ -50,7 +50,7 @@ For example, you can use Microsoft 365 Copilot to:
 
 When users sign in with their Microsoft Entra account, they can use Microsoft 365 Copilot **work** or **web** version:
 
-INSERT SCREENSHOT
+:::image type="content" source="media/which-copilot-for-your-organization/copilot-work-web.png" alt-text="In Microsoft 365 Copilot, select work or web in Copilot Chat.":::
 
 - When users select **work**, Copilot shows results that the user's Microsoft Entra account can access.
 - When users select **web**, Copilot shows results that the user's Microsoft Entra account can access and also shows results from the internet.
@@ -82,7 +82,7 @@ Microsoft Copilot is available at [copilot.cloud.microsoft](https://copilot.clou
 
 When users access this Copilot on their work devices, if Microsoft 365 Copilot is enabled for the users, then it's possible it will redirect to Microsoft 365 Copilot (`https://m365.cloud.microsoft`). If it does redirect, they can choose the **work** or **web** version:
 
-INSERT SCREENSHOT
+:::image type="content" source="media/which-copilot-for-your-organization/copilot-work-web.png" alt-text="In Microsoft Copilot, select work or web in Copilot Chat when redirected.":::
 
 - When users select **work**, Copilot shows results that the user's Microsoft Entra account can access.
 - When users select **web**, Copilot shows results that the user's Microsoft Entra account can access and also shows results from the internet.
