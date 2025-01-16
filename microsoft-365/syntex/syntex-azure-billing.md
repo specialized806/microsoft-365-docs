@@ -3,7 +3,7 @@ title: Set up Microsoft Syntex for pay-as-you-go billing
 ms.author: chucked
 author: chuckedmonson
 ms.reviewer: kkamath
-ms.date: 01/13/2025
+ms.date: 01/16/2025
 manager: jtremper
 audience: admin
 ms.topic: conceptual
@@ -64,11 +64,13 @@ To configure Microsoft Syntex billing, follow these steps:
 
 7. Select **Save**.
 
+<!---
 To access the **Pay-as-you-go services** page, follow these steps:
 
 1. In the Microsoft 365 admin center, select **Settings** > **Org settings**.
 
 2. On the **Services** tab, select **Pay-as-you-go services**.
+--->
 
 ## Disconnect Syntex from pay-as-you-go billing
 
