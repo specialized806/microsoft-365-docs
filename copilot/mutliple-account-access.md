@@ -27,7 +27,7 @@ In Microsoft 365 apps that support signing in with multiple accounts (Word, Exce
 
 Multiple account access to Copilot is currently disabled, but once enabled, your users may use Copilot on work documents without a Copilot license assigned from your organization.  
 
-## Data Protection
+## Data protection
 
 Copilot data protection is always based on the identity used to access the file. This ensures enterprise data protection for files in your organization, regardless of which account grants Copilot access.
 
