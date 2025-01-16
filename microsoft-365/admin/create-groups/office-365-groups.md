@@ -21,6 +21,7 @@ ms.custom:
 - okr_smb
 - AdminTemplateSet
 - admindeeplinkMAC
+- campaignIDs-batch1
 search.appverid:
 - BCS160
 - MET150
