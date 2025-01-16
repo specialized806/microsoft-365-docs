@@ -1,5 +1,5 @@
 ---  
-title: "Microsoft 365 Connection Blockers in the Microsoft 365 admin center"  
+title: "Reviewing network connection failures for your tenant users when they connect to Microsoft 365 services"  
 description: Understanding Connection Error Rate and WSS Error Rate in Microsoft 365 Network Connectivity
 author: kelleyvice-msft
 ms.author: kvice  
@@ -21,9 +21,9 @@ f1.keywords:
 audience: 
 ---  
 
-# Microsoft 365 Connection Blockers in the Microsoft 365 admin center
+# Reviewing network connection failures for your tenant users when they connect to Microsoft 365 services
 
-In the network connectivity space, understanding error rates is crucial for maintaining consistent connectivity and enhancing user experience. This article aims to explain two significant error rates: the **Connection Error Rate** and the **WSS Error Rate**. Both metrics are prominently displayed on the new **Connection Blockers** page in Microsoft 365 network connectivity page in the admin center.
+In the network connectivity space, understanding failure rates is crucial for maintaining consistent connectivity and enhancing user experience. This article aims to explain two significant failure rates: the **Connection Error Rate** and the **WSS Error Rate**. Both metrics are prominently displayed on the new **Connection Blockers** page in Microsoft 365 network connectivity page in the admin center. This is a tenant level summarization of network connection failures experienced by your tenant users when they connect to Microsoft 365 services using Microsoft 365 apps on Windows devices with OneDrive for Business installed, the objective is to keep these failure rates low.
 
 :::image type="content" source="../media/m365-mac-perf/m365-mac-perf-connection-blockers-main.png" alt-text="Microsoft 365 network connectivity connection blockers tool":::
  
@@ -74,7 +74,7 @@ For example, if there are 30 failed WebSocket upgrades out of 600 attempts, the 
 ### Common Causes and Mitigations for High WSS Error Rate
 
 - Web proxy restrictions: web proxies blocking websocket upgrades can cause upgrade failures, so configure web proxies to allow protocol upgrade to websockets.
-- Sometimes web proxies might be configured to allow websocket upgrades to specific domains or subdomains. In this scenario, you might want to configure the web proxy to allow websockets for subdomains in `*.cloud.microsoft`.
+- Sometimes web proxies might be configured to allow websocket upgrades to specific domains or subdomains. In this scenario, you might want to configure the web proxy to allow websockets for subdomains in `*.cloud.microsoft` and `*.office.com`.
 
 ## Using the Connection Blockers Page in the Microsoft 365 admin center
 
