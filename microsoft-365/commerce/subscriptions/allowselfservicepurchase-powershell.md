@@ -19,6 +19,7 @@ ms.collection:
 ms.custom: 
 - commerce_ssp
 - AdminSurgePortfolio
+- campaignIDs-batch1
 search.appverid:
 - MET150
 description: "Learn how to use the AllowSelfServicePurchase PowerShell cmdlet to turn self-service purchase on or off."
@@ -47,6 +48,7 @@ To use the **MSCommerce** PowerShell module, you need:
 - The Global or Billing Administrator role for your tenant to change the **MSCommerce** product policies.
     [!INCLUDE [ga-roles-limitation](../../includes/ga-roles-limitation.md)]
 - The Global reader role for your tenant to see a read-only list of **MSCommerce** product policies.
+- Partners who are Admins On Behalf Of (AOBO) a customer must have a role that's set to Global Administrator in order to manage and disable self-service purchases in the Microsoft 365 admin center and via PowerShell.
 
 ## Get started with the MSCommerce PowerShell module
 

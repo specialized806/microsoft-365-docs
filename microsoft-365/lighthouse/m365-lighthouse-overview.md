@@ -5,7 +5,7 @@ ms.author: sharik
 author: SKjerland
 manager: scotv
 ms.reviewer: crimora, ebamoh
-ms.date: 07/14/2023
+ms.date: 11/11/2024
 audience: Admin
 ms.topic: overview
 ms.service: microsoft-365-lighthouse
@@ -44,7 +44,7 @@ For more information about the CSP program, see the [Cloud Solution Provider pro
 
 ## Watch: What is Microsoft 365 Lighthouse?
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4QVMP]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=709ebb5a-34ea-417d-8a1e-f105f43feb91]
 
 ## Microsoft 365 Lighthouse benefits
 
@@ -62,7 +62,7 @@ Lighthouse helps MSPs grow secure and manage Microsoft 365 services and connecte
 
 ## Watch: Demonstration of Microsoft 365 Lighthouse
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE5e61O]
+> [!VIDEO https://learn-video.azurefd.net/vod/player?id=797a2bb2-0ccb-41ac-ac97-80ced13be066]
 
 > [!NOTE]
 > For more information on how to sign up, see [Sign up for Microsoft 365 Lighthouse](m365-lighthouse-sign-up.md).

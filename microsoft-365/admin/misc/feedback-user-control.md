@@ -5,7 +5,7 @@ f1.keywords:
 ms.author: kwekua
 author: kwekuako
 manager: scotv
-ms.date: 05/30/2024
+ms.date: 11/14/2024
 audience: Admin
 ms.topic: article
 ms.service: microsoft-365-business
@@ -16,7 +16,9 @@ ms.collection:
 - M365-subscription-management 
 - Adm_O365
 - must-keep
-ms.custom: AdminSurgePortfolio
+ms.custom: 
+- AdminSurgePortfolio
+- campaignIDs-batch1
 description: "Learn about feedback your users can send to Microsoft about Microsoft products."
 ---
 
