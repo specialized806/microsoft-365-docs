@@ -28,7 +28,7 @@ description: Learn how to automatically invite members to become owners in an ow
 
 A team in Microsoft Teams or a Microsoft 365 group can become ownerless if an owner's account is deleted in Microsoft 365. Groups and teams require an owner to add or remove members and change group settings.
 
-This article teaches you how to handle ownerless Microsoft 365 groups.
+This article teaches you how to handle ownerless Microsoft 365 groups in the Microsoft 365 admin center.
 
 ## How the ownerless group policy works
 
@@ -40,13 +40,15 @@ If there's no group activity, the policy asks random group members to accept own
 
 ## Requirements of the ownerless group policy
 
-To set up and manage the Microsoft 365 ownerless group policy, all the following requirements must be met:
+To set up and manage the Microsoft 365 ownerless group policy, **one** of the the following requirements must be met:
 
 - **An eligible Microsoft 365 subscription**
   - Eligible plans include Business Premium, Microsoft 365 Enterprise E3 and E5, Office 365 and Microsoft 365 Government G3 and G5, Microsoft 365 Education A3 and A5, and Frontline F1 and F3.
 
-- **A premium plan**
-  - All notification options in the ownerless groups policy require a premium plan because a security group is used to specify which group members receive ownership notifications. Security groups are a feature of premium plans.
+or
+
+- **An Entra ID P1 or P2 premium plan**
+  - All notification options in the ownerless groups policy require an Entra ID premium plan because a security group is used to specify which group members receive ownership notifications. Security groups are a feature of Entra ID premium plans.
 
 ## Limitations of the ownerless group policy
 
@@ -58,48 +60,36 @@ Managing ownerless groups using this policy has a few limitations, which are exp
 - **You can't batch update the groups the policy targets.**
   - You can only search for and add one Microsoft 365 group at a time to this policy.
 
-## Ownerless groups policy options
-
-When creating the policy, you can specify:
-
-- If you want to limit who can be invited to be an owner by specifying a security group.
-- The sender address of the notifications.
-- The number of weeks that the notifications are sent.
-- Which groups or teams are part of the policy. A maximum of 50 groups can be selected.
-- What the notification message says but not the language based on a recipient's country or region.
-
-> [!NOTE]
-> Using a security group to limit who can be invited to be an owner requires that you possess but not necessarily assign a Microsoft Entra ID P1 or P2 license for each Microsoft 365 group member in your organization.
-
-## Set up the ownerless group policy
-
-To set an ownerless group or team policy, complete the following steps:
+## Set up the ownerless group or team policy
 
 1. In the Microsoft 365 admin center, expand **Settings** and select **Org settings**.
 1. On the [**Services**](https://go.microsoft.com/fwlink/p/?linkid=2053743) tab, select **Microsoft 365 Groups**.
 1. Select the **When there's no owner, email and ask active group members to become an owner** checkbox.
 1. If you want to keep the default configuration settings, select **Save**.
 
-To customize the policy, complete the following steps:
+## Customize the ownerless group policy
 
-1. On the **Microsoft 365 Groups** page, select **Configure policy**.
+1. On the **Microsoft 365 Groups** pane, select **Configure policy**.
 1. On the *Weekly notification options* page, specify who can receive ownership notifications. If you choose to allow or block certain members, then search for and add the security group that you want to use.
-    1. Type the number of active members that you want to notify, and select the number of weeks to send the notification. The notification list is created during the first notification and doesn't change.
-    1. Select **Next**.
+    1. Using a security group to limit who can be invited to be an owner requires that you possess but not necessarily assign a Microsoft Entra ID P1 or P2 license for each Microsoft 365 group member in your organization.
+    2. Type the number of active members that you want to notify, and select the number of weeks to send the notification. The notification list is created during the first notification and doesn't change.
+    3. Select **Next**.
 1. On the *Who is this email coming from* page, select a sender for the email, and then select **Next**.
     1. Shared mailboxes aren't supported. The sender must be either a user mailbox or a group mailbox.
 1. On the *Subject and message* page, customize the email and optionally include a **policy guideline URL**, and then select **Next**.
+    1. You can't have the notification's language change based on the recipient's country or region.
 1. On the *Select which groups to target* page, select **Specific groups**, and choose the groups and teams that you want to include in this policy, or select **All groups**.
+    1. A maximum of 50 groups can be selected.
 1. Select **Next**.
 1. On the *Review and finish* page, confirm your settings and select **Finish**, and then select **Done**.
 
-## What happens after the policy is set up
+## After you set up the ownerless group policy
 
 Notifications are sent weekly starting within 24 hours of policy creation. Notifications and responses are tracked in the audit log.
 
 If a user is a part of multiple ownerless groups, they can receive separate weekly notifications, one for each group they're an active member of.
 
-### What happens when someone accepts or declines ownership of a group
+### When someone accepts or declines group ownership
 
 Up to two members per group can accept the invitation to become an owner. Once someone accepts ownership, the policy stops sending notifications to the group's members.
 
@@ -107,7 +97,7 @@ If a member declines ownership, they stop receiving the weekly notifications.
 
 If a member doesn't accept or decline ownership, they keep receiving the weekly notifications for the number of weeks specified in the policy.
 
-### What happens if no members accept ownership
+### When no one accepts group ownership
 
 After the end of the notification period specified in the policy, the policy stops sending notifications. In this scenario, the ownerless groups policy takes no further action and it's up to tenant admins to find and [assign an owner for each ownerless group](/admin/create-groups/add-or-remove-members-from-groups).
 
