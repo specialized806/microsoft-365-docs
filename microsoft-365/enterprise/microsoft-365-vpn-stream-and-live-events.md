@@ -41,7 +41,7 @@ Many customers have asked for URL/IP data needed to connect their attendees in T
 Use the following steps to identify and enable direct connectivity for attendee traffic for Teams Events from clients that are using a forced tunnel VPN. This solution is intended to provide customers with an option to avoid routing attendee traffic over VPN while there's high network traffic due to work-from-home scenarios. If possible, we recommend accessing the service through an inspecting proxy.
 
 > [!NOTE]
-> Using this solution, there might be service elements that do not resolve to the IP addresses provided and thus traverse the VPN, but the bulk of high-volume traffic like streaming data should. There might be other elements outside the scope of Live Events/Stream which get caught by this offload, but these should be limited as they must meet both the FQDN _and_ the IP match before going direct.
+> Using this solution, there might be service elements that don't resolve to the IP addresses provided and thus traverse the VPN, but the bulk of high-volume traffic like streaming data should. There might be other elements outside the scope of Live Events/Stream which get caught by this offload, but these should be limited as they must meet both the FQDN _and_ the IP match before going direct.
 
 > [!IMPORTANT]
 >We recommend you weigh the risk of sending more traffic that bypasses the VPN over the performance gain for Teams Events.
@@ -91,7 +91,7 @@ For the **Commercial** cloud:
 
 - For Azure CDN from Microsoft, you can download the list from [Download Azure IP Ranges and Service Tags – Public Cloud from Official Microsoft Download Center](https://www.microsoft.com/download/details.aspx?id=56519) - you'll need to look specifically for the service tag `AzureFrontdoor.Frontend` in the JSON; _addressPrefixes_ will show the IPv4/IPv6 subnets. Over time the IPs can change, but the service tag list is always updated before they're put in use.
 
-- Akamai currently does not provide a comprehensive list due to the dynamic nature of their network. Akamai endpoints would be covered under the *.ml.cdn.office.net namespace.
+- Akamai currently doesn't provide a comprehensive list due to the dynamic nature of their network. Akamai endpoints would be covered under the *.ml.cdn.office.net namespace.
 
 For the **Government** clouds **(GCC, GCC High and DoD)**:
 
@@ -110,7 +110,7 @@ Here's an example of how to generate the PAC file for the Commercial cloud:
    .\Get-EventsPacFile.ps1 -Instance Worldwide -Type OptimizeAndAllow -FilePath .\Commercial.pac
    ```
 
-1. The Commercial.pac file will contain all the namespaces and IPs (IPv4/IPv6) available for Teams Events attendee traffic. Note that while the namespaces are present, there will not be any IP address information related to Akamai.
+1. The Commercial.pac file will contain all the namespaces and IPs (IPv4/IPv6) available for Teams Events attendee traffic. While the namespaces are present, there won't be any IP address information related to Akamai.
 
 #### Example PAC file generation for the Microsoft 365 U.S. Government Community Cloud (GCC)
 
@@ -514,7 +514,7 @@ else {
 
 The script will automatically parse the appropriate Azure CDN list based on the **Instance** parameter value and keys off of **AzureFrontDoor.Frontend**, so there's no need to get that manually.
 
-Performing VPN offloading utilizing **both** the FQDNs and the IP addresses (where provided) in the function helps scope the use of this offload to a limited set of endpoints including Teams Events. The way the function is structured will result in a DNS lookup being done for the FQDN that matches those listed by the client directly, i.e. DNS resolution of the remaining namespaces remains unchanged. In the case of the Commercial cloud, not all IP addresses are provided; VPN offloading would need to rely on matching the namspaces defined earlier in this article.
+Performing VPN offloading utilizing **both** the FQDNs and the IP addresses (where provided) in the function helps scope the use of this offload to a limited set of endpoints including Teams Events. The way the function is structured will result in a DNS lookup being done for the FQDN that matches those listed by the client directly, that is, DNS resolution of the remaining namespaces remains unchanged. In the case of the Commercial cloud, not all IP addresses are provided; VPN offloading would need to rely on matching the namespaces defined earlier in this article.
 
 
 ## 3. Configure routing on the VPN to enable direct egress
@@ -530,7 +530,7 @@ No, this will send the latency-sensitive, potentially high-volume streaming traf
 
 ### Do I need to use the IPv6 Addresses?
 
-No, the connectivity can be IPv4 only if required.
+No, the connectivity can be IPv4 only if necessary.
 
 ### Why are these IPs not published in the Microsoft 365 URL/IP service?
 
@@ -553,7 +553,7 @@ No, access to all of the **Required** marked endpoints for the appropriate envir
 
 ### Does this advice cover presenter traffic?
 
-It doesn't; the advice above is purely for those attending the event. Presenting from within Teams will see the presenter's traffic flowing to the Optimize marked UDP endpoints listed in URL/IP service row 11 with detailed VPN offload advice outlined in the [Implement VPN split tunneling](microsoft-365-vpn-implement-split-tunnel.md#implement-vpn-split-tunneling) section of [Implementing VPN split tunneling for Microsoft 365](microsoft-365-vpn-implement-split-tunnel.md).
+It doesn't; the preceding advice is purely for those attending the event. Presenting from within Teams will see the presenter's traffic flowing to the Optimize marked UDP endpoints listed in URL/IP service row 11 with detailed VPN offload advice outlined in the [Implement VPN split tunneling](microsoft-365-vpn-implement-split-tunnel.md#implement-vpn-split-tunneling) section of [Implementing VPN split tunneling for Microsoft 365](microsoft-365-vpn-implement-split-tunnel.md).
 
 
 ## Related articles
