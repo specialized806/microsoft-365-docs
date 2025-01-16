@@ -1,5 +1,5 @@
 ---
-title: Requirements and limitations for services in Microsoft Syntex
+title: Requirements and limitations for pay-as-you-go services in SharePoint
 ms.author: chucked
 author: chuckedmonson
 manager: jtremper
@@ -13,14 +13,14 @@ ms.collection:
     - essentials-manage
     - m365initiative-syntex
 ms.localizationpriority:  medium
-description: Learn about file limitations, file types, supported languages, and other requirements for models in Microsoft Syntex.
+description: Learn about file limitations, file types, supported languages, and other requirements for pay-as-you-go services in SharePoint.
 ---
 
-# Requirements and limitations for services in Microsoft Syntex
+# Requirements and limitations for pay-as-you-go services in SharePoint
 
 <!---<sup>**Applies to:**  &ensp; &#10003; All custom models &ensp; | &ensp; &#10003; All prebuilt models</sup>--->
 
-Models and some services might have different requirements, such as file type and size, languages that need to be supported, geographical considerations, and other factors that will help you decide about the model or serviceto use.
+Certain services might have additional or specific requirements, including file type and size, supported languages, geographical considerations, and other factors that might guide your decision on how to use the service.
 
 Services:
 
@@ -28,7 +28,7 @@ Services:
 - [Prebuilt document processing](#prebuilt-document-processing)
 - [Structured and freeform document processing](#structured-and-freeform-document-processing)
 - [Unstructured document processing](#unstructured-document-processing)
-
+<!---
 Models and services:
 
 - [Document translation](#document-translation)
@@ -42,15 +42,15 @@ Models and services:
     - [Freeform document processing](#freeform-document-processing)
     - [Structured document processing](#structured-document-processing)
 - [Unstructured document processing](#unstructured-document-processing)
-
-### Document translation
+--->
+## Document translation
 
 | Icon          | Description   |
 | ------------- | ------------- |
-| ![Files symbol.](/office/media/icons/files-blue.png)  | **Supported file types** <br>This model supports the following file types: see [file type requirements](/ai-builder/form-processing-model-requirements#requirements). |
-| ![Conversation symbol.](/office/media/icons/chat-room-conversation-blue.png)  | **Supported languages** <br>This model supports the following languages: see [Model for Fixed-template documents](/ai-builder/form-processing-model-requirements#model-for-fixed-template-documents). |
-| ![Paragraph symbol.](/office/media/icons/paragraph-writing-blue.png) | **OCR considerations** <br>This model uses optical character recognition (OCR) technology to scan .pdf files, image files, and .tiff files. OCR processing works best on documents that meet [these requirements](/ai-builder/form-processing-model-requirements#requirements). |
-| ![Globe symbol.](/office/media/icons/globe-internet.png)  | **Multi-Geo environments** <br>When setting up Syntex in a [Microsoft 365 Multi-Geo](/microsoft-365/enterprise/microsoft-365-multi-geo) environment, you can only configure it to use the model type in the central location. If you want to use this model type in a satellite location, contact Microsoft support. |
+| ![Files symbol.](/office/media/icons/files-blue.png)  | **Supported file types** <br>This service supports the following file types: .csv, .docx, .htm, .html, .markdown, .md, .msg, .pdf, .pptx, .txt, and .xlsx. <br>For legacy file types .doc, .rtf, .xls, .ods, .ppt, and .odp, the translated copy is created in the modern equivalent (.docx, .xlsx, or .pptx). <br>SharePoint site pages aren't supported at this time. |
+| ![Document symbol.](/office/media/icons/document-blue.png)  | **Supported file size** <br>The maximum file size for documents to be translated is limited to 40 MB. |
+| ![Conversation symbol.](/office/media/icons/chat-room-conversation-blue.png)  | **Supported languages** <br>This service is available for [all supported languages and dialects](/azure/ai-services/translator/language-support?source=recommendations#translation). |
+| ![Globe symbol.](/office/media/icons/globe-internet.png)  | **Multi-Geo environments** <br>When setting up Syntex in a [Microsoft 365 Multi-Geo](/microsoft-365/enterprise/microsoft-365-multi-geo) environment, you can only configure it to use this service in the central location. If you want to use this service in a satellite location, contact Microsoft support. |
 
 ## Prebuilt document processing
 
