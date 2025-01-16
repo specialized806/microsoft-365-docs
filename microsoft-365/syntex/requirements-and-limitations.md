@@ -1,5 +1,5 @@
 ---
-title: Requirements and limitations for models in Microsoft Syntex
+title: Requirements and limitations for services in Microsoft Syntex
 ms.author: chucked
 author: chuckedmonson
 manager: jtremper
@@ -16,11 +16,11 @@ ms.localizationpriority:  medium
 description: Learn about file limitations, file types, supported languages, and other requirements for models in Microsoft Syntex.
 ---
 
-# Requirements and limitations for models in Microsoft Syntex
+# Requirements and limitations for services in Microsoft Syntex
 
 <sup>**Applies to:**  &ensp; &#10003; All custom models &ensp; | &ensp; &#10003; All prebuilt models</sup>
 
-Microsoft Syntex lets you create [custom models and prebuilt models](model-types-overview.md). Depending on the type of model you choose, there might be different requirements, such as file type and size, languages that need to be supported, geographical considerations, and other factors that will help you decide which type of model to use.
+Pay-as-you-go services in Microsoft Syntex might have different requirements, such as file type and size, languages that need to be supported, geographical considerations, and other factors that will help you decide which type of model to use.
 
 Custom models:
 
@@ -35,6 +35,10 @@ Prebuilt models:
 - [Receipt processing](#receipt-processing)
 - [Sensitive information processing](#sensitive-information-processing)
 - [Simple document processing](#simple-document-processing)
+
+Other services:
+
+- [Document translation](#document-translation)
 
 ## Custom models
 
