@@ -46,3 +46,9 @@ Copilot Prompt Gallery is both a website and a feature of Copilot that allows us
 3. Copilot Prompt Gallery accesses user-created prompts from user, group, and tenant collections in the Microsoft 365 Substrate data store.
 
 The prompts are stored in collections within the Substrate Data Store, which is a storage type that allows applications to store files and data and enables efficient indexing and search. There are collections for users, groups, and tenants, all of which are within the tenant boundary. All data is encrypted, transported via a secure pipeline, and is accessible only via Substrate APIs.
+
+## Related content
+
+- [Copilot Prompt Gallery](https://copilot.cloud.microsoft/prompts)
+- [Microsoft Copilot help & learning](https://support.microsoft.com/copilot-skilling)
+- [Data, Privacy, and Security for Microsoft 365 Copilot](microsoft-365-copilot-privacy.md)
