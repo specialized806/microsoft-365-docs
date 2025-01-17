@@ -33,7 +33,7 @@ When administrators assign a Lighthouse RBAC role to a user in the partner tenan
 
 ## Before you begin
 
-To access the **Lighthouse permissions** page and manage permissions, you must be an Administrator in Lighthouse.
+To access the **Lighthouse permissions** page and manage permissions, you must hold the Administrator role in Lighthouse.
 
 ## View Lighthouse RBAC role membership and associated security group
 
