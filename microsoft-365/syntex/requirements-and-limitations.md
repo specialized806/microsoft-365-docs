@@ -50,7 +50,7 @@ Models and services:
 | ![Files symbol.](/office/media/icons/files-blue.png)  | **Supported file types** <br>This service supports the following file types: .csv, .docx, .htm, .html, .markdown, .md, .msg, .pdf, .pptx, .txt, and .xlsx. <br>For older file types like .doc, .rtf, .xls, .ods, .ppt, and .odp, the translated copy will be created in the modern equivalent formats: .docx, .xlsx, or .pptx. <br>SharePoint site pages aren't supported at this time. |
 | ![Check mark in a circle symbol.](/office/media/icons/success-blue.png)  | **Supported file sizes** <br>The maximum file size for documents to be translated is limited to 40 MB. |
 | ![Conversation symbol.](/office/media/icons/chat-room-conversation-blue.png)  | **Supported languages** <br>This service is available for [all supported languages and dialects](/azure/ai-services/translator/language-support?source=recommendations#translation). |
-| ![Globe symbol.](/office/media/icons/globe-internet.png)  | **Multi-Geo environments** <br>When setting up Syntex in a [Microsoft 365 Multi-Geo](/microsoft-365/enterprise/microsoft-365-multi-geo) environment, you can only configure it to use this service in the central location. If you want to use this service in a satellite location, contact Microsoft support. |
+| ![Globe symbol.](/office/media/icons/globe-internet.png)  | **Multi-Geo environments** <br>When setting up this service in a [Microsoft 365 Multi-Geo](/microsoft-365/enterprise/microsoft-365-multi-geo) environment, you can only configure it to use the service in the central location. If you want to use this service in a satellite location, contact Microsoft support. |
 
 ## Prebuilt document processing
 
