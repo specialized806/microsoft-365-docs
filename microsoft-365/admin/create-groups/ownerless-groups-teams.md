@@ -129,5 +129,6 @@ Admins can see which Microsoft 365 groups remain ownerless by searching the [a
 
 ## Related articles
 
-- [Ownerless group FAQ](/exchange/troubleshoot/groups-and-distribution-lists/ownerless-group-policy)
+- [Overview of Microsoft 365 Groups for administrators](office-365-groups.md).
+- [Compare types of groups in Microsoft 365](compare-groups.md).
 - [Search the audit log in the compliance portal](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
