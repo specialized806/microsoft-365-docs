@@ -33,7 +33,7 @@ When administrators assign a Lighthouse RBAC role to a user in the partner tenan
 
 ## Before you begin
 
-To access the **Lighthouse permissions** page and manage permissions, you must be an Administrator in Lighthouse or a Privileged Role Administrator in Microsoft Entra ID.
+To access the **Lighthouse permissions** page and manage permissions, you must be an Administrator in Lighthouse.
 
 ## View Lighthouse RBAC role membership and associated security group
 
