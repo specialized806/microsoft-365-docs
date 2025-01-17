@@ -16,7 +16,9 @@ ms.collection:
 - Adm_NonTOC
 - m365copilot
 - magic-ai-copilot
-ms.custom: AdminSurgePortfolio
+ms.custom: 
+- AdminSurgePortfolio
+- campaignIDs-batch1
 search.appverid:
 - BCS160
 - MST160
