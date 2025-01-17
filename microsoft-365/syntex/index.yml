@@ -60,7 +60,7 @@ landingContent:
             url: create-local-model.md
 
 # Card 3
-  - title: Pay-as-you-go services
+  - title: Document & image services
     linkLists:
       - linkListType: overview
         links:
@@ -84,14 +84,26 @@ landingContent:
             url: taxonomy-tagging-overview.md
           - text: Unstructured document processing
             url: document-understanding-overview.md
-      - linkListType: architecture
+
+# Card 4
+  - title: Video services
+    linkLists:
+      - linkListType: overview
+        links:
+          - text: Video translation
+            url: https://support.microsoft.com/office/2e34ad1b-e213-47ed-a806-5cc0d88751de
+
+# Card 5
+  - title: Storage services
+    linkLists:
+      - linkListType: overview
         links:
           - text: Microsoft 365 Archive
             url: /microsoft-365/archive
           - text: Microsoft 365 Backup
             url: /microsoft-365/backup
 
-# Card 4
+# Card 6
   - title: Extensibility
     linkLists:
       - linkListType: reference
@@ -109,7 +121,7 @@ landingContent:
           - text: SharePoint Embedded
             url: /sharepoint/dev/embedded/overview
 
-# Card 5
+# Card 7
   - title: Adopt Syntex
     linkLists:
       - linkListType: overview
@@ -123,7 +135,7 @@ landingContent:
           - text: Assessment tool
             url: adoption-assessment-tool.md
 
-# Card 6
+# Card 8
   - title: Additional features
     linkLists:
       - linkListType: overview
@@ -141,8 +153,7 @@ landingContent:
           - text: Taxonomy features
             url: import-term-set-skos.md
 
-
-    # Card 7
+    # Card 9
   - title: Get support
     linkLists:
       - linkListType: overview
