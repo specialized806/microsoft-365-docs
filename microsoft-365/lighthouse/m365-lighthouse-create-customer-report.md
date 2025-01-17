@@ -5,7 +5,7 @@ ms.author: sharik
 author: SKjerland
 manager: scotv
 ms.reviewer: ebamoh
-ms.date: 01/20/2025
+ms.date: 01/27/2025
 audience: Admin
 ms.topic: how-to
 ms.service: microsoft-365-lighthouse
@@ -28,7 +28,7 @@ You can create a PDF report in Microsoft 365 Lighthouse for each of your custome
 
 ## Before you begin
 
-To create a customer report, you must hold at least the Microsoft Entra Global Reader role in the customer tenant. To learn more, see [Overview of permissions in Microsoft 365 Lighthouse](m365-lighthouse-overview-of-permissions.md). For a complete list of Microsoft Entra roles and the actions they can perform, see [Microsoft Entra built-in roles](/entra/identity/role-based-access-control/permissions-reference).
+To create a customer report, you must hold at least the Global Reader role in Microsoft Entra ID for the customer tenant. To learn more, see [Overview of permissions in Microsoft 365 Lighthouse](m365-lighthouse-overview-of-permissions.md). For a complete list of Microsoft Entra roles and the actions they can perform, see [Microsoft Entra built-in roles](/entra/identity/role-based-access-control/permissions-reference).
 
 ## Create a customer report
 
