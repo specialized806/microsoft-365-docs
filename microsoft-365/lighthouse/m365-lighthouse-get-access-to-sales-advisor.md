@@ -32,13 +32,13 @@ Sales Advisor is built for sellers. Customer-facing roles in partner's organizat
 ## Before you begin
 
 - Your partner tenant must be onboarded to Microsoft 365 Lighthouse.
-- You must be a Global Administrator in the partner tenant that you're signing in to. If you aren't a Global Administrator, reach out to a Global Administrator from your organization to conduct the following steps for you.
+- You must be an Account Manager in Lighthouse. If you aren't an Account Manager, reach out to someone in your partner tenant who has the appropriate permissions to assign the role to you.
 
 ### Appropriate roles in Partner Center
 
 - Executive report viewer gives access to all reporting data sets.
 - Report viewer gives access to most reporting data sets but not too sensitive data, such as revenue and customer or employee personal information.
-- A Global admin or an Account admin can assign users these roles, which are assigned either for an entire company or for a specific Microsoft Cloud Partner Program location.
+- You must be at least an Account admin to assign users these roles, which are assigned either for an entire company or for a specific Microsoft Cloud Partner Program location.
 
 For more information, see [CPP role-based access - Partner Center](/partner-center/insights-roles).
 
