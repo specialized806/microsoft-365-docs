@@ -113,12 +113,12 @@ Copilot in Viva Insights simplifies the query building process for analysts by s
 
 ### Copilot in Edge 
 
-‎Copilot‎ in ‎Edge‎ gives your organization AI-powered chat for work with enterprise data protection. To configure AI features for ‎Copilot‎ in ‎Edge‎ you'll need to add a configuration profile in the settings for ‎Microsoft Edge‎.
+‎Copilot‎ in ‎Edge‎ gives your organization AI-powered chat for work with enterprise data protection. To configure AI features for ‎Copilot‎ in ‎Edge,‎ you'll need to add a configuration profile in the settings for ‎Microsoft Edge‎.
 
-To learn more, see [Copilot in Viva Edge](https://learn.microsoft.com/en-US/deployedge/microsoft-edge-management-service).
+To learn more, see [Copilot in Viva Edge](/deployedge/microsoft-edge-management-service).
 
 ### Copilot in Power Platform and Dynamics 365 
 
-This links directs you to Power Platform admin center to manage settings specific to ‎Microsoft Copilot‎, agents, and ‎Copilot‎ agents in ‎Power Platform‎ and ‎Dynamics 365‎ products.
+This links directs you to the Power Platform admin center to manage settings specific to ‎Microsoft Copilot‎, agents, and ‎Copilot‎ agents in ‎Power Platform‎ and ‎Dynamics 365‎ products.
 
-To learn more, see [Copilot in Viva Edge](https://learn.microsoft.com/en-us/power-platform/copilot).
+To learn more, see [Copilot in Viva Edge](/power-platform/copilot).
