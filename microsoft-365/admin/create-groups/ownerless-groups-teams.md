@@ -47,8 +47,8 @@ To set up and manage the Microsoft 365 ownerless group policy, **one** of the th
 
 or
 
-- **An Entra ID P1 or P2 premium plan**
-  - All notification options in the ownerless groups policy require an Entra ID premium plan because a security group is used to specify which group members receive ownership notifications. Security groups are a feature of Entra ID premium plans.
+- **An Azure P1 or P2 premium plan**
+  - All notification options in the ownerless groups policy require an Azure premium plan because a security group is used to specify which group members receive ownership notifications. Security groups are a feature of Azure premium plans.
 
 ## Limitations of the ownerless group policy
 
@@ -71,7 +71,7 @@ Managing ownerless groups using this policy has a few limitations, which are exp
 
 1. On the **Microsoft 365 Groups** pane, select **Configure policy**.
 1. On the *Weekly notification options* page, specify who can receive ownership notifications. If you choose to allow or block certain members, then search for and add the security group that you want to use.
-    1. Using a security group to limit who can be invited to be an owner requires that you possess but not necessarily assign a Microsoft Entra ID P1 or P2 license for each Microsoft 365 group member in your organization.
+    1. Using a security group to limit who can be invited to be an owner requires that you possess but not necessarily assign a Microsoft Azure P1 or P2 license for each Microsoft 365 group member in your organization.
     2. Type the number of active members that you want to notify, and select the number of weeks to send the notification. The notification list is created during the first notification and doesn't change.
     3. Select **Next**.
 1. On the *Who is this email coming from* page, select a sender for the email, and then select **Next**.
