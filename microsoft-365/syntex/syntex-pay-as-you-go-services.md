@@ -32,10 +32,10 @@ The following tables describe each meter, its pricing, and how it measures usage
 
 |Service|What's counted?|What's billed? (USD)|
 |:----|:--------------|:-------------|
-|**Autofill columns** |The number of pages processed. Each processed page counts as one transaction. Cost is the same for one or more prompts per page. |$0.05/transaction |
-|**Content assembly** |The number of documents (Word or PDF) created using Syntex templates. Each processed document counts as one transaction.<br><br>If you have an existing Syntex per-user license, you won't be charged for generating documents manually but will be charged for automated document generation using Power Automate. |$0.15/transaction |
-|**Document translation** |The number of characters processed. Character count includes letters, Unicode code points, punctuation, and white spaces. |$15.00/1M characters |
-|**eSignature** |The number of electronic signature requests created. Up to 10 recipients can be included in each request. |$2.00/request |
+|**[Autofill columns](autofill-overview.md)** |The number of pages processed. Each processed page counts as one transaction. Cost is the same for one or more prompts per page. |$0.05/transaction |
+|**[Content assembly](content-assembly.md)** |The number of documents (Word or PDF) created using Syntex templates. Each processed document counts as one transaction.<br><br>If you have an existing Syntex per-user license, you won't be charged for generating documents manually but will be charged for automated document generation using Power Automate. |$0.15/transaction |
+|**[Document translation](translation-overview.md)** |The number of characters processed. Character count includes letters, Unicode code points, punctuation, and white spaces. |$15.00/1M characters |
+|**[eSignature](esignature-overview.md)** |The number of electronic signature requests created. Up to 10 recipients can be included in each request. |$2.00/request |
 |**Image tagging** |The number of images processed. Each processed image counts as one transaction. You won’t be charged if you only enable pay-as-you-go billing for image tagging. You're charged only when you [enable image tagging on a document library](image-tagging.md). |$0.001/transaction |
 |**Optical character recognition**  |The number of pages processed for images (JPEG, JPG, PNG, or BMP); the number of pages processed for PDF, TIF, or TIFF; or the number of embedded images in Teams chats and email messages. Each of these counts as one transaction. Processing occurs every time the file is edited. |$0.001/transaction|
 |**Prebuilt document processing**|The number of pages processed for PDF or image files. Each of these counts as one transaction. You won't be charged for model training. You're charged for processing whether or not there's a positive classification, or any entities extracted.<br><br>Processing occurs on document upload and on subsequent updates. Processing is counted for each model applied. For example, if you have two models applied to a library and you upload or update a five-page document in that library, the total pages processed is 10.|$0.01/transaction|
@@ -47,10 +47,8 @@ The following tables describe each meter, its pricing, and how it measures usage
 
 |Service|What's counted?|What's billed? (USD)|
 |:----|:--------------|:-------------|
-|**Microsoft 365 Archive**<sup>1</sup>  |The number of gigabytes (GB) of data archived. (This meter is only charged when archived storage plus active storage in SharePoint exceeds a tenant’s included or licensed allocated SharePoint storage quota limit.) <br>Reactivation of archived data after seven days. <br><br>**NOTE**: Education organizations are billed at $0.02/GB/month for the data archived. This meter is only charged when archived storage in SharePoint plus active pooled storage usage exceeds a tenant’s pooled storage quota limit. For more information, see [Education offering](../archive/archive-education-offering.md).    |$0.05/GB/month (shows on invoice as $0.00167/GB/day)<br><br>$0.60/GB|
+|**Microsoft 365 Archive**  |The number of gigabytes (GB) of data archived. (This meter is only charged when archived storage plus active storage in SharePoint exceeds a tenant’s included or licensed allocated SharePoint storage quota limit.) <br>Reactivation of archived data after seven days. <br><br>**NOTE**: Education organizations are billed at $0.02/GB/month for the data archived. This meter is only charged when archived storage in SharePoint plus active pooled storage usage exceeds a tenant’s pooled storage quota limit. For more information, see [Education offering](../archive/archive-education-offering.md).    |$0.05/GB/month (shows on invoice as $0.00167/GB/day)<br><br>$0.60/GB|
 |**Microsoft 365 Backup**  |The number of gigabytes (GB) of data backed up. |$0.15/GB/month (shows on invoice as $0.005/GB/day)|
-
-<sup>1 Education organizations are billed at $0.02/GB/month for the data archived. This meter is only charged when archived storage in SharePoint plus active pooled storage usage exceeds a tenant’s pooled storage quota limit. For more information, see [Education offering](../archive/archive-education-offering.md).</sup>
 
 ## Video services
 
