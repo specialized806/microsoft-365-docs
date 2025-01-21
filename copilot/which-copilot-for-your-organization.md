@@ -34,7 +34,7 @@ There are different Copilots available. This article describes the different Cop
 ✅ Free to organizations with a Microsoft 365 license  
 ✅ Use for personal tasks, with caution
 
-**Microsoft 365 Copilot Chat** is available free to organizations that have a Microsoft 365 license. Copilot Chat is a prompt and response experience, and uses information from the internet, specifically web-based chat. You also can create images and use [Copilot Pages](https://support.microsoft.com/en-us/topic/introducing-microsoft-365-copilot-pages-6674bd51-9ff5-42c4-9256-44d9428a726f) to save, edit, and share AI-generated content.
+**Microsoft 365 Copilot Chat** is available free to organizations that have a Microsoft 365 license. Copilot Chat is a prompt and response experience, and uses information from the internet, specifically web-based chat. You can also create images and use [Copilot Pages](https://support.microsoft.com/en-us/topic/introducing-microsoft-365-copilot-pages-6674bd51-9ff5-42c4-9256-44d9428a726f) to save, edit, and share AI-generated content.
 
 You can use Copilot Chat for personal tasks, but be cautious. Never add sensitive or proprietary work information in a prompt.
 
@@ -94,7 +94,7 @@ To learn more, see:
 
 **Microsoft Copilot** is a consumer version and is available for free. It can help you with personal tasks and uses information from the internet. You can use it for nonsensitive work tasks, but be cautious. Never add sensitive or proprietary work information in a prompt.
 
-For example, you can use Microsoft Copilot to:
+You can use Microsoft Copilot to:
 
 - Help you draft an email or get guidance on how to write an email, like creating an accessible email for different disabilities
 - Create guidelines or rules for your office break area
@@ -110,7 +110,7 @@ When users access this Copilot on their work devices, if Microsoft 365 Copilot i
 - When users select **work**, Copilot shows results that their Microsoft Entra account can access.
 - When users select **web**, Copilot shows results that their Microsoft Entra account can access and also shows results from the internet.
 
-If you want to use AI on your personal devices, then use Microsoft Copilot.
+If you want to use AI on your personal devices or use for nonsensitive work tasks, then use Microsoft Copilot.
 
 To learn more, see:
 
@@ -133,7 +133,7 @@ You can use Security Copilot to:
 - Learn more about an Intune setting configured on a device
 - Investigate a user account that might be compromised
 
-If you want the security team in your organization to quickly identify threats and compromised users & devices, then use Microsoft Security Copilot.
+If you want the security team in your organization to quickly identify threats and compromised users & devices in your organization, then use Microsoft Security Copilot.
 
 To learn more, see [What is Microsoft Security Copilot?](/copilot/security/microsoft-security-copilot).
 
@@ -158,7 +158,7 @@ To learn more, see [What is GitHub Copilot?](https://docs.github.com/copilot/abo
 
 ✅ Licensed by your work organization
 
-Microsoft Copilot Studio is a graphical tool that you can use to create agents and connect to other data sources. Agents let you customize your organization's Copilot experience, and can automate & execute business processes, like help desk, change management, and managing guests in meetings.
+**Microsoft Copilot Studio** is a graphical tool that you can use to create agents and connect to other data sources. Agents let you customize your organization's Copilot experience, and can automate & execute business processes, like help desk, change management, and managing guests in meetings.
 
 You can add existing agents and create your own agents.
 
