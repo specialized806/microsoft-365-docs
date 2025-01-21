@@ -388,7 +388,7 @@ items:
               href: manage/teams-apps-work-only-on-teams.md
             - name: SaaS Linked Apps
               href: manage/saas-linked-apps.md
-            - name: Manage Copilot agents
+            - name: Manage agents for Copilot
               href: manage/manage-copilot-agents-integrated-apps.md
          - name: Centralized deployment of add-ins
            items:
