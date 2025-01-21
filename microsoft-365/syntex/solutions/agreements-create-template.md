@@ -67,7 +67,7 @@ You can also create a template in Microsoft Word.
 7. You can now add content to the template and set up fields, sections, and workflows for this template.
 
 > [!NOTE]
-> You need to remove exisitng content controls in the document before using converting it to a template.
+> You need to remove existing content controls in the document before using converting it to a template.
 
 
 ## Add fields to a template
