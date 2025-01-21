@@ -59,10 +59,3 @@ To help your organization in planning for pay-as-you-go services, you can use th
 |Video translation |The number of characters from the source transcript. (This meter is charged only when the translation has successfully resulted in a new transcript.) |$15.00/1M characters |
 
 
-## Related articles
-
-[Microsoft Syntex - SharePoint Advanced Management overview](/sharepoint/advanced-management)
-
-[Licensing for Microsoft Syntex](syntex-licensing.md)
-
-[Configure pay-as-you-go billing](syntex-azure-billing.md)
