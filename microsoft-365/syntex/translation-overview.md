@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: jtremper
 ms.reviewer: ssquires
-ms.date: 09/26/2024
+ms.date: 01/16/2025
 audience: admin
 ms.topic: conceptual
 ms.service: microsoft-syntex
@@ -32,6 +32,9 @@ You can also use the translation feature for translating video transcripts and c
 
 ## Requirements and limitations
 
+For information about requirements to consider when choosing this service, see the [requirements and limitations for document translation](requirements-and-limitations.md#document-translation).
+
+<!---
 ### Supported file types
 
 Document translation is available for the following file types: .csv, .docx, .htm, .html, .markdown, .md, .msg, .pdf, .pptx, .txt, and .xlsx. For legacy file types .doc, .rtf, .xls, .ods, .ppt, and .odp, the translated copy is created in the modern equivalent (.docx, .xlsx, or .pptx). SharePoint site pages aren't supported at this time.
@@ -42,9 +45,9 @@ The maximum file size for documents to be translated is limited to 40 MB.
 
 ### Supported languages
 
-Translation in Syntex is available for [all supported languages and dialects](/azure/ai-services/translator/language-support?source=recommendations#translation).
+Translation in Syntex is available for [all supported languages and dialects](/azure/ai-services/translator/language-support?source=recommendations#translation).--->
 
-### Current release notes
+## Current release notes
 
 - Text on an image within a document isn't translated.
 
@@ -56,7 +59,7 @@ Translation in Syntex is available for [all supported languages and dialects](/a
 
 - On-demand translation on folders will be available in a future release.
 
-### Frequently asked questions
+## Frequently asked questions
 
 For answers to frequently asked questions about document translation, see [Document Translation: FAQ](/azure/ai-services/translator/document-translation/faq#document-translation-faq).
 
