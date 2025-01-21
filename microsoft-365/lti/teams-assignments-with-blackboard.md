@@ -122,7 +122,7 @@ In the Teams Assignments linking UX, instructors can choose to create a new or l
 
 - For **Blackboard Original** courses:
 
-    1. Select **Content** link in the left-side menu.
+    1. Select the **Content** link in the left-side menu.
     1. Select the **Build Content** dropdown to insert a new content item into the list and then choose **Link a Teams Assignment** from the list.
 
 In the Teams Assignments linking UX, instructors can choose to [Create a new Teams Assignment](https://support.microsoft.com/topic/create-an-assignment-in-microsoft-teams-23c128d0-ec34-4691-9511-661fba8599be) or link one or more existing Teams Assignments from the list, and the linked assignments will display in the course content list.
@@ -168,6 +168,5 @@ In the Teams Assignments status UX, instructors can see all their linked Teams A
 - Educators and Learners can contact support or give feedback directly from the app through the help and feedback menu.
 
 :::image type="content" source="./media/feedback.png" alt-text="Screenshot of link to send feedback for Microsoft Teams Assignments." border="true":::
-
 
 Learning Tools Interoperability® (LTI®) is a trademark of the 1EdTech Consortium, Inc. ([www.imsglobal.org](https://www.imsglobal.org/))
