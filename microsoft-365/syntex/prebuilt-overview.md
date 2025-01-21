@@ -58,4 +58,4 @@ Additional prebuilt models will be available in future releases.
 
 ## Requirements and limitations
 
-For information about requirements to consider when choosing this model, see [Requirements and limitations for models in Microsoft Syntex](requirements-and-limitations.md#prebuilt-models).
+For information about requirements to consider when choosing this model, see the [requirements and limitations for prebuilt document processing](requirements-and-limitations.md#prebuilt-document-processing).
