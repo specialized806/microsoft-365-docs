@@ -1,12 +1,12 @@
 ---
 title: Decide which Copilot is right for you
-description: Microsoft has several Copilot AI virtual assistants, including Microsoft 365 Copilot, Microsoft Copilot, Microsoft Security Copilot, GitHub Copilot, and Copilot Studio. Decide which Copilot is right for you and your organization.
+description: Microsoft has several Copilot AI virtual assistants, including Microsoft 365 Copilot Chat, Microsoft 365 Copilot, Microsoft Copilot, Microsoft Security Copilot, GitHub Copilot, and Copilot Studio. Decide which Copilot is right for you and your organization.
 f1.keywords:
 - NOCSH
 ms.author: mandia
 author: MandiOhlinger
 manager: laurawi
-ms.date: 01/16/2025
+ms.date: 01/21/2025
 ms.reviewer: 
 audience: Admin
 ms.topic: get-started
@@ -28,34 +28,57 @@ Copilot is Microsoft's AI-powered virtual assistant. It uses large language mode
 
 There are different Copilots available. This article describes the different Copilots and can help you decide which Copilot is right for you or for your organization.
 
+## Microsoft 365 Copilot Chat
+
+✅ Use for work tasks  
+✅ Free to organizations with a Microsoft 365 license  
+✅ Use for personal tasks, with caution
+
+**Microsoft 365 Copilot Chat** is available free to organizations that have a Microsoft 365 license. Copilot Chat is a prompt and response experience, and uses information from the internet, specifically web-based chat. You also can create images and use [Copilot Pages](https://support.microsoft.com/en-us/topic/introducing-microsoft-365-copilot-pages-6674bd51-9ff5-42c4-9256-44d9428a726f) to save, edit, and share AI-generated content.
+
+You can use Copilot Chat for personal tasks, but be cautious. Never add sensitive or proprietary work information in a prompt.
+
+Microsoft 365 Copilot Chat is available at [https://m365copilot.com](https://m365copilot.com), in the Microsoft 365 Copilot app that can be installed on devices in your organization, and in the Microsoft Edge web browser.
+
+If you want users in your organization to have prompt and response interchanges with information on the internet, then use Microsoft 365 Copilot Chat.
+
+To learn more, see:
+
+- [Overview of Microsoft 365 Copilot Chat](/copilot/overview)
+- [Copilot for all: Introducing Microsoft 365 Copilot Chat](https://www.microsoft.com/microsoft-365/blog/2025/01/15/copilot-for-all-introducing-microsoft-365-copilot-chat/?msockid=1671056ee0c2656a0faa178ae1ee64e9)
+
 ## Microsoft 365 Copilot
 
 ✅ Use for work tasks  
 ✅ Licensed by your work organization  
-✅ Can use for personal tasks, but use caution. This Copilot accesses work data.  
+✅ Use for personal tasks, with caution. This Copilot accesses work data.  
 ✅ Personally licensed by end users
 
-**Microsoft 365 Copilot** is licensed by your work organization. In Microsoft 365 apps, like Teams and Word, you use Copilot to help you with your work tasks. Microsoft 365 Copilot is also available at [https://m365.cloud.microsoft/](https://m365.cloud.microsoft/) and there's a Microsoft 365 Copilot app that can be installed on devices in your organization.
-
-Copilot accesses data that your Microsoft Entra account has access to, like your emails and files.
-
-For example, you can use Microsoft 365 Copilot to:
-
-- Find information in your emails and documents
-- Create summaries of long documents
-- Create meeting agendas and get a meeting summary
-- Summarize information into a document, presentation, or email
-- Create images and add these images to your work
-- Get answers to questions about your work or company, like the vacation policy
+**Microsoft 365 Copilot** is licensed by your work organization. It includes all the features in Microsoft 365 Copilot Chat, and can be used for web-based (internet) and work-based (Microsoft Graph) grounded chat.
 
 When users sign in with their Microsoft Entra account, they can use Microsoft 365 Copilot **work** or **web** version:
 
 :::image type="content" source="media/which-copilot-for-your-organization/copilot-work-web.png" alt-text="In Microsoft 365 Copilot, select work or web in Copilot Chat.":::
 
-- When users select **work**, Copilot shows results that the user's Microsoft Entra account can access.
-- When users select **web**, Copilot shows results that the user's Microsoft Entra account can access and also shows results from the internet.
+- When users select **work**, Copilot shows results that their Microsoft Entra account can access.
+- When users select **web**, Copilot shows results that their Microsoft Entra account can access and also shows results from the internet.
+
+With your Microsoft 365 Copilot license, you can use Copilot in Microsoft 365 apps, like Teams and Word, use [Copilot Agents](https://support.microsoft.com/topic/get-started-with-agents-for-microsoft-365-copilot-169469d7-328d-4d37-9090-bfc2058a39bd), and use [Copilot Analytics](https://techcommunity.microsoft.com/blog/microsoftvivablog/introducing-copilot-analytics-to-measure-ai-impact-on-your-business/4301717). These features can help end users and admins with work tasks.
+
+Microsoft 365 Copilot is available at [https://m365.cloud.microsoft](https://m365.cloud.microsoft), in the Microsoft 365 Copilot app that can be installed on devices in your organization, and in the Microsoft Edge web browser.
+
+Copilot accesses data that your Microsoft Entra account has access to, like your emails and files. So, you can use Microsoft 365 Copilot to:
+
+- Find information in your Outlook emails and SharePoint documents
+- Create summaries of long Word documents
+- Summarize information into a Word document, PowerPoint presentation, or Outlook email
+- Create meeting agendas and get a Teams meeting summary
+- Create images and add these images to your work, like PowerPoint presentations
+- Get answers to questions about your work or company, like the vacation policy
 
 End users can also purchase their own license that includes Copilot. For example, users with a Microsoft 365 Personal or Family subscription might be able to purchase this Copilot.
+
+If you want users in your organization to have prompt and response interchanges with work & internet information, and use AI features in their work apps, then use Microsoft 365 Copilot.
 
 To learn more, see:
 
@@ -84,8 +107,10 @@ When users access this Copilot on their work devices, if Microsoft 365 Copilot i
 
 :::image type="content" source="media/which-copilot-for-your-organization/copilot-work-web.png" alt-text="In Microsoft Copilot, select work or web in Copilot Chat when redirected.":::
 
-- When users select **work**, Copilot shows results that the user's Microsoft Entra account can access.
-- When users select **web**, Copilot shows results that the user's Microsoft Entra account can access and also shows results from the internet.
+- When users select **work**, Copilot shows results that their Microsoft Entra account can access.
+- When users select **web**, Copilot shows results that their Microsoft Entra account can access and also shows results from the internet.
+
+If you want to use AI on your personal devices, then use Microsoft Copilot.
 
 To learn more, see:
 
@@ -108,6 +133,8 @@ You can use Security Copilot to:
 - Learn more about an Intune setting configured on a device
 - Investigate a user account that might be compromised
 
+If you want the security team in your organization to quickly identify threats and compromised users & devices, then use Microsoft Security Copilot.
+
 To learn more, see [What is Microsoft Security Copilot?](/copilot/security/microsoft-security-copilot).
 
 ## GitHub Copilot
@@ -116,12 +143,14 @@ To learn more, see [What is Microsoft Security Copilot?](/copilot/security/micro
 ✅ Licensed by your work organization  
 ✅ Free for some people, like verified students and teachers
 
-**GitHub Copilot** is an AI coding assistant that can help you write code faster. It's typically licensed by your work organization and is also free for some people, like verified students and teachers.
+**GitHub Copilot** is an AI coding assistant that can help you write code faster. This Copilot is typically licensed by your work organization and is also free for some people, like verified students and teachers.
 
 You can use GitHub Copilot to:
 
 - Get code suggestions as you type
 - Ask for help when writing your code
+
+If you want developers in your organization to get AI help with writing code, then use GitHub Copilot.
 
 To learn more, see [What is GitHub Copilot?](https://docs.github.com/copilot/about-github-copilot/what-is-github-copilot).
 
@@ -139,10 +168,13 @@ You can use Copilot Studio to:
 - Connect to data sources
 - Create a custom prompt for your agent
 
+If you want power users in your organization to create agents that resolve business needs, then use Microsoft Copilot Studio and agents.
+
 To learn more, see:
 
 - [Learn more about Copilot Studio](/microsoft-copilot-studio/fundamentals-what-is-copilot-studio)
 - [Get started with agents for Microsoft 365 Copilot](https://support.microsoft.com/topic/get-started-with-agents-for-microsoft-365-copilot-169469d7-328d-4d37-9090-bfc2058a39bd)
+- [Extend Microsoft 365 Copilot using agents](/microsoft-365-copilot/extensibility)
 
 ## Related articles
 

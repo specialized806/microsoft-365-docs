@@ -13,7 +13,7 @@ items:
         href: microsoft-365-copilot-architecture.md
       - name: Data protection and auditing
         href: microsoft-365-copilot-architecture-data-protection-auditing.md
-    - name: Choose your Copilot
+    - name: Select your Copilot
       href: which-copilot-for-your-organization.md
     - name: Get your data ready for Microsoft 365 Copilot
       items:
