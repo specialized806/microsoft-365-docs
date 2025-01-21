@@ -78,7 +78,7 @@ On their first access to the app, course instructors and students need to sign i
 
     1. Select the **Enable Microsoft Teams** link in the **Details & Actions** right-side menu.
 
-    :::image type="content" source="../media/enable-teams.png" alt-text="Screenshot of the link for enabling Microsoft Teams." border="true":::
+    :::image type="content" source="media/enable-teams.png" alt-text="Screenshot of the link for enabling Microsoft Teams." border="true":::
 
 - For **Blackboard Ultra** courses without Teams classes integration enabled:
 
@@ -166,6 +166,9 @@ In the Teams Assignments status UX, instructors can see all their linked Teams A
 - Instructors can take the [Teams Assignments LTI® Microsoft Learn course](https://aka.ms/AssignmentsLTICourse) to learn to use the integration and get more help on Microsoft Teams Assignments.
 - Educators and Learners can contact support or give feedback directly from the app through the help and feedback menu.
 
-:::image type="content" source="../media/feedback.png" alt-text="Screenshot of link to send feedback for Microsoft Teams Assignments." border="true":::
+:::image type="content" source="/media/feedback.png" alt-text="Screenshot of link to send feedback for Microsoft Teams Assignments." border="true":::
+
+:::image type="content" source="./media/feedback.png" alt-text="Screenshot of link to send feedback for Microsoft Teams Assignments." border="true":::
+
 
 Learning Tools Interoperability® (LTI®) is a trademark of the 1EdTech Consortium, Inc. ([www.imsglobal.org](https://www.imsglobal.org/))
