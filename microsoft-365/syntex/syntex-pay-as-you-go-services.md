@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: jtremper
 ms.reviewer: ssquires, kkameth
-ms.date: 11/11/2024
+ms.date: 01/21/2025
 audience: admin
 ms.topic: conceptual
 ms.service: microsoft-syntex
@@ -22,7 +22,7 @@ description: Learn about pay-as-you-go services and pricing for Microsoft Syntex
 > [!NOTE]
 > Through June 2025, if you have [pay-as-you-go billing](syntex-azure-billing.md) set up, your organization will receive a limited amount of included capacity each month for selected services, letting you try these services at no cost. This offering does not include capacity for Microsoft 365 Archive or Microsoft 365 Backup. For more information, see [Try out Microsoft Syntex and explore its services](promo-syntex.md).
 
-When you use Microsoft Syntex [pay-as-you-go](syntex-azure-billing.md), services are billed using Syntex meters in the Azure subscription that you specified when you set up Microsoft Syntex.
+When you use pay-as-you-go services in Microsoft Syntex, services are billed using Syntex meters in the Azure subscription that you specified when you [set up Microsoft Syntex](syntex-azure-billing.md#connect-syntex-to-an-azure-subscription-for-billing).
 
 The following table describes each meter, its pricing, and how it measures usage. When you connect your Azure subscription to Microsoft Syntex, users in your organization are able to take advantage of Syntex services right away. Your tenant is billed according to the details shown in this article.
 
