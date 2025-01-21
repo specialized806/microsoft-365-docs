@@ -66,6 +66,10 @@ You can also create a template in Microsoft Word.
 
 7. You can now add content to the template and set up fields, sections, and workflows for this template.
 
+> [!NOTE]
+> You need to remove exisitng content controls in the document before using converting it to a template.
+
+
 ## Add fields to a template
 
 Fields are areas of the template that should be filled in when generating agreements from the template. When configuring the template, you can define as many fields as you like. For example, the name of a contractor can occur multiple times in a consulting agreement document. You can create a field named "Contractor Name" and associate it with all occurrences of the name throughout the document when you generate a template.
