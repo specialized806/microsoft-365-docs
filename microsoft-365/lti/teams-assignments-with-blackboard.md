@@ -46,7 +46,7 @@ If your users access Blackboard through a custom domain (blackboard.myschool.edu
 
 > [!IMPORTANT]
 > If prepopulated parameters or policies are edited, the app might not function properly. Double-check the enablement status of the app  and student access settings for each placement as your Blackboard configuration might disable them by default. Student settings on both the Teams Assignments and Link a Teams Assignment placement should have **Allow students access** enabled and **Launch in new window** disabled.
-> :::image type="content" source="../media/teams-assignment-settings.png" alt-text="Screenshot of Teams Assignment settings." border="true":::
+> :::image type="content" source="media/teams-assignment-settings.png" alt-text="Screenshot of Teams Assignment settings." border="true":::
 
 ## Deployment options for class teams
 
@@ -165,8 +165,6 @@ In the Teams Assignments status UX, instructors can see all their linked Teams A
 - Admins can learn about [other Microsoft 365 and Teams LMS integrations](https://aka.ms/LTIAdminDocs) available.
 - Instructors can take the [Teams Assignments LTI® Microsoft Learn course](https://aka.ms/AssignmentsLTICourse) to learn to use the integration and get more help on Microsoft Teams Assignments.
 - Educators and Learners can contact support or give feedback directly from the app through the help and feedback menu.
-
-:::image type="content" source="/media/feedback.png" alt-text="Screenshot of link to send feedback for Microsoft Teams Assignments." border="true":::
 
 :::image type="content" source="./media/feedback.png" alt-text="Screenshot of link to send feedback for Microsoft Teams Assignments." border="true":::
 
