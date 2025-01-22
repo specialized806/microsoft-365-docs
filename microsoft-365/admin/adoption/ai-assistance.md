@@ -34,18 +34,18 @@ The AI assistance score represents the extent to which users in your organizatio
 :::image type="content" source="../../media/adoption-score-ai-view.png" alt-text="Screenshot showing the Adoption Sore dashboard with AI assistance category." lightbox="../../media/adoption-score-ai-view.png":::
 
 >[!NOTE]
-> AI assistance score is in preview. The scoring logic and insights displayed on the page may change over time. As of January 2025, the score now includes additional Microsoft 365 Copilot actions such as sending prompts in Microsoft 365 Copilot Chat and using Intelligent Recap in Microsoft Teams. This update will cause the score value to increase as compared with the original score delivered in Fall 2023.  
+> AI assistance score is in preview. The scoring logic and insights displayed on the page might change over time. As of January 2025, the score now includes more Microsoft 365 Copilot actions, such as sending prompts in Microsoft 365 Copilot Chat and using Intelligent Recap in Microsoft Teams. This update causes the score value to increase as compared with the original score delivered in Fall 2023.  
 
 ## AI assistance score calculation methodology
 
-The AI assistance score is calculated based on a target of getting each licensed user to use Microsoft 365 Copilot on at least 12 out of the past 28 days. The 12-day threshold is used because individuals that achieve it have a very high likelihood of becoming a consistent long-term user of Microsoft 365 Copilot.
+The AI assistance score is calculated based on a target of getting each licensed user to use Microsoft 365 Copilot on at least 12 out of the past 28 days. The 12-day threshold is used because individuals that achieve it have a high likelihood of becoming a consistent long-term user of Microsoft 365 Copilot.
 
 How the score is calculated:
 
 - For each user licensed for Microsoft 365 Copilot, Microsoft calculates the number of days out of the prior 28 days on which the user actively used Microsoft 365 Copilot.
-  - Note: The score accounts for Copilot usage in the following Microsoft 365 applications: Outlook, Teams, Business Chat, Word, PowerPoint, Excel, OneNote, and Loop. Only intentional user actions in these apps are considered; the set of actions is consistent with those used for the Microsoft 365 Copilot usage report.
-- An individual-level score is produced for each user by diving the count of active days by 12. For example, 8 days of usage results in (8/12) × 100 = 66.67
-- The tenant-level score is produced by taking the average score across all licensed users in the organization. If the score is 50 out of 100, this means that, on average, licensed users in your organization used Microsoft 365 Copilot on 6 days out of the past 28 days.
+  - Note: The score accounts for Copilot usage in the following Microsoft 365 applications: Outlook, Teams, Copilot Chat, Word, PowerPoint, Excel, OneNote, and Loop. Only intentional user actions in these apps are considered; the set of actions is consistent with those used for the Microsoft 365 Copilot usage report.
+- An individual-level score is produced for each user by diving the count of active days by 12. For example, eight days of usage results in (8/12) × 100 = 66.67
+- The tenant-level score is produced by taking the average score across all licensed users in the organization. If the score is 50 out of 100, this means that, on average, licensed users in your organization used Microsoft 365 Copilot on six days out of the past 28 days.
 
 ## Peer benchmark for AI assistance score
 
@@ -70,22 +70,22 @@ Microsoft 365 Copilot usage insights are organized into five key areas: Teams me
 You can use these insights to:
 
 - Identify which Copilot features are most popular among your users.
-- Spot underutilized features that may benefit from additional user training.
-- Track adoption trends across different Microsoft 365 applications over 7, 30, 90 180 days’ time ranges.
+- Spot underutilized features that might benefit from more user training.
+- Track adoption trends across different Microsoft 365 applications over 7, 30, 90, 180 days’ time ranges.
 
 >[!NOTE]
-> When you select the settings to opt out specific user groups from calculating People experience insights in Adoption Score, the AI assistance category would not be respecting that opt out for the current release. This will be changed in the future releases.
+> When you select the settings to opt out specific user groups from calculating People experience insights in Adoption Score, the AI assistance category wouldn't be respecting that opt out for the current release. This will be changed in the future releases.
 
 ## Sentiment survey upload experience
 
 In this section, you can upload Copilot survey results to have them displayed in the Microsoft Copilot Dashboard.
 
 >[!NOTE]
-> You won't be able to view the results on this page; they are only available in the Microsoft Copilot Dashboard.
+> You won't be able to view the results on this page; they're only available in the Microsoft Copilot Dashboard.
 
 Use this feature to provide your organizational leaders with a centralized location for insights on how users feel about the AI assistance they receive from Copilot.
 
-This feature is only available for Global administrators. Users without this role cannot see it in the Microsoft 365 admin center.
+This feature is only available for Global administrators. Users without this role can't see it in the Microsoft 365 admin center.
 
 ### Upload survey data
 
