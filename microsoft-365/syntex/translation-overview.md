@@ -31,9 +31,9 @@ This feature lets you translate files of different types either manually or auto
 You can also use the translation feature for translating video transcripts and closed captioning files. For more information, see [Transcript translations in Stream for SharePoint](https://support.microsoft.com/office/microsoft-syntex-pay-as-you-go-transcript-translations-in-stream-for-sharepoint-2e34ad1b-e213-47ed-a806-5cc0d88751de).
 
 ## Requirements and limitations
-
+<!---
 The following table outlines key factors to consider when planning to use this service.
-
+--->
 | Icon          | Description   |
 | ------------- | ------------- |
 | ![Files symbol.](/office/media/icons/files-blue.png)  | **Supported file types** <br>This service supports the following file types: .csv, .docx, .htm, .html, .markdown, .md, .msg, .pdf, .pptx, .txt, and .xlsx. <br>For older file types like .doc, .odp, .ods, .rtf, .ppt, and .xls, the translated copy will be created in the modern equivalent formats: .docx, .pptx, or .xlsx. <br>SharePoint site pages aren't supported at this time. |
