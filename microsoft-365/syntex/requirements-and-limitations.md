@@ -1,5 +1,5 @@
 ---
-title: Requirements and limitations for pay-as-you-go services in SharePoint
+title: Requirements and limitations for unstructured document processing in SharePoint
 ms.author: chucked
 author: chuckedmonson
 manager: jtremper
@@ -13,14 +13,14 @@ ms.collection:
     - essentials-manage
     - m365initiative-syntex
 ms.localizationpriority:  medium
-description: Learn about file limitations, file types, supported languages, and other requirements for pay-as-you-go services in SharePoint.
+description: Learn about file limitations, file types, supported languages, and other requirements for unstructured document processing in SharePoint.
 ---
 
-# Requirements and limitations for pay-as-you-go services in SharePoint
+# Requirements and limitations for unstructured document processing services in SharePoint
 
-<!---<sup>**Applies to:**  &ensp; &#10003; All custom models &ensp; | &ensp; &#10003; All prebuilt models</sup>--->
+<!---<sup>**Applies to:**  &ensp; &#10003; All custom models &ensp; | &ensp; &#10003; All prebuilt models</sup>
 
-Some services might have additional or specific requirements, including file type and size, supported languages, geographical considerations, and other factors that might guide your decision on how to use the service.
+Some services might have additional or specific requirements, including file type and size, supported languages, geographical considerations, and other factors that might guide your decision on how to use the service.--->
 <!---
 Services:
 
@@ -42,7 +42,7 @@ Models and services:
     - [Freeform document processing](#freeform-document-processing)
     - [Structured document processing](#structured-document-processing)
 - [Unstructured document processing](#unstructured-document-processing)
---->
+
 ## Document translation
 
 | Icon          | Description   |
@@ -139,7 +139,7 @@ Models and services:
 | ![Globe symbol.](/office/media/icons/globe-internet.png)  | **Multi-Geo environments** <br>When setting up Syntex in a [Microsoft 365 Multi-Geo](/microsoft-365/enterprise/microsoft-365-multi-geo) environment, you can only configure it to use the model type in the central location. If you want to use this model type in a satellite location, contact Microsoft support. |
 | ![Blocks symbol.](/office/media/icons/blocks-blue.png)  | **Custom Power Platform environments** <br>If you use a custom environment (rather than the default environment) for Power Platform processing, there are additional setup requirements. For more information, see [Custom Power Platform environments](/microsoft-365/contentunderstanding/set-up-content-understanding#custom-power-platform-environments). |
 | ![Objects symbol.](/office/media/icons/objects-blue.png)  | **Multi-model libraries** <br>If two or more trained models are applied to the same library, the file is classified using the model that has the highest average confidence score. The extracted entities are from the applied model only. You can have only one freeform or one structured model per library. |
-
+--->
 ## Unstructured document processing
 
 | Icon          | Description   |
