@@ -13,46 +13,12 @@ ms.collection:
     - essentials-manage
     - m365initiative-syntex
 ms.localizationpriority:  medium
-description: Learn about file limitations, file types, supported languages, and other requirements for pay-as-you-go services in SharePoint.
+description: Learn about file limitations, file types, supported languages, and other requirements for prebuilt document processing in SharePoint.
 ---
 
 # Requirements and limitations for prebuilt document processing in SharePoint
 
-<!---<sup>**Applies to:**  &ensp; &#10003; All custom models &ensp; | &ensp; &#10003; All prebuilt models
-
-Some services might have additional or specific requirements, including file type and size, supported languages, geographical considerations, and other factors that might guide your decision on how to use the service.--->
-<!---
-Services:
-
-- [Document translation](#document-translation)
-- [Prebuilt document processing](#prebuilt-document-processing)
-- [Structured and freeform document processing](#structured-and-freeform-document-processing)
-- [Unstructured document processing](#unstructured-document-processing)--->
-<!---
-Models and services:
-
-- [Document translation](#document-translation)
-- [Prebuilt document processing](#prebuilt-document-processing)
-    - [Contract processing](#contract-processing)
-    - [Invoice processing](#invoice-processing)
-    - [Receipt processing](#receipt-processing)
-    - [Sensitive information processing](#sensitive-information-processing)
-    - [Simple document processing](#simple-document-processing)
-- [Structured and freeform document processing](#structured-and-freeform-document-processing)
-    - [Freeform document processing](#freeform-document-processing)
-    - [Structured document processing](#structured-document-processing)
-- [Unstructured document processing](#unstructured-document-processing)
---->
-
-## Prebuilt document processing
-
-- [Contract processing](#contract-processing)
-- [Invoice processing](#invoice-processing)
-- [Receipt processing](#receipt-processing)
-- [Sensitive information processing](#sensitive-information-processing)
-- [Simple document processing](#simple-document-processing)
-
-### Contract processing
+## Contract processing
 
 | Icon          | Description   |
 | ------------- | ------------- |
@@ -62,7 +28,7 @@ Models and services:
 | ![Globe symbol.](/office/media/icons/globe-internet.png)  | **Multi-Geo environments** <br>When setting up Syntex in a [Microsoft 365 Multi-Geo](/microsoft-365/enterprise/microsoft-365-multi-geo) environment, you can only configure it to use the model type in the central location. If you want to use this model type in a satellite location, contact Microsoft support. |
 | ![Objects symbol.](/office/media/icons/objects-blue.png)  | **Multi-model libraries** <br>If two or more trained models are applied to the same library, the file is classified using the model that has the highest average confidence score. The extracted entities are from the applied model only. |
 
-### Invoice processing
+## Invoice processing
 
 | Icon          | Description   |
 | ------------- | ------------- |
@@ -72,7 +38,7 @@ Models and services:
 | ![Globe symbol.](/office/media/icons/globe-internet.png)  | **Multi-Geo environments** <br>When setting up Syntex in a [Microsoft 365 Multi-Geo](/microsoft-365/enterprise/microsoft-365-multi-geo) environment, you can only configure it to use the model type in the central location. If you want to use this model type in a satellite location, contact Microsoft support. |
 | ![Objects symbol.](/office/media/icons/objects-blue.png)  | **Multi-model libraries** <br>If two or more trained models are applied to the same library, the file is classified using the model that has the highest average confidence score. The extracted entities are from the applied model only. |
 
-### Receipt processing
+## Receipt processing
 
 | Icon          | Description   |
 | ------------- | ------------- |
@@ -82,7 +48,7 @@ Models and services:
 | ![Globe symbol.](/office/media/icons/globe-internet.png)  | **Multi-Geo environments** <br>When setting up Syntex in a [Microsoft 365 Multi-Geo](/microsoft-365/enterprise/microsoft-365-multi-geo) environment, you can only configure it to use the model type in the central location. If you want to use this model type in a satellite location, contact Microsoft support. |
 | ![Objects symbol.](/office/media/icons/objects-blue.png)  | **Multi-model libraries** <br>If two or more trained models are applied to the same library, the file is classified using the model that has the highest average confidence score. The extracted entities are from the applied model only. |
 
-### Sensitive information processing
+## Sensitive information processing
 
 | Icon          | Description   |
 | ------------- | ------------- |
@@ -92,7 +58,7 @@ Models and services:
 | ![Globe symbol.](/office/media/icons/globe-internet.png)  | **Multi-Geo environments** <br>When setting up Syntex in a [Microsoft 365 Multi-Geo](/microsoft-365/enterprise/microsoft-365-multi-geo) environment, you can only configure it to use the model type in the central location. If you want to use this model type in a satellite location, contact Microsoft support. |
 | ![Objects symbol.](/office/media/icons/objects-blue.png)  | **Multi-model libraries** <br>If two or more trained models are applied to the same library, the file is classified using the model that has the highest average confidence score. The extracted entities are from the applied model only. |
 
-### Simple document processing
+## Simple document processing
 
 | Icon          | Description   |
 | ------------- | ------------- |
