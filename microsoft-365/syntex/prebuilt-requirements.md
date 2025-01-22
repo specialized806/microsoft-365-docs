@@ -18,6 +18,8 @@ description: Learn about file limitations, file types, supported languages, and 
 
 # Requirements and limitations for prebuilt document processing in SharePoint
 
+The following sections outline key factors to consider when choosing a prebuilt document processing model.
+
 ## Contract processing
 
 | Icon          | Description   |

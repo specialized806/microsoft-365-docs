@@ -18,6 +18,8 @@ description: Learn about file limitations, file types, supported languages, and 
 
 # Requirements and limitations for structured and freeform document processing in SharePoint
 
+The following sections outline key factors to consider when choosing a structured or freeform processing model.
+
 ## Structured document processing
 
 | Icon          | Description   |
