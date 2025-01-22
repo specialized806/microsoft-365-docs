@@ -44,12 +44,14 @@ How the score is calculated:
 
 - For each user licensed for Microsoft 365 Copilot, Microsoft calculates the number of days out of the prior 28 days on which the user actively used Microsoft 365 Copilot.
   - Note: The score accounts for Copilot usage in the following Microsoft 365 applications: Outlook, Teams, Copilot Chat, Word, PowerPoint, Excel, OneNote, and Loop. Only intentional user actions in these apps are considered; the set of actions is consistent with those used for the Microsoft 365 Copilot usage report.
-- An individual-level score is produced for each user by diving the count of active days by 12. For example, eight days of usage results in (8/12) × 100 = 66.67
+- An individual-level score is produced for each user by dividing the count of active days by 12. For example, eight days of usage results in (8/12) × 100 = 66.67
 - The tenant-level score is produced by taking the average score across all licensed users in the organization. If the score is 50 out of 100, this means that, on average, licensed users in your organization used Microsoft 365 Copilot on six days out of the past 28 days.
 
 ## Peer benchmark for AI assistance score
 
-The AI assistance score peer benchmark allows you to compare your organization's score with organizations like yours. Consistent with other scores in Adoption Score, the benchmark is calculated by taking the average AI assistance score across organizations similar to yours (based on your region, industry, and number of users licensed for Microsoft 365). To learn more, see [Interpreting your organization's Adoption Score](adoption-score.md#interpreting-your-organizations-adoption-score).
+The AI assistance score peer benchmark allows you to compare your organization's score with organizations like yours. Consistent with other scores in Adoption Score, the benchmark is calculated by taking the average AI assistance score across organizations similar to yours (based on your region, industry, and number of users licensed for Microsoft 365). 
+
+To learn more, see [Interpreting your organization's Adoption Score](adoption-score.md#interpreting-your-organizations-adoption-score).
 
 ## Time trend
 
@@ -61,11 +63,11 @@ Time trend data is provided for each category score to track progress. This allo
 
 ## How can I improve my score?
 
-Resource cards are available for administrators to facilitate adoption, including Copilot Lab, Success Kit (v2.0), User Enablement, Copilot Dashboard in Viva Insights, and Microsoft Copilot Scenario. For more details, please refer to the resource cards.
+Resource cards are available for administrators to facilitate adoption, including Copilot Lab, Success Kit (v2.0), User Enablement, Copilot Dashboard in Viva Insights, and Microsoft Copilot Scenario. For more details, refer to the resource cards.
 
 ## How are people using Microsoft 365 Copilot?
 
-Microsoft 365 Copilot usage insights are organized into five key areas: Teams meetings & chats, documents, emails, Business Chat, and Microsoft Copilot usage frequency. These insights show how many users are engaging with various Copilot features compared to the total number of enabled users over a 28-day period.
+Microsoft 365 Copilot usage insights are organized into five key areas: Teams meetings & chats, documents, emails, Copilot Chat, and Microsoft Copilot usage frequency. These insights show how many users are engaging with various Copilot features compared to the total number of enabled users over a 28-day period.
 
 You can use these insights to:
 
@@ -92,8 +94,8 @@ This feature is only available for Global administrators. Users without this rol
 To access the Sentiment survey upload feature in the Microsoft 365 admin center, follow these steps:
 
 1. In the Microsoft 365 admin center, go to **Reports** > **Adoption Score**.
-1. Navigate to AI assistance and select View details.
-1. On the AI assistance page, navigate to Assess Copilot sentiment for your org and select Record survey results.
+1. Navigate to **AI assistance** and select **View details**.
+1. On the AI assistance page, navigate to **Assess Copilot sentiment for your org** and select **Record survey results**.
 
 :::image type="content" source="../../media/as-upload-survey.png" alt-text="Screenshot showing the dashboard to upload survey data for Copilot sentiment" lightbox="../../media/as-upload-survey.png":::
 
