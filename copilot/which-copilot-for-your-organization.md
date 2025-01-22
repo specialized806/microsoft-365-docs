@@ -46,8 +46,9 @@ If you want users in your organization to have prompt and response interchanges 
 
 To learn more, see:
 
-- [Overview of Microsoft 365 Copilot Chat](/copilot/overview)
+- [Learn more about Microsoft 365 Copilot Chat](/copilot/overview)
 - [Copilot for all: Introducing Microsoft 365 Copilot Chat](https://www.microsoft.com/microsoft-365/blog/2025/01/15/copilot-for-all-introducing-microsoft-365-copilot-chat/?msockid=1671056ee0c2656a0faa178ae1ee64e9)
+- [Add apps to Microsoft Intune](/mem/intune/apps/apps-add) and [assign apps to groups](/mem/intune/apps/apps-deploy)
 
 ## Microsoft 365 Copilot
 
@@ -82,7 +83,7 @@ In the following example, Copilot filters and highlights the rows that list me i
 
 Microsoft 365 Copilot is available at [https://m365.cloud.microsoft](https://m365.cloud.microsoft), in the [Microsoft 365 Copilot app](https://apps.microsoft.com/detail/9wzdncrd29v9) that can be installed on organization devices, in Microsoft Edge, when you use [Microsoft Bing](https://www.bing.com), and in Microsoft 365 apps.
 
-End users can also purchase their own license that includes Copilot. For example, users with a Microsoft 365 Personal or Family subscription might be able to purchase this Copilot.
+End users can also purchase their own license that includes Copilot.
 
 If you want users in your organization to have prompt and response interchanges with work & internet information, and use AI features in their work apps, then use Microsoft 365 Copilot.
 
@@ -92,6 +93,7 @@ To learn more, see:
 - [Microsoft 365 Copilot architecture and how it works](microsoft-365-copilot-architecture.md)
 - [Copilot Prompt Gallery](https://copilot.cloud.microsoft/prompts)
 - [Microsoft 365 Copilot plans](https://www.microsoft.com/microsoft-365/copilot)
+- [Add apps to Microsoft Intune](/mem/intune/apps/apps-add) and [assign apps to groups](/mem/intune/apps/apps-deploy)
 
 ## Microsoft Copilot
 
@@ -109,9 +111,9 @@ You can use Microsoft Copilot to:
 
 :::image type="content" source="media/which-copilot-for-your-organization/microsoft-copilot.png" alt-text="Screenshot that shows the free Microsoft Copilot consumer version to use for personal tasks.":::
 
-Microsoft Copilot is available at [copilot.microsoft.comopilot.microsoft.com](https://copilot.microsoft.com), in Microsoft Edge, when you use [Microsoft Bing](https://www.bing.com), and the Copilot app.
+Microsoft Copilot is available at [copilot.microsoft.com](https://copilot.microsoft.com), in Microsoft Edge, when you use [Microsoft Bing](https://www.bing.com), and the Copilot app.
 
-When users access this Copilot on their work devices, if Microsoft 365 Copilot is enabled for the users, then it might redirect to Microsoft 365 Copilot (`https://m365.cloud.microsoft`). Or, they can choose **work** or **personal**:
+When users access this Copilot on their work devices, if Microsoft 365 Copilot is enabled for the users, then it might redirect to Microsoft 365 Copilot (`https://m365.cloud.microsoft`). Or, they might get to choose **work** or **personal**:
 
 :::image type="content" source="media/which-copilot-for-your-organization/microsoft-copilot-work-personal.png" alt-text="Screenshot that shows Microsoft Copilot asking Microsoft Entra users to select work or personal.":::
 
@@ -123,6 +125,7 @@ If you want to use AI on your personal devices or use for nonsensitive work task
 To learn more, see:
 
 - [Overview of Microsoft Copilot](/copilot/overview)
+- [Copilot is now included in Microsoft 365 Personal and Family](https://www.microsoft.com/microsoft-365/blog/2025/01/16/copilot-is-now-included-in-microsoft-365-personal-and-family)
 - [Data, privacy, and security for web search in Microsoft 365 Copilot and Microsoft Copilot](manage-public-web-access.md)
 
 ## Microsoft Security Copilot
@@ -160,13 +163,16 @@ You can use GitHub Copilot to:
 
 If you want developers in your organization to get AI help with writing code, then use GitHub Copilot.
 
-To learn more, see [What is GitHub Copilot?](https://docs.github.com/copilot/about-github-copilot/what-is-github-copilot).
+To learn more, see:
+
+- [What is GitHub Copilot?](https://docs.github.com/copilot/about-github-copilot/what-is-github-copilot)
+- [Set up Visual Studio Code with Copilot](https://code.visualstudio.com/docs/copilot/setup-simplified)
 
 ## Microsoft Copilot Studio
 
 ✅ Licensed by your work organization
 
-**Microsoft Copilot Studio** is a graphical tool that you can use to create agents and connect to other data sources. Agents let you customize your organization's Copilot experience. They can automate & execute business processes, like help desk, change management, and managing guests in meetings.
+**Microsoft Copilot Studio** is a low code graphical tool that you can use to create agents and connect to other data sources. Agents let you customize your organization's Copilot experience. They can automate & execute business processes, like help desk, change management, and managing guests in meetings.
 
 You can add existing agents and create your own agents.
 
@@ -176,7 +182,7 @@ You can use Copilot Studio to:
 - Connect to data sources
 - Create a custom prompt for your agent
 
-If you want power users in your organization to create agents that resolve business needs, then use Microsoft Copilot Studio and agents.
+If you want users in your organization to create agents that resolve business needs, then use Microsoft Copilot Studio and agents.
 
 To learn more, see:
 
