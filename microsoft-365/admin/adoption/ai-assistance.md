@@ -31,7 +31,7 @@ With AI rapidly entering the day-to-day experience of people in your organizatio
 
 The AI assistance score represents the extent to which users in your organization have made Microsoft 365 Copilot a daily habit. A score of 100 means that all licensed Microsoft 365 Copilot users in your organization used Copilot features for more than half of working days over the prior month. You can use the other insights on the page to understand what behaviors and features contribute to your score, and to identify actions to take to boost your score.
 
-:::image type="content" source="../../media/adoption-score-ai-view.png" alt-text="Screenshot showing the Adoption Sore dashboard with AI assistance category." lightbox="../../media/adoption-score-ai-view.png":::
+:::image type="content" source="../../media/ai-assistance.png" alt-text="Screenshot showing the Adoption Sore dashboard with AI assistance category." lightbox="../../media/ai-assistance.png":::
 
 >[!NOTE]
 > AI assistance score is in preview. The scoring logic and insights displayed on the page might change over time. As of January 2025, the score now includes more Microsoft 365 Copilot actions, such as sending prompts in Microsoft 365 Copilot Chat and using Intelligent Recap in Microsoft Teams. This update causes the score value to increase as compared with the original score delivered in Fall 2023.  
@@ -49,7 +49,9 @@ How the score is calculated:
 
 ## Peer benchmark for AI assistance score
 
-The AI assistance score peer benchmark allows you to compare your organization's score with organizations like yours. Consistent with other scores in Adoption Score, the benchmark is calculated by taking the average AI assistance score across organizations similar to yours (based on your region, industry, and number of users licensed for Microsoft 365). 
+The AI assistance score peer benchmark allows you to compare your organization's score with organizations like yours. Consistent with other scores in Adoption Score, the benchmark is calculated by taking the average AI assistance score across organizations similar to yours (based on your region, industry, and number of users licensed for Microsoft 365).
+
+:::image type="content" source="../../media/ai-current-chart.png" alt-text="Screenshot showing the chart for the AI assistance score." lightbox="../../media/ai-current-chart.png":::
 
 To learn more, see [Interpreting your organization's Adoption Score](adoption-score.md#interpreting-your-organizations-adoption-score).
 
@@ -65,6 +67,8 @@ Time trend data is provided for each category score to track progress. This allo
 
 Resource cards are available for administrators to facilitate adoption, including Copilot Lab, Success Kit (v2.0), User Enablement, Copilot Dashboard in Viva Insights, and Microsoft Copilot Scenario. For more details, refer to the resource cards.
 
+:::image type="content" source="../../media/ai-improve-score.png" alt-text="Screenshot showing the resource card for improving Copilot." lightbox="../../media/ai-improve-score.png":::
+
 ## How are people using Microsoft 365 Copilot?
 
 Microsoft 365 Copilot usage insights are organized into five key areas: Teams meetings & chats, documents, emails, Copilot Chat, and Microsoft Copilot usage frequency. These insights show how many users are engaging with various Copilot features compared to the total number of enabled users over a 28-day period.
@@ -75,8 +79,10 @@ You can use these insights to:
 - Spot underutilized features that might benefit from more user training.
 - Track adoption trends across different Microsoft 365 applications over 7, 30, 90, 180 days’ time ranges.
 
+:::image type="content" source="../../media/ai-using-copilot.png" alt-text="Screenshot showing the charts for how people are using Copilot." lightbox="../../media/ai-using-copilot.png":::
+
 >[!NOTE]
-> When you select the settings to opt out specific user groups from calculating People experience insights in Adoption Score, the AI assistance category wouldn't be respecting that opt out for the current release. This will be changed in the future releases.
+> When you select the settings to opt out specific user groups from calculating People experience insights in Adoption Score, the AI assistance category wouldn't be respecting that opt out for the current release. This will be changed in future releases.
 
 ## Sentiment survey upload experience
 
