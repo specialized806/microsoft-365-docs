@@ -80,7 +80,7 @@ Copilot accesses data that your Microsoft Entra account has access to, like your
 
 For example, in the following Excel spreadsheet, I want Copilot to only show the rows that impact me. The Copilot response associates **me** with a Microsoft Entra account, and filters & highlights the row with my name:
 
-:::image type="content" source="media/which-copilot-for-your-organization/microsoft-365-copilot-excel-example.png" alt-text="Screenshot that shows Microsoft 365 Copilot Chat and sample prompts that get information from the internet." lighthouse="media/which-copilot-for-your-organization/microsoft-365-copilot-excel-example.png":::
+:::image type="content" source="media/which-copilot-for-your-organization/microsoft-365-copilot-excel-example.png" alt-text="Screenshot that shows Microsoft 365 Copilot Chat and sample prompts that get information from the internet." lightbox="media/which-copilot-for-your-organization/microsoft-365-copilot-excel-example.png":::
 
 End users can also purchase their own license that includes Copilot. For example, users with a Microsoft 365 Personal or Family subscription might be able to purchase this Copilot.
 
