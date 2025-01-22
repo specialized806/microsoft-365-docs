@@ -36,7 +36,7 @@ There are different Copilots available. This article describes the different Cop
 
 **Microsoft 365 Copilot Chat** is available free to organizations that have a Microsoft 365 license. Copilot Chat is a prompt and response experience, and uses information from the internet, specifically web-based chat. You can also create images and use [Copilot Pages](https://support.microsoft.com/en-us/topic/introducing-microsoft-365-copilot-pages-6674bd51-9ff5-42c4-9256-44d9428a726f) to save, edit, and share AI-generated content.
 
-:::image type="content" source="media/which-copilot-for-your-organization/microsoft-365-copilot-chat.png" alt-text="Screenshot that shows Microsoft 365 Copilot Chat and sample prompts that get information from the internet.":::
+:::image type="content" source="media/which-copilot-for-your-organization/microsoft-365-copilot-chat.png" alt-text="Screenshot that shows Microsoft 365 Copilot Chat and sample prompts that get information from the internet with web-based chat.":::
 
 You can use Copilot Chat for personal tasks, but be cautious. Never add sensitive or proprietary work information in a prompt.
 
@@ -60,7 +60,7 @@ To learn more, see:
 
 When users sign in with their Microsoft Entra account, they can use Microsoft 365 Copilot Chat **work** or **web** version:
 
-:::image type="content" source="media/which-copilot-for-your-organization/copilot-work-web.png" alt-text="In Microsoft 365 Copilot, Microsoft Entra users select work or web in Copilot Chat.":::
+:::image type="content" source="media/which-copilot-for-your-organization/copilot-work-web.png" alt-text="Screenshot that shows Microsoft Entra users can select work or web in Microsoft 365 Copilot Chat.":::
 
 - When users select **work**, Copilot shows results that their Microsoft Entra account can access.
 - When users select **web**, Copilot shows results that their Microsoft Entra account can access and also shows results from the internet.
@@ -78,9 +78,9 @@ Copilot accesses data that your Microsoft Entra account has access to, like your
 - Create images and add these images to your work, like PowerPoint presentations
 - Get answers to questions about your work or company, like the vacation policy
 
-For example, in the following Excel spreadsheet, I want Copilot to only show the rows that impact me. The Copilot response associates **me** with a Microsoft Entra account, and filters & highlights the row with my name:
+For example, in the following Excel spreadsheet, I want Copilot to only show the rows that list me. The Copilot response associates **me** with a Microsoft Entra account, and filters & highlights the row with my name:
 
-:::image type="content" source="media/which-copilot-for-your-organization/microsoft-365-copilot-excel-example.png" alt-text="Screenshot that shows Microsoft 365 Copilot Chat and sample prompts that get information from the internet." lightbox="media/which-copilot-for-your-organization/microsoft-365-copilot-excel-example.png":::
+:::image type="content" source="media/which-copilot-for-your-organization/microsoft-365-copilot-excel-example.png" alt-text="Screenshot that shows how to use Microsoft 365 Copilot in Excel to filter and highlight rows." lightbox="media/which-copilot-for-your-organization/microsoft-365-copilot-excel-example.png":::
 
 End users can also purchase their own license that includes Copilot. For example, users with a Microsoft 365 Personal or Family subscription might be able to purchase this Copilot.
 
@@ -107,11 +107,13 @@ You can use Microsoft Copilot to:
 - Get answers from the internet, like how to write a resume
 - Create images for a specific task, like a birthday card for a colleague
 
-Microsoft Copilot is available at [copilot.cloud.microsoft](https://copilot.cloud.microsoft), in Microsoft Edge, when you use Microsoft Bing, and the Copilot app.
+:::image type="content" source="media/which-copilot-for-your-organization/microsoft-copilot.png" alt-text="Screenshot that shows the free Microsoft Copilot consumer version to use for personal tasks.":::
+
+Microsoft Copilot is available at [copilot.microsoft.com](https://copilot.microsoft.com), in Microsoft Edge, when you use Microsoft Bing, and the Copilot app.
 
 When users access this Copilot on their work devices, if Microsoft 365 Copilot is enabled for the users, then it's possible it will redirect to Microsoft 365 Copilot (`https://m365.cloud.microsoft`). If it does redirect, they can choose the **work** or **web** version:
 
-:::image type="content" source="media/which-copilot-for-your-organization/copilot-work-web.png" alt-text="In Microsoft Copilot, select work or web in Copilot Chat when redirected.":::
+:::image type="content" source="media/which-copilot-for-your-organization/copilot-work-web.png" alt-text="Screenshot that shows Microsoft Copilot redirecting to Microsoft 365 Copilot Chat for Microsoft Entra users, and they can select work or web.":::
 
 - When users select **work**, Copilot shows results that their Microsoft Entra account can access.
 - When users select **web**, Copilot shows results that their Microsoft Entra account can access and also shows results from the internet.
