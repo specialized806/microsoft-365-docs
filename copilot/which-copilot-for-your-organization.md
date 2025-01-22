@@ -6,7 +6,7 @@ f1.keywords:
 ms.author: mandia
 author: MandiOhlinger
 manager: laurawi
-ms.date: 01/21/2025
+ms.date: 01/22/2025
 ms.reviewer: 
 audience: Admin
 ms.topic: get-started
@@ -34,13 +34,13 @@ There are different Copilots available. This article describes the different Cop
 ✅ Free to organizations with a Microsoft 365 license  
 ✅ Use for personal tasks, with caution
 
-**Microsoft 365 Copilot Chat** is available free to organizations that have a Microsoft 365 license. Copilot Chat is a prompt and response experience, and uses information from the internet, specifically web-based chat. You can also create images and use [Copilot Pages](https://support.microsoft.com/en-us/topic/introducing-microsoft-365-copilot-pages-6674bd51-9ff5-42c4-9256-44d9428a726f) to save, edit, and share AI-generated content.
+**Microsoft 365 Copilot Chat** is available free to organizations that have a Microsoft 365 license. Copilot Chat is a prompt and response experience, and uses information from the internet (web-based chat). You can also create images and use [Copilot Pages](https://support.microsoft.com/en-us/topic/introducing-microsoft-365-copilot-pages-6674bd51-9ff5-42c4-9256-44d9428a726f) to save, edit, and share AI-generated content.
 
 :::image type="content" source="media/which-copilot-for-your-organization/microsoft-365-copilot-chat.png" alt-text="Screenshot that shows Microsoft 365 Copilot Chat and sample prompts that get information from the internet with web-based chat.":::
 
 You can use Copilot Chat for personal tasks, but be cautious. Never add sensitive or proprietary work information in a prompt.
 
-Microsoft 365 Copilot Chat is available at [https://m365copilot.com](https://m365copilot.com), in the Microsoft 365 Copilot app that can be installed on organization devices, in Microsoft Edge, and when you use Microsoft Bing.
+Microsoft 365 Copilot Chat is available at [https://m365copilot.com](https://m365copilot.com), in the [Microsoft 365 Copilot app](https://apps.microsoft.com/detail/9wzdncrd29v9) that can be installed on organization devices, in Microsoft Edge, and when you use [Microsoft Bing](https://www.bing.com).
 
 If you want users in your organization to have prompt and response interchanges with information on the internet, then use Microsoft 365 Copilot Chat.
 
@@ -67,8 +67,6 @@ When users sign in with their Microsoft Entra account, they can use Microsoft 36
 
 With your Microsoft 365 Copilot license, you can use Copilot in Microsoft 365 apps, like Teams and Word, use [Copilot Agents](https://support.microsoft.com/topic/get-started-with-agents-for-microsoft-365-copilot-169469d7-328d-4d37-9090-bfc2058a39bd), and use [Copilot Analytics](https://techcommunity.microsoft.com/blog/microsoftvivablog/introducing-copilot-analytics-to-measure-ai-impact-on-your-business/4301717). These features can help end users and admins with work tasks.
 
-Microsoft 365 Copilot is available at [https://m365.cloud.microsoft](https://m365.cloud.microsoft), in the Microsoft 365 Copilot app that can be installed on organization devices, in the Microsoft Edge web browser, and in Microsoft 365 apps.
-
 Copilot accesses data that your Microsoft Entra account has access to, like your emails and files. So, you can use Microsoft 365 Copilot to:
 
 - Find information in your Outlook emails and SharePoint documents
@@ -78,9 +76,11 @@ Copilot accesses data that your Microsoft Entra account has access to, like your
 - Create images and add these images to your work, like PowerPoint presentations
 - Get answers to questions about your work or company, like the vacation policy
 
-For example, in the following Excel spreadsheet, I want Copilot to only show the rows that list me. The Copilot response associates **me** with a Microsoft Entra account, and filters & highlights the row with my name:
+In the following example, Copilot filters and highlights the rows that list me in an Excel spreadsheet:
 
 :::image type="content" source="media/which-copilot-for-your-organization/microsoft-365-copilot-excel-example.png" alt-text="Screenshot that shows how to use Microsoft 365 Copilot in Excel to filter and highlight rows." lightbox="media/which-copilot-for-your-organization/microsoft-365-copilot-excel-example.png":::
+
+Microsoft 365 Copilot is available at [https://m365.cloud.microsoft](https://m365.cloud.microsoft), in the [Microsoft 365 Copilot app](https://apps.microsoft.com/detail/9wzdncrd29v9) that can be installed on organization devices, in Microsoft Edge, when you use [Microsoft Bing](https://www.bing.com), and in Microsoft 365 apps.
 
 End users can also purchase their own license that includes Copilot. For example, users with a Microsoft 365 Personal or Family subscription might be able to purchase this Copilot.
 
@@ -109,14 +109,14 @@ You can use Microsoft Copilot to:
 
 :::image type="content" source="media/which-copilot-for-your-organization/microsoft-copilot.png" alt-text="Screenshot that shows the free Microsoft Copilot consumer version to use for personal tasks.":::
 
-Microsoft Copilot is available at [copilot.microsoft.com](https://copilot.microsoft.com), in Microsoft Edge, when you use Microsoft Bing, and the Copilot app.
+Microsoft Copilot is available at [copilot.microsoft.comopilot.microsoft.com](https://copilot.microsoft.com), in Microsoft Edge, when you use [Microsoft Bing](https://www.bing.com), and the Copilot app.
 
-When users access this Copilot on their work devices, if Microsoft 365 Copilot is enabled for the users, then it's possible it will redirect to Microsoft 365 Copilot (`https://m365.cloud.microsoft`). If it does redirect, they can choose the **work** or **web** version:
+When users access this Copilot on their work devices, if Microsoft 365 Copilot is enabled for the users, then it might redirect to Microsoft 365 Copilot (`https://m365.cloud.microsoft`). Or, they can choose **work** or **personal**:
 
-:::image type="content" source="media/which-copilot-for-your-organization/copilot-work-web.png" alt-text="Screenshot that shows Microsoft Copilot redirecting to Microsoft 365 Copilot Chat for Microsoft Entra users, and they can select work or web.":::
+:::image type="content" source="media/which-copilot-for-your-organization/microsoft-copilot-work-personal.png" alt-text="Screenshot that shows Microsoft Copilot asking Microsoft Entra users to select work or personal.":::
 
 - When users select **work**, Copilot shows results that their Microsoft Entra account can access.
-- When users select **web**, Copilot shows results that their Microsoft Entra account can access and also shows results from the internet.
+- When users select **personal**, Copilot shows results from the internet.
 
 If you want to use AI on your personal devices or use for nonsensitive work tasks, then use Microsoft Copilot.
 
@@ -136,10 +136,10 @@ Microsoft Security Copilot also integrates with other services, like Microsoft D
 
 You can use Security Copilot to:
 
-- Get a summary of a threat incident
-- Create incident reports
-- Learn more about an Intune setting configured on a device
+- Get a summary of a threat incident and create incident reports
 - Investigate a user account that might be compromised
+- Get more information about organization devices, including compliance status
+- Summarize data loss prevention (DLP) or insider risk management alerts
 
 If you want the security team in your organization to quickly identify threats and compromised users & devices in your organization, then use Microsoft Security Copilot.
 
@@ -166,7 +166,7 @@ To learn more, see [What is GitHub Copilot?](https://docs.github.com/copilot/abo
 
 ✅ Licensed by your work organization
 
-**Microsoft Copilot Studio** is a graphical tool that you can use to create agents and connect to other data sources. Agents let you customize your organization's Copilot experience, and can automate & execute business processes, like help desk, change management, and managing guests in meetings.
+**Microsoft Copilot Studio** is a graphical tool that you can use to create agents and connect to other data sources. Agents let you customize your organization's Copilot experience. They can automate & execute business processes, like help desk, change management, and managing guests in meetings.
 
 You can add existing agents and create your own agents.
 
