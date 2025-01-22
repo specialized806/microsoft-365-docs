@@ -40,7 +40,7 @@ There are different Copilots available. This article describes the different Cop
 
 You can use Copilot Chat for personal tasks, but be cautious. Never add sensitive or proprietary work information in a prompt.
 
-Microsoft 365 Copilot Chat is available at [https://m365copilot.com](https://m365copilot.com), in the Microsoft 365 Copilot app that can be installed on organization devices, and in the Microsoft Edge web browser.
+Microsoft 365 Copilot Chat is available at [https://m365copilot.com](https://m365copilot.com), in the Microsoft 365 Copilot app that can be installed on organization devices, in Microsoft Edge, and when you use Microsoft Bing.
 
 If you want users in your organization to have prompt and response interchanges with information on the internet, then use Microsoft 365 Copilot Chat.
 
