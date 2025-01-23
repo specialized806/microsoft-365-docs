@@ -55,9 +55,9 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 - **Listen to Copilot's responses with Read Aloud** [Windows, Mac]  
   Hear Copilot’s replies in the chat pane, letting you stay hands-free while reviewing your content.
   Copilot in SharePoint combines the power of Large Language Models (LLMs), your data in the Microsoft Graph, and best practices to create engaging web content. Get assistance drafting your content when creating new pages. Adjust the tone, expand meeting bullets into structured text, or get help making your message more concise. All within our existing commitments to data security and privacy in the enterprise. <a href="https://support.microsoft.com/topic/write-with-copilot-in-sharepoint-rich-text-editor-afc720be-666b-4d87-801e-b8ff62f309bb" target="_blank">Learn more.</a>
-
+### SharePoint
 - **Copilot in SharePoint** [Web]  
-  Copilot in SharePoint combines the power of Large Language Models (LLMs), your data in the Microsoft Graph, and best practices to create engaging web content. Get assistance drafting your content when creating new pages. Adjust the tone, expand meeting bullets into structured text, or get help making your message more concise. All within our existing commitments to data security and privacy in the enterprise. <a href="https://support.microsoft.com/topic/write-with-copilot-in-sharepoint-rich-text-editor-afc720be-666b-4d87-801e-b8ff62f309bb" target="_blank">Learn more.</a>
+  Copilot in SharePoint combines the power of Large Language Models (LLMs), your data in the Microsoft Graph, and best practices to create engaging web content. Get assistance drafting your content when creating new pages. Adjust the tone, expand meeting bullets into structured text, or get help making your message more concise. All within our existing commitments to data security and privacy in the enterprise. <a href="https://support.microsoft.com/topic/write-with-copilot-in-sharepoint-rich-text-editor-afc720be-666b-4d87-801e-b8ff62f309bb" target="_blank">Learn more.</a>
 ### Viva Amplify
 - **Microsoft 365 Copilot in Viva Amplify editor** [Web]  
   The superpowers of Microsoft 365 Copilot integrates seamlessly into Viva Amplify, transforming content creation. Use Copilot in Amplify to auto-rewrite for suggestions, expand or condense text, and adjust tone for consistent, relevant messaging. <a href="/viva/amplify/copilot-in-viva-amplify" target="_blank">Learn more.</a>
@@ -608,7 +608,8 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 - **Create presentations using your organization's templates** [Windows, Web, iOS, Mac]  
   Generate presentations that utilize your company's templates, ensuring consistency and alignment with your brand. <a href="https://support.microsoft.com/topic/3222ee03-f5a4-4d27-8642-9c387ab4854d" target="_blank">Learn more.</a>
 - **Edit your presentation in Copilot chat** [Windows, Web, iOS, Mac]  
-  Add slides, add animations, or organize your presentation in Copilot chat, streamlining your editing process. <a href="https://support.microsoft.com/topic/ae906e57-db71-4f46-8ed5-c1e2cebe6a80" target="_blank">Learn more.</a>
+  Add slides, add animations, or organize your presentation in Copilot chat, streamlining your editing process. <a href="https://support.microsoft.com/topic/ae906e57-db71-4f46-8ed5-c1e2cebe6a80" target="_blank">Learn more.</a>
+
 - **Get answers about your presentation** [Windows, Web, iOS, Mac]  
   Ask questions about your existing PowerPoint presentation to quickly retrieve information and insights.
 - **Organize your presentation's flow easily** [Windows, Web, iOS, Mac]  
@@ -1024,12 +1025,11 @@ This is our preview version of Microsoft 365 Copilot release notes. We will use 
 - **Updated meeting entity card in Copilot Chat** [Windows, Web]  
   Check meeting details like RSVP status, date, and attachments without switching contexts in Copilot Chat.
 ### PowerPoint
-  Copilot in SharePoint combines the power of Large Language Models (LLMs), your data in the Microsoft Graph, and best practices to create engaging web content. Get assistance drafting your content when creating new pages. Adjust the tone, expand meeting bullets into structured text, or get help making your message more concise. All within our existing commitments to data security and privacy in the enterprise. <a href="https://support.microsoft.com/topic/write-with-copilot-in-sharepoint-rich-text-editor-afc720be-666b-4d87-801e-b8ff62f309bb" target="_blank">Learn more.</a>
-
+- **Generate summaries for longer presentations** [Windows, Web, Mac]  
   Copilot now supports text summaries up to 40k words (around 150 slides), giving you richer information and more polished layouts. <a href="https://support.microsoft.com/office/summarize-your-presentation-with-copilot-in-powerpoint-499e604c-4ab9-4f6a-9dbe-691cc87f2f69" target="_blank">Learn more.</a>
 ### SharePoint
-  Copilot in SharePoint combines the power of Large Language Models (LLMs), your data in the Microsoft Graph, and best practices to create engaging web content. Get assistance drafting your content when creating new pages. Adjust the tone, expand meeting bullets into structured text, or get help making your message more concise. All within our existing commitments to data security and privacy in the enterprise. <a href="https://support.microsoft.com/topic/write-with-copilot-in-sharepoint-rich-text-editor-afc720be-666b-4d87-801e-b8ff62f309bb" target="_blank">Learn more.</a>
-  Copilot in SharePoint combines the power of Large Language Models (LLMs), your data in the Microsoft Graph, and best practices to create engaging web content.Get assistance drafting your content when creating new pages. Adjust the tone, expand meeting bullets into structured text, or get help making your message more concise. All within our existing commitments to data security and privacy in the enterprise. <a href="https://support.microsoft.com/topic/write-with-copilot-in-sharepoint-rich-text-editor-afc720be-666b-4d87-801e-b8ff62f309bb" target="_blank">Learn more.</a>
+- **Copilot in SharePoint** [Web]  
+  Copilot in SharePoint combines the power of Large Language Models (LLMs), your data in the Microsoft Graph, and best practices to create engaging web content. Get assistance drafting your content when creating new pages. Adjust the tone, expand meeting bullets into structured text, or get help making your message more concise. All within our existing commitments to data security and privacy in the enterprise. <a href="https://support.microsoft.com/topic/write-with-copilot-in-sharepoint-rich-text-editor-afc720be-666b-4d87-801e-b8ff62f309bb" target="_blank">Learn more.</a>
 ### Viva Amplify
 - **Microsoft 365 Copilot in Viva Amplify editor** [Web]  
   The superpowers of Microsoft 365 Copilot integrates seamlessly into Viva Amplify, transforming content creation. Use Copilot in Amplify to auto-rewrite for suggestions, expand or condense text, and adjust tone for consistent, relevant messaging. <a href="/viva/amplify/copilot-in-viva-amplify" target="_blank">Learn more.</a>
