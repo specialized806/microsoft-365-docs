@@ -38,8 +38,8 @@ landingContent:
             url: https://www.linkedin.com/learning/search?keywords=syntex&upsellOrderOrigin=default_guest_learning&trk=homepage-learning_learning-search-bar_search-submit
       - linkListType: whats-new
         links:
-          - text: Use a prebuilt model to extract information from simple documents
-            url: prebuilt-model-simple.md
+          - text: Use a custom glossary for document translation
+            url: translation-glossary.md
 
 # Card 2
   - title: Get started
@@ -60,7 +60,7 @@ landingContent:
             url: create-local-model.md
 
 # Card 3
-  - title: Pay-as-you-go services
+  - title: Document & image services
     linkLists:
       - linkListType: overview
         links:
@@ -84,32 +84,8 @@ landingContent:
             url: taxonomy-tagging-overview.md
           - text: Unstructured document processing
             url: document-understanding-overview.md
-      - linkListType: architecture
-        links:
-          - text: Microsoft 365 Archive
-            url: /microsoft-365/archive
-          - text: Microsoft 365 Backup
-            url: /microsoft-365/backup
 
 # Card 4
-  - title: Extensibility
-    linkLists:
-      - linkListType: reference
-        links:
-          - text: Content model Graph API
-            url: /graph/api/resources/contentmodel?view=graph-rest-beta
-          - text: Document processing Graph API
-            url: /graph/api/resources/documentprocessingjob?view=graph-rest-beta
-          - text: Unstructured model REST API
-            url: /sharepoint/dev/apis/syntex/syntex-model-rest-api
-          - text: PowerShell for Microsoft Syntex
-            url: powershell-syntex-intro.md
-          - text: SharePoint Advanced Management
-            url: /sharepoint/advanced-management
-          - text: SharePoint Embedded
-            url: /sharepoint/dev/embedded/overview
-
-# Card 5
   - title: Adopt Syntex
     linkLists:
       - linkListType: overview
@@ -123,7 +99,7 @@ landingContent:
           - text: Assessment tool
             url: adoption-assessment-tool.md
 
-# Card 6
+# Card 5
   - title: Additional features
     linkLists:
       - linkListType: overview
@@ -141,8 +117,17 @@ landingContent:
           - text: Taxonomy features
             url: import-term-set-skos.md
 
+# Card 6
+  - title: Storage services
+    linkLists:
+      - linkListType: overview
+        links:
+          - text: Microsoft 365 Archive
+            url: /microsoft-365/archive
+          - text: Microsoft 365 Backup
+            url: /microsoft-365/backup
 
-    # Card 7
+# Card 7
   - title: Get support
     linkLists:
       - linkListType: overview
@@ -151,3 +136,30 @@ landingContent:
             url: https://techcommunity.microsoft.com/t5/sharepoint-syntex-blog/bg-p/SharePointSyntex
           - text: FAQ
             url: https://www.microsoft.com/microsoft-365/enterprise/microsoft-syntex-plan?activetab=pivot:faqtab&rtc=1
+
+# Card 8
+  - title: Extensibility
+    linkLists:
+      - linkListType: reference
+        links:
+          - text: Content model Graph API
+            url: /graph/api/resources/contentmodel?view=graph-rest-beta
+          - text: Document processing Graph API
+            url: /graph/api/resources/documentprocessingjob?view=graph-rest-beta
+          - text: Unstructured model REST API
+            url: /sharepoint/dev/apis/syntex/syntex-model-rest-api
+          - text: PowerShell for Microsoft Syntex
+            url: powershell-syntex-intro.md
+          - text: SharePoint Advanced Management
+            url: /sharepoint/advanced-management
+          - text: SharePoint Embedded
+            url: /sharepoint/dev/embedded/overview
+
+# Card 9
+  - title: Video services
+    linkLists:
+      - linkListType: overview
+        links:
+          - text: Video translation
+            url: https://support.microsoft.com/office/2e34ad1b-e213-47ed-a806-5cc0d88751de
+
