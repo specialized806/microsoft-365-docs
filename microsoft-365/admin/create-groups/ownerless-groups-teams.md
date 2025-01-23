@@ -119,7 +119,7 @@ Admins can see which Microsoft 365 groups remain ownerless by searching the [a
 
 - **Member can't see *Yes* and *No* in the notification email.**
   - Notification emails should be opened in a separate window, not a preview pane. If the member views the notification in an email preview pane, they can't see the **Yes** and **No** options.
-  - Make sure that the user principal name (UPN) and primary email address of the sender are the same. For information about how to update the UPN or primary email address of a user, see [Change a user name and email address](../add-users/change-a-user-name-and-email-address). If they don't match, the recipient can't see the **Yes** and **No** options.
+  - Make sure that the user principal name (UPN) and primary email address of the sender are the same. For information about how to update the UPN or primary email address of a user, see [Change a user name and email address](../../change-a-user-name-and-email-address). If they don't match, the recipient can't see the **Yes** and **No** options.
 
 - **The policy for ownerless groups is configured, but group members don't receive notifications.**
   - This issue occurs if the specified sender in the policy doesn't have a user or group mailbox provisioned in Exchange Online. If the sender has a user or group mailbox, check the [audit log](/purview/audit-get-started#step-3-search-the-audit-log) in the [Microsoft Purview portal](https://go.microsoft.com/fwlink/p/?linkid=2077149) to trace whether email notifications were sent.
