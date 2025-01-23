@@ -68,18 +68,18 @@ Managing ownerless groups using this policy has a few limitations, which are exp
 ## Customize the ownerless group policy
 
 1. On the **Microsoft 365 Groups** pane, select **Configure policy**.
-1. On the *Weekly notification options* page, specify who can receive ownership notifications. If you choose to allow or block certain members, then search for and add the security group that you want to use.
+1. On the **Weekly notification options** page, specify who can receive ownership notifications. If you choose to allow or block certain members, then search for and add the security group that you want to use.
     1. Using a security group to limit who can be invited to be an owner requires that you possess but not necessarily assign a Microsoft Azure P1 or P2 license for each Microsoft 365 group member in your organization.
     2. Type the number of active members that you want to notify, and select the number of weeks to send the notification. The notification list is created during the first notification and doesn't change.
     3. Select **Next**.
-1. On the *Who is this email coming from* page, select a sender for the email, and then select **Next**.
+1. On the **Who is this email coming from** page, select a sender for the email, and then select **Next**.
     1. Shared mailboxes aren't supported. The sender must be either a user mailbox or a group mailbox.
-1. On the *Subject and message* page, customize the email and optionally include a **policy guideline URL**, and then select **Next**.
+1. On the **Subject and message** page, customize the email and optionally include a **policy guideline URL**, and then select **Next**.
     1. You can't have the notification's language change based on the recipient's country or region.
-1. On the *Select which groups to target* page, select **Specific groups**, and choose the groups and teams that you want to include in this policy, or select **All groups**.
+1. On the **Select which groups to target** page, select **Specific groups**, and choose the groups and teams that you want to include in this policy, or select **All groups**.
     1. A maximum of 50 groups can be selected.
 1. Select **Next**.
-1. On the *Review and finish* page, confirm your settings and select **Finish**, and then select **Done**.
+1. On the **Review and finish** page, confirm your settings and select **Finish**, and then select **Done**.
 
 ## After you set up the ownerless group policy
 
