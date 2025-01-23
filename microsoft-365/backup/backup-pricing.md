@@ -61,7 +61,7 @@ To use the Microsoft 365 Backup pricing calculator, you need to perform the foll
 
 1. Download the latest version of the [Microsoft 365 Backup pricing calculator tool](https://aka.ms/M365BackupCalculator).
 
-2. Review your [Microsoft 365 usage reports](https://admin.microsoft.com/Adminportal/Home#/reportsUsage) to get historical information about your current usage. Heuristics from the usage reports will be used to populate the inputs (orange boxes) in the pricing calculator tool. Content in the OneDrive and SharePoint recycle bins and data in archive maiboxes won't be reflected in these reports, but do affect the backup costs as previously described.
+2. Review your [Microsoft 365 usage reports](https://admin.microsoft.com/Adminportal/Home#/reportsUsage) to get historical information about your current usage. Heuristics from the usage reports will be used to populate the inputs (orange boxes) in the pricing calculator tool. Content in the OneDrive and SharePoint recycle bins and data in archive mailboxes won't be reflected in these reports, but do affect the backup costs as previously described.
 
 3. Open the Excel spreadsheet and select the **High-Level Estimates** worksheet. This sheet produces the simplest default model based on linear data growth assumptions.
 
