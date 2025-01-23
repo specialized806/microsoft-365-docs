@@ -55,6 +55,9 @@ items:
           href: translation-setup.md
         - name: Translate documents 
           href: translation.md
+        - name: Use a glossary 
+          href: translation-glossary.md
+
 
     - name: eSignature 
       items: 
