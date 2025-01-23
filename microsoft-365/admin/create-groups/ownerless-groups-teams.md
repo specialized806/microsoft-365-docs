@@ -40,12 +40,10 @@ If there's no group activity, the policy asks random group members to accept own
 
 ## Requirements of the ownerless group policy
 
-To set up and manage the Microsoft 365 ownerless group policy, **one** of the the following requirements must be met:
+To set up and manage the Microsoft 365 ownerless group policy, **one** of the following requirements must be met:
 
 - **An eligible Microsoft 365 subscription**
   - Eligible plans include Business Premium, Microsoft 365 Enterprise E3 and E5, Office 365 and Microsoft 365 Government G3 and G5, Microsoft 365 Education A3 and A5, and Frontline F1 and F3.
-
-or
 
 - **An Azure P1 or P2 premium plan**
   - All notification options in the ownerless groups policy require an Azure premium plan because a security group is used to specify which group members receive ownership notifications. Security groups are a feature of Azure premium plans.
