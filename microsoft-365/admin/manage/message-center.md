@@ -133,16 +133,12 @@ Major updates can be reviewed by selecting the **Major update** from the **Tags*
 
 Major updates are communicated at least 30 days in advance when an action is required and might include:
 
-- Changes to daily productivity such as inbox, meetings, delegations, sharing, and access
-- Changes to themes, web parts, and other components that may affect customized features
-- Increases or decreases to visible capacity such as storage, number of rules, items, or durations
-- Changes to product branding that may:
-  - Cause end user confusion,
-  - Result in changes to help desk processes and reference material, or
-  - Change a URL
-- A new service or application
-- Changes requiring an admin action (exclusive of prevent or fix issues)
-- Changes to where your data is stored
+- User impacting changes to daily productivity such as changing a user’s inbox, meetings, delegations, sharing and access that may result in help desk calls, or organizational conformance concerns.
+- Changes to the themes, web parts, deployed Copilot agents and other components that may impact customer customizations.
+- Increases or decreases to visible capacity such as storage, number of rules, Copilot agents and prompts, items, or durations.
+- Rebranding that may cause end-user confusion or result in help desk changes, collateral changes, or URL changes if the new URL is not *.cloud.microsoft
+- A new service or application deployed with default settings turned on.
+- Changes to where data is stored or accessed.
 
 ### Preferences
 
