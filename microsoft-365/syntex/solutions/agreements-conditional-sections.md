@@ -23,28 +23,42 @@ description: Learn how to create conditional sections in a template in the Share
 Conditional sections in a template let you create documents that change based on the information given by the authors.
 
 Before you can create a conditional section, you first need to add fields to the template on which the condition is based. Then, follow these steps to create a conditional section.
-1.	In the document, open the Manage templates panel and select “Define Conditional Sections”
- 
-2.	On the “Conditional Sections” panel, click on “+ New” to start adding the condition. 
- 
-3.	On the New conditional section panel, in the Name box, enter a name that reflects the content you've selected. (For this example, we named it Reimbursement Section.)
- 
-Set conditions
-You can add conditions to specify whether this section of the template will be included in the final generated document based on the values of the fields entered by the author.
-For this example, we want to show the selected content for two conditions: if the fees are lesser than ten thousand and if the nature of employment is full time.
-To add the first condition
-a)	On the Set condition panel, from the Choose a field dropdown list, select the appropriate field. (For this example, we selected Fees.)
-b)	From the Choose a condition dropdown list, select the appropriate condition. (For this example, we selected lesser than.)
-c)	In the Enter a value box, enter the appropriate value. (For this example, we entered 10000.)
- 
-To add additional conditions
-a)	On the Set condition panel, select + And or Or, depending how you want the additional condition to be linked to the first condition. (For this example, we chose And.)
-b)	On the Set condition panel, from the Choose a field dropdown list, the appropriate field. (For this example, we selected Nature of Employment.)
-c)	From the Choose a condition dropdown list, select the appropriate condition. (For this example, we selected exact match.)
-d)	In the Enter a value box, enter the appropriate value. (For this example, we entered Full Time.)
- 
 
-When you're done entering conditions, select Save. The new condition is visible in the Conditional Sections panel.
+1. In the document, open the **Manage templates** panel and select **Define conditional sections**.
+ 
+2. On the **Conditional sections** panel, select **+ New** to start adding the condition.
+ 
+3. On the **New conditional section** panel, in the **Name** box, enter a name that reflects the content you've selected. (For this example, we named it *Reimbursement Section*.)
+ 
+## Set conditions
+
+You can add conditions to specify whether this section of the template will be included in the final generated document based on the values of the fields entered by the author.
+
+For this example, we want to show the selected content for two conditions: if the fees are less 10,000 and if the nature of employment is full time.
+
+### To add the first condition
+
+In the **Set up condition** section:
+
+1. Select **Choose a field**, and then select the appropriate field. (For this example, we selected *Fees*.)
+
+2. Select **Choose a condition**, and then select the appropriate condition. (For this example, we selected *lesser than*.)
+
+3. Select **Enter a value**, and then enter the appropriate value. (For this example, we entered *10000*.)
+ 
+### To add additional conditions
+
+In the **Set up condition** section, under the first condition:
+
+1. Select **+ And** or **+ Or**, depending how you want the additional condition to be linked to the first condition. (For this example, we chose *And*.)
+
+2. Select **Choose a field**, and then select the appropriate field. (For this example, we selected *Nature of Employment*.)
+
+3. Select **Choose a condition**, and then select the appropriate condition. (For this example, we selected *exact match*.)
+
+4. Select **Enter a value**, and then enter the appropriate value. (For this example, we entered *Full Time*.)
+ 
+When you're done entering conditions, select **Save**. The new condition is visible in the **Conditional sections** panel.
  
 Once the condition is created you need to map the condition to the section of the document which you want to be displayed based on this condition. To map a section, select the relevant section in the document and then click on “Map”
  
