@@ -53,6 +53,7 @@ Microsoft 365 Copilot is available as an [add-on plan](https://www.microsoft.com
   - Exchange Plan 2
 
 - **SharePoint plans:**
+  - SharePoint Kiosk
   - SharePoint Plan 1
   - SharePoint Plan 2
 
