@@ -89,7 +89,7 @@ In the following example, Copilot filters and highlights the rows that list me i
 
 Microsoft 365 Copilot is available at [https://m365.cloud.microsoft](https://m365.cloud.microsoft), in the [Microsoft 365 Copilot app](https://apps.microsoft.com/detail/9wzdncrd29v9) that can be installed on devices, in Microsoft Edge, when you use [Microsoft Bing](https://www.bing.com), and in Microsoft 365 apps.
 
-End users can also purchase their own license that includes Copilot.
+End users can also purchase their own license that includes Microsoft 365 Copilot.
 
 If you want users in your organization to have prompt and response interchanges with work & internet information, and use AI features in their work apps, then use Microsoft 365 Copilot.
 
@@ -108,16 +108,16 @@ To learn more, see:
 
 **Microsoft Copilot** is a consumer version and is available for free. It can help you with personal tasks and uses information from the internet. You can use it for nonsensitive work tasks, but be cautious. Never add sensitive or proprietary work information in a prompt.
 
+When you open Microsoft Copilot, it looks similar to the following image:
+
+:::image type="content" source="media/which-copilot-for-your-organization/microsoft-copilot.png" alt-text="Screenshot that shows the free Microsoft Copilot consumer version to use for personal tasks.":::
+
 You can use Microsoft Copilot to:
 
 - Help you draft an email or get guidance on how to write an email, like creating an accessible email for different disabilities
 - Create guidelines or rules for your office break area
 - Get answers from the internet, like how to write a resume
 - Create images for a specific task, like a birthday card for a colleague
-
-When you open Microsoft Copilot, it looks similar to the following image:
-
-:::image type="content" source="media/which-copilot-for-your-organization/microsoft-copilot.png" alt-text="Screenshot that shows the free Microsoft Copilot consumer version to use for personal tasks.":::
 
 Microsoft Copilot is available at [copilot.microsoft.com](https://copilot.microsoft.com), in the [Microsoft Copilot app](https://www.microsoft.com/copilot-app), in Microsoft Edge, and when you use [Microsoft Bing](https://www.bing.com).
 
