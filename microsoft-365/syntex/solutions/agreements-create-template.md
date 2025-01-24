@@ -148,6 +148,10 @@ To insert published sections into your template, follow these steps:
 
 4. You can also remove the section from the template by selecting the **Delete** option.
 
+## Add conditional sections to a template
+
+TBD
+
 ## Configure a workflow
 
 Create customizable workflows that apply to all documents when created with the template.
