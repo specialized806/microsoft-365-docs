@@ -77,6 +77,9 @@ To edit the conditions in a conditional section, select **More options** (**...*
 To delete the conditions in a conditional section, select **More options** (**...**), and then select **Delete**. This deletes the condition and unmaps the selected section.
 
 > [!NOTE]
-> - You can create conditional sections around text, complete paragraphs, and entire tables. To create conditional sections around images, ensure the images are inline images.<br>- You can't add conditions around table rows and columns.<br>• You can't map multiple sections in the document to one condition. One condition can only be mapped to one section in the document.<br>- You can't add nested conditions. To achieve nested conditions, you need to create conditional sections around every section and specify all the required conditions.
+> - You can create conditional sections around text, complete paragraphs, and entire tables. To create conditional sections around images, ensure the images are inline images.
+>- You can't add conditions around table rows and columns.
+>- You can't map multiple sections in the document to one condition. One condition can only be mapped to one section in the document.
+>- You can't add nested conditions. To achieve nested conditions, you need to create conditional sections around every section and specify all the required conditions.
 
 
