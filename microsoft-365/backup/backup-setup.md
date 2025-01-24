@@ -5,7 +5,7 @@ author: chuckedmonson
 manager: jtremper
 audience: admin
 ms.reviewer: sreelakshmi
-ms.date: 01/13/2025
+ms.date: 01/24/2025
 ms.topic: conceptual
 ms.service: microsoft-365-backup
 ms.custom: backup
