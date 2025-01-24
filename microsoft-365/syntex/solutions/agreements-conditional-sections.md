@@ -32,9 +32,11 @@ Before you can create a conditional section, you first need to add fields to the
 
 2. On the **Conditional sections** panel, select **+ New** to start adding the condition.
 
-   ![A screenshot of the Conditional sections section on the Manage templates panel.](../../media/content-understanding/agreements-new-conditional-section.png)
+   ![A screenshot of the Conditional sections panel on the Manage templates panel.](../../media/content-understanding/agreements-new-conditional-section.png)
 
 3. On the **New conditional section** panel, in the **Name** box, enter a name that reflects the content you've selected. (For this example, we named it *Reimbursement Section*.)
+
+   ![A screenshot of the New conditional section panel on the Manage templates panel.](../../media/content-understanding/agreements-name-new-conditional-section.png)
 
 ### Set conditions
 
