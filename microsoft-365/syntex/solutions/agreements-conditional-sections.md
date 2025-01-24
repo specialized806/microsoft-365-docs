@@ -70,7 +70,7 @@ In the **Set up condition** section, under the first condition:
 
    ![A screenshot of an additional condition in the Set up condition section on the Manage templates panel.](../../media/content-understanding/agreements-add-additional-conditions.png)
 
-When you're done entering conditions, select **Save**. You can see the new condition in the **Conditional sections** panel.
+5. When you're done entering conditions, select **Save**. You can see the new condition in the **Conditional sections** panel.
 
    ![A screenshot of the new condition on the Condition sections panel on the Manage templates panel.](../../media/content-understanding/agreements-saved-condition.png)
 
