@@ -32,11 +32,11 @@ Before you can create a conditional section, you first need to add fields to the
 
 2. On the **Conditional sections** panel, select **+ New** to start adding the condition.
 
-   ![A screenshot of the Conditional sections panel on the Manage templates panel.](../../media/content-understanding/agreements-new-conditional-section.png)
+   ![A screenshot of the Conditional sections area on the Manage templates panel.](../../media/content-understanding/agreements-new-conditional-section.png)
 
 3. On the **New conditional section** panel, in the **Name** box, enter a name that reflects the content you've selected. (For this example, we named it *Reimbursement Section*.)
 
-   ![A screenshot of the New conditional section panel on the Manage templates panel.](../../media/content-understanding/agreements-name-new-conditional-section.png)
+   ![A screenshot of the New conditional section area on the Manage templates panel.](../../media/content-understanding/agreements-name-new-conditional-section.png)
 
 ### Set conditions
 
@@ -54,6 +54,8 @@ In the **Set up condition** section:
 
 3. Select **Enter a value**, and then enter the appropriate value. (For this example, we entered *10000*.)
 
+   ![A screenshot of the first condition in the Set up condition section on the Manage templates panel.](../../media/content-understanding/agreements-add-first-condition.png)
+
 #### Add additional conditions
 
 In the **Set up condition** section, under the first condition:
@@ -65,6 +67,8 @@ In the **Set up condition** section, under the first condition:
 3. Select **Choose a condition**, and then select the appropriate condition. (For this example, we selected *exact match*.)
 
 4. Select **Enter a value**, and then enter the appropriate value. (For this example, we entered *Full Time*.)
+
+   ![A screenshot of an additional condition in the Set up condition section on the Manage templates panel.](../../media/content-understanding/agreements-add-additional-conditions.png)
 
 When you're done entering conditions, select **Save**. You can see the new condition in the **Conditional sections** panel.
 
