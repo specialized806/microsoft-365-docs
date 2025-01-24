@@ -62,15 +62,17 @@ In the **Set up condition** section, under the first condition:
 
 1. Select **+ And** or **+ Or**, depending how you want the additional condition to be linked to the first condition. (For this example, we chose *And*.)
 
-2. Select **Choose a field**, and then select the appropriate field. (For this example, we selected *Nature of Employment*.)
+2. Select **Choose a field**, and then select the appropriate field. (For this example, we selected *Nature of employment*.)
 
 3. Select **Choose a condition**, and then select the appropriate condition. (For this example, we selected *exact match*.)
 
-4. Select **Enter a value**, and then enter the appropriate value. (For this example, we entered *Full Time*.)
+4. Select **Enter a value**, and then enter the appropriate value. (For this example, we entered *FTE*.)
 
    ![A screenshot of an additional condition in the Set up condition section on the Manage templates panel.](../../media/content-understanding/agreements-add-additional-conditions.png)
 
 When you're done entering conditions, select **Save**. You can see the new condition in the **Conditional sections** panel.
+
+   ![A screenshot of the new condition on the Condition sections panel on the Manage templates panel.](../../media/content-understanding/agreements-saved-condition.png)
 
 #### Map the condition to a document section
 
@@ -81,6 +83,8 @@ If you want to change the section of the document mapped to this condition, sele
 #### Edit a conditional section
 
 To edit the conditions in a conditional section, select **More options** (**...**), and then select **Edit**.
+
+   ![A screenshot of a condition section showing the Edit and Delete options on the Manage templates panel.](../../media/content-understanding/agreements-edit-delete-condition.png)
 
 #### Delete a conditional section
 
