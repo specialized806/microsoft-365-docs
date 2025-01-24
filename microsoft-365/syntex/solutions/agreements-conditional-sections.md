@@ -30,11 +30,11 @@ Before you can create a conditional section, you first need to add fields to the
 
    ![A screenshot of an opened document and the Manage templates panel.](../../media/content-understanding/agreements-define-conditional-sections.png)
 
-2. On the **Conditional sections** panel, select **+ New** to start adding the condition.
+2. On the **Manage templates** panel, under **Conditional sections**, select **+ New** to start adding the condition.
 
    ![A screenshot of the Conditional sections area on the Manage templates panel.](../../media/content-understanding/agreements-new-conditional-section.png)
 
-3. On the **New conditional section** panel, in the **Name** box, enter a name that reflects the content you've selected. (For this example, we named it *Reimbursement Section*.)
+3. Under **New conditional section**, in the **Name** box, enter a name that reflects the content you've selected. (For this example, we named it *Reimbursement Section*.)
 
    ![A screenshot of the New conditional section area on the Manage templates panel.](../../media/content-understanding/agreements-name-new-conditional-section.png)
 
