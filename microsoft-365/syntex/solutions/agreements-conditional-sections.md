@@ -18,25 +18,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 description: Learn how to create conditional sections in a template in the SharePoint Agreements solution.
 ---
 
-# Create a conditional section in a template in SharePoint Agreements
+# Add a conditional section to a template in SharePoint Agreements
 
-Conditional sections in a template let you create documents that change based on the information given by the authors.
+## Add a conditional section to a template
+
+Conditional sections in a template let you create documents that change based on the information given by the document authors.
 
 Before you can create a conditional section, you first need to add fields to the template on which the condition is based. Then, follow these steps to create a conditional section.
 
 1. In the document, open the **Manage templates** panel and select **Define conditional sections**.
- 
+
 2. On the **Conditional sections** panel, select **+ New** to start adding the condition.
- 
+
 3. On the **New conditional section** panel, in the **Name** box, enter a name that reflects the content you've selected. (For this example, we named it *Reimbursement Section*.)
- 
-## Set conditions
+
+### Set conditions
 
 You can add conditions to specify whether this section of the template will be included in the final generated document based on the values of the fields entered by the author.
 
 For this example, we want to show the selected content for two conditions: if the fees are less 10,000 and if the nature of employment is full time.
 
-### To add the first condition
+#### Add the first condition
 
 In the **Set up condition** section:
 
@@ -45,8 +47,8 @@ In the **Set up condition** section:
 2. Select **Choose a condition**, and then select the appropriate condition. (For this example, we selected *lesser than*.)
 
 3. Select **Enter a value**, and then enter the appropriate value. (For this example, we entered *10000*.)
- 
-### To add additional conditions
+
+#### Add additional conditions
 
 In the **Set up condition** section, under the first condition:
 
@@ -57,23 +59,24 @@ In the **Set up condition** section, under the first condition:
 3. Select **Choose a condition**, and then select the appropriate condition. (For this example, we selected *exact match*.)
 
 4. Select **Enter a value**, and then enter the appropriate value. (For this example, we entered *Full Time*.)
- 
-When you're done entering conditions, select **Save**. The new condition is visible in the **Conditional sections** panel.
- 
-Once the condition is created you need to map the condition to the section of the document which you want to be displayed based on this condition. To map a section, select the relevant section in the document and then click on “Map”
- 
-If you want to change the section of the document mapped to this condition, you can click on “Unmap” and then repeat the process of mapping a section to the condition again
-Edit a conditional section
-To edit the conditions in a conditional section, select the three dots, and then select Edit.
- 
-Delete a conditional section
-To edit the conditions in a conditional section, select the three dots, and then select Delete. This will delete the condition and also unmap the selected section
- 
 
- Note
-•	You can create conditional sections around text, complete paragraphs and entire tables. To create conditional sections around images, ensure the images are inline images
-•	You cannot add conditions around table rows and columns.
-•	You cannot map multiple sections in the document to one condition. One condition can only be mapped to one section in the document.
-•	You can't add nested conditions. To achieve nested conditions, you need to create conditional sections around every section and specify all the required conditions.
+When you're done entering conditions, select **Save**. You can see the new condition in the **Conditional sections** panel.
+
+#### Map the condition to a document section
+
+After creating the condition, you need to map it to the section of the document that you want to display based on this condition. To do this, select the relevant section in the document and then select **Map**.
+
+If you want to change the section of the document mapped to this condition, select **Unmap** and then repeat the process of mapping a section to the condition.
+
+#### Edit a conditional section
+
+To edit the conditions in a conditional section, select **More options** (**...**), and then select **Edit**.
+
+#### Delete a conditional section
+
+To delete the conditions in a conditional section, select **More options** (**...**), and then select **Delete**. This deletes the condition and unmaps the selected section.
+
+> [!NOTE]
+> - You can create conditional sections around text, complete paragraphs, and entire tables. To create conditional sections around images, ensure the images are inline images.<br>- You can't add conditions around table rows and columns.<br>• You can't map multiple sections in the document to one condition. One condition can only be mapped to one section in the document.<br>- You can't add nested conditions. To achieve nested conditions, you need to create conditional sections around every section and specify all the required conditions.
 
 
