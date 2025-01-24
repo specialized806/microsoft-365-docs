@@ -5,7 +5,7 @@ author: chuckedmonson
 manager: jtremper
 audience: admin
 ms.reviewer: sreelakshmi
-ms.date: 01/13/2025
+ms.date: 01/24/2025
 ms.topic: conceptual
 ms.service: microsoft-365-backup
 ms.custom: backup
@@ -33,13 +33,13 @@ Microsoft 365 Backup is a pay-as-you-go offering that charges based on consumpti
 > * **Owner or contributor**. Name of an owner or contributor role on the Azure subscription.
 
 Once you have the information on this list, you're ready to [set up pay-as-you-go billing for Microsoft 365 Backup](backup-billing.md).
-
+<!---
 </br>
 
 > [!VIDEO https://learn-video.azurefd.net/vod/player?id=0f61cfb9-425b-482a-aff2-7b21b3c5767d]
 
 </br>
-
+--->
 ### Permissions
 
 You must be a [SharePoint Administrator](/entra/identity/role-based-access-control/permissions-reference#sharepoint-administrator) or [Global Administrator](/entra/identity/role-based-access-control/permissions-reference#global-administrator) to be able to access the Microsoft 365 admin center and set up Microsoft 365 Backup.
