@@ -140,7 +140,7 @@ Microsoft 365 Copilot users can manage web search in work chat by following thes
 
 2. Turn off the **Web content** toggle.
 
-   :::image type="content" source="media/copilot-web-content-toggle.png" alt-text="Screenshot of the "Web content" toggle enabled. The toggle is highlighted with a red box.":::
+   :::image type="content" source="media/copilot-web-content-toggle.png" alt-text="Screenshot of the Web content toggle enabled. The toggle is highlighted with a red box.":::
 
 > [!NOTE]
 > The privacy setting for optional connected experiences available to users in Microsoft 365 apps (for example, in Word, Excel, or Teams) has no effect on the availability of web search. For example, if a user turns off optional connected experiences, web search can still be available to the user.
