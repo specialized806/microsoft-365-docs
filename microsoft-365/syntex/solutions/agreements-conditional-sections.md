@@ -46,7 +46,7 @@ For this example, we want to show the selected content for two conditions: if th
 
 #### Add the first condition
 
-In the **Set up condition** section:
+On the **Manage templates** panel, in the **Set up condition** section:
 
 1. Select **Choose a field**, and then select the appropriate field. (For this example, we selected *Fees*.)
 
@@ -58,9 +58,9 @@ In the **Set up condition** section:
 
 #### Add additional conditions
 
-In the **Set up condition** section, under the first condition:
+In the **Set up condition** section:
 
-1. Select **+ And** or **+ Or**, depending how you want the additional condition to be linked to the first condition. (For this example, we chose *And*.)
+1. Under the first condition, select **+ And** or **+ Or**, depending how you want the additional condition to be linked to the first condition. (For this example, we chose *And*.)
 
 2. Select **Choose a field**, and then select the appropriate field. (For this example, we selected *Nature of employment*.)
 
@@ -70,7 +70,7 @@ In the **Set up condition** section, under the first condition:
 
    ![A screenshot of an additional condition in the Set up condition section on the Manage templates panel.](../../media/content-understanding/agreements-add-additional-conditions.png)
 
-5. When you're done entering conditions, select **Save**. You can see the new condition in the **Conditional sections** panel.
+5. When you're done entering conditions, select **Save**. You can see the new condition under **Conditional sections**.
 
    ![A screenshot of the new condition on the Condition sections panel on the Manage templates panel.](../../media/content-understanding/agreements-saved-condition.png)
 
