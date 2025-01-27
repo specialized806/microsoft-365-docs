@@ -54,7 +54,7 @@ The hub Copilot experience shows the list of agents that are available and deplo
 
 Admins can manage agents as apps in the Integrated apps section of the Microsoft 365 admin center, where they can see the list of available, deployed, or blocked apps for their organization. They are able to:
 
-- Make am agent available to specific users or groups.
+- Make an agent available to specific users or groups.
 - Block or unblock agents for the complete organization.
 - Deploy or remove agents for the complete organization or specific users or groups.
 
@@ -64,7 +64,7 @@ You can also check if a specific app has Copilot support by selecting it from ap
 
 ## Enable or disable Copilot extensibility
 
-Admins can enable or disable Copilot extensibility for their org by using a preview setting in the tenant default options in the Integrated Apps section of the Microsoft 365 admin center. This setting lets you control who can access agents in their organization. The setting will be available until February 12th, 2025. Over the next 90 days, we’ll introduce additional agent reports and controls in each of the experiences, as well as more comprehensive guidance about how to manage this spectrum of agents across these controls.
+Admins can enable or disable Copilot extensibility for their org by using a preview setting in the tenant default options in the Integrated Apps section of the Microsoft 365 admin center. This setting lets you control who can access agents in their organization. The setting will be available until February 12, 2025. Over the next 90 days, we’ll introduce additional agent reports and controls in each of the experiences, as well as more comprehensive guidance about how to manage this spectrum of agents across these controls.
 
 The preview setting has three options:
 
