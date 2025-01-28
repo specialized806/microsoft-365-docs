@@ -93,7 +93,7 @@ The following table lists the terms shown on the billing account details page.
 > - Government-issued document or registration letter
 > - Print out of the local company's registry
 >
-> Support can help with name and address changes where only the customer name changes, but the entity remains the same. Any documentation you provide should clearly show that only the entity’s name has changed. If the change is the result of a transaction, including the sale of a business, a change of controls, or a divestiture or “spinoff” of a Customer Affiliate, please contact your Microsoft Seller or Microsoft support.
+> Support can help with name and address changes where only the customer name changes, but the entity remains the same. Any documentation you provide should clearly show that only the entity’s name has changed. If the change is the result of a transaction, including the sale of a business, a change of controls, or a divestiture or “spin-off” of a Customer Affiliate, please contact your Microsoft Seller or Microsoft support.
 
 ## What are billing account roles?
 
@@ -116,7 +116,7 @@ Only a billing account owner can grant access to a billing account. You can assi
 
 ## Assign billing account roles
 
-1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a>
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a>.
 2. Select the **Navigation menu**, then select **Billing** > **Billing accounts**.
 3. On the <a href="https://go.microsoft.com/fwlink/p/?linkid=2084771" target="_blank">Billing accounts</a> page, select the billing account.
 4. Under **Billing account roles**, select **Assign roles**.
@@ -126,7 +126,7 @@ Only a billing account owner can grant access to a billing account. You can assi
 
 You can view the roles assigned to users for a billing account and related billing profiles across associated tenants.
 
-1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a>
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">admin center</a>.
 2. Select the **Navigation menu**, then select **Billing** > **Billing accounts**.
 3. On the <a href="https://go.microsoft.com/fwlink/p/?linkid=2084771" target="_blank">Billing accounts</a> page, select a billing account.
 1. Under **Billing account roles**, select **View related role assignments**.
