@@ -1,23 +1,23 @@
 ---
-title: Configure Microsoft Syntex for pay-as-you-go billing
+title: Set up Microsoft Syntex for pay-as-you-go billing
 ms.author: chucked
 author: chuckedmonson
 ms.reviewer: kkamath
-ms.date: 01/13/2025
+ms.date: 01/16/2025
 manager: jtremper
 audience: admin
 ms.topic: conceptual
 ms.service: microsoft-syntex
 ms.collection: 
-    - essentials-get-started
-    - m365initiative-syntex
-    - Tier1
+- essentials-get-started
+- m365initiative-syntex
+- Tier1
 search.appverid: MET150
 ms.localizationpriority: medium
 description: Learn about how to set up pay-as-you-go Azure billing for Microsoft Syntex and how to monitor your usage.
 ---
 
-# Configure Microsoft Syntex for pay-as-you-go billing
+# Set up Microsoft Syntex for pay-as-you-go billing
 
 Microsoft Syntex services are billed on a pay-as-you-go basis. These services use an Azure subscription for billing and track usage and cost with a Syntex meter. Read the [Microsoft Syntex pay-as-you-go terms of service](/legal/microsoft-365/microsoft-syntex-pay-as-you-go-terms) before you configure pay-as-you-go.
 
