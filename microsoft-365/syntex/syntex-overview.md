@@ -4,7 +4,7 @@ ms.author: chucked
 author: lkueter
 manager: jtremper
 ms.reviewer: ssquires
-ms.date: 08/23/2024
+ms.date: 01/28/2025
 audience: admin
 ms.topic: overview
 ms.custom: intro-overview
@@ -36,8 +36,52 @@ You can dive deeper into your content to truly understand it, and you can turn t
 --->
 
 
+## Document and image services
 
+|Icon|Description|
+|---|---|
+|:::image type="icon" source="/office/media/icons/usage-report-blue.png" :::|**Autofill columns** <br>Streamline the process of managing files and their associated information by using large language models (LLMs) to extract or generate content automatically. [Learn more about autofill columns.](autofill-overview.md)|
+|:::image type="icon" source="/office/media/icons/structure-blue.png" :::|**Content assembly** <br>Automatically generate standard repetitive business documents, such as contracts, statements of work, service agreements, letters of consent, correspondence, and more. [Learn more about content assembly.](content-assembly.md)|
+|:::image type="icon" source="/office/media/icons/chat-room-conversation-blue.png" :::|**Document translation** <br>Create a translated copy of a document in a SharePoint document library, preserving the original format and structure of the file. Available for all supported languages and dialects. [Learn more about document translation.](translation-overview.md)|
+|:::image type="icon" source="/office/media/icons/sign-up-blue.png" :::|**eSignature** <br>Send electronic requests using SharePoint eSignature, keeping your content in Microsoft 365 while it’s being reviewed and signed. [Learn more about SharePoint eSignature.](esignature-overview.md)|
+|:::image type="icon" source="/office/media/icons/blog-site-blue.png" :::|**Image tagging** <br>Find, sort, filter, and manage images in SharePoint document libraries. [Learn more about image tagging.](image-tagging-overview.md)|
+|:::image type="icon" source="/office/media/icons/paragraph-writing-blue.png" :::|**Optical character recognition** <br> Extract printed or handwritten text from images, letting you quickly and accurately find the keywords and phrases you're looking for. [Learn more about using optical character recognition.](ocr-overview.md)|
+|:::image type="icon" source="/office/media/icons/bill-blue.png" :::|**Prebuilt document processing** <br>Save time processing and extracting information from [contracts](prebuilt-model-contract.md), [invoices](prebuilt-model-invoice.md), [receipts](prebuilt-model-receipt.md), and other types of documents. [Learn more about prebuilt document processing.](prebuilt-overview.md)|
+|:::image type="icon" source="/office/media/icons/layout-navigation-blue.png" :::|**Structured and freeform document processing** <br>Automatically extract information from documents, such as letters, contracts, forms, and invoices, where the information can appear anywhere in the document. [Learn more about structured and freeform document processing.](form-processing-overview.md)|
+|:::image type="icon" source="/office/media/icons/tasks-blue.png" :::|**Taxonomy tagging** <br> Automatically tag terms or term sets in SharePoint document libraries, making the files easier to search, sort, filter, and manage. [Learn more about taxonomy tagging.](taxonomy-tagging-overview.md)|
+|:::image type="icon" source="/office/media/icons/objects-blue.png" :::|**Unstructured document processing** <br> Automatically classify documents that vary in composition and extract information from them. [Learn more about unstructured document processing.](document-understanding-overview.md)|
 
+## Storage services
+
+|Icon|Description|
+|---|---|
+|:::image type="icon" source="/office/media/icons/cloud-storage-folder-blue.png" :::|**Microsoft 365 Archive** <br>Store inactive SharePoint content cost-effectively and securely, while maintaining searchability and compliance standards. [Learn more about Microsoft 365 Archive.](/microsoft-365/archive)|
+|:::image type="icon" source="/office/media/icons/migration-blue.png" :::|**Microsoft 365 Backup** <br>Quickly and easily recover and restore sites, mailboxes, and OneDrive accounts with a reliable solution designed to protect against malicious or accidental data deletion. [Learn more about Microsoft 365 Backup.](/microsoft-365/backup)|
+
+## Video services
+
+|Icon|Description|
+|---|---|
+|:::image type="icon" source="/office/media/icons/video-play.png" :::|**Video translation** <br>Translate video transcripts and closed captions into over 100 supported languages, allowing viewers to choose the translated versions while watching. [Learn more about video translation.](https://support.microsoft.com/office/2e34ad1b-e213-47ed-a806-5cc0d88751de)|
+
+## Included features
+
+|Icon|Description|
+|---|---|
+|:::image type="icon" source="/office/media/icons/blog-site-blue.png" :::|**Annotations** <br>Add notes, comment, and collaborate with others on your content in document libraries. [Learn more about annotations.](annotations.md)|
+|:::image type="icon" source="/office/media/icons/search-blue.png" :::|**Content query** <br>Make faster, more precise queries based on specific metadata column values, rather than just searching for keywords. [Learn more about content query.](metadata-search.md)|
+|:::image type="icon" source="/office/media/icons/migration-blue.png" :::|**Merge and extract PDFs** <br>Quickly combine multiple PDF files into a single PDF file, or split a larger PDF file into multiple smaller PDF files. [Learn more about merging and extracting PDFs.](merge-extract-pdf.md)|
+|:::image type="icon" source="/office/media/icons/list-123-blue.png" :::|**Processing rules** <br>Build simple rules-driven actions in document libraries to automate tasks. [Learn more about processing rules.](content-processing-overview.md)|
+|:::image type="icon" source="/office/media/icons/subsite.png" :::|**Site templates** <br>Jumpstart a professional SharePoint site to manage, process, and track the status of business documents in your organization. [Learn more about site templates.](site-templates.md)|
+|:::image type="icon" source="/office/media/icons/tools-maintenance-blue.png" :::|**Advanced taxonomy tools** <br>Use admin tools to [import a term set using a SKOS-based format](import-term-set-skos.md), [push enterprise content types to a hub site](push-content-type-to-hub.md), and [get insights into published term sets and their use across your organization](term-store-analytics.md).|
+
+## Scenarios and use cases
+
+Microsoft Syntex can help your organization automate business processes, improve search accuracy, and manage compliance risk. With content AI services and capabilities, you can build content understanding and classification directly into the content management flow.
+
+[Learn more about scenarios and use cases for Microsoft Syntex.](adoption-scenarios.md)
+
+<!---
 ## Scenarios and use cases
 
 :::row:::
