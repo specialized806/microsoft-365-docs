@@ -2196,8 +2196,8 @@
             "redirect_document_id": true
             },
             {
-              "source_path": "microsoft-365/admin/misc/microsoft-places-mobile-ios.md",
-              "redirect_url": "microsoft-365/admin",
+              "source_path": "microsoft-365/admin/misc/places-ios-mobile.md",
+              "redirect_url": "/microsoft-365/admin/",
               "redirect_document_id": false
               }
    ]
