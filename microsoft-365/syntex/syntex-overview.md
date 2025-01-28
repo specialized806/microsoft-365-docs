@@ -57,7 +57,7 @@ You can dive deeper into your content to truly understand it, and you can turn t
 |Icon|Description|
 |---|---|
 |:::image type="icon" source="/office/media/icons/cloud-storage-folder-blue.png" :::|**Microsoft 365 Archive** <br>Store inactive SharePoint content cost-effectively and securely, while maintaining searchability and compliance standards. [Learn more about Microsoft 365 Archive.](/microsoft-365/archive)|
-|:::image type="icon" source="/office/media/icons/share-blue.png" :::|**Microsoft 365 Backup** <br>Quickly and easily recover and restore sites, mailboxes, and OneDrive accounts with a reliable solution designed to protect against malicious or accidental data deletion. [Learn more about Microsoft 365 Backup.](/microsoft-365/backup)|
+|:::image type="icon" source="/office/media/icons/share-blue.png" :::|**Microsoft 365 Backup** <br>Quickly and easily recover and restore sites, mailboxes, and OneDrive accounts with reliable solutions designed to protect against malicious or accidental data deletion. [Learn more about Microsoft 365 Backup.](/microsoft-365/backup)|
 
 ## Video services
 
