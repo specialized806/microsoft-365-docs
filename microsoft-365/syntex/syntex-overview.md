@@ -56,7 +56,7 @@ You can dive deeper into your content to truly understand it, and you can turn t
 |Icon|Description|
 |---|---|
 |:::image type="icon" source="/office/media/icons/cloud-storage-folder-blue.png" :::|**Microsoft 365 Archive** <br>Store inactive SharePoint content cost-effectively and securely, while maintaining searchability and compliance standards. [Learn more about Microsoft 365 Archive.](/microsoft-365/archive)|
-|:::image type="icon" source="/office/media/icons/migration-blue.png" :::|**Microsoft 365 Backup** <br>Quickly and easily recover and restore sites, mailboxes, and OneDrive accounts with a reliable solution designed to protect against malicious or accidental data deletion. [Learn more about Microsoft 365 Backup.](/microsoft-365/backup)|
+|:::image type="icon" source="/office/media/icons/share-blue.png" :::|**Microsoft 365 Backup** <br>Quickly and easily recover and restore sites, mailboxes, and OneDrive accounts with a reliable solution designed to protect against malicious or accidental data deletion. [Learn more about Microsoft 365 Backup.](/microsoft-365/backup)|
 
 ## Video services
 
@@ -287,7 +287,7 @@ Use the annotations feature in Syntex to add notes, comment, and collaborate wit
    :::column-end:::
 :::row-end:::
 --->
-
+<!---
 
 ### Content query
 
@@ -308,7 +308,7 @@ The content query feature in Syntex lets you perform specific metadata-based que
 :::row-end:::
 
 This feature is useful when you have a specific piece of information you want to search for, such as when a document was last modified, a specific person associated with a file, or a specific file type.
---->
+
 
 ### Merge and extract PDFs
 
@@ -331,7 +331,7 @@ Syntex lets you build simple rules-driven actions in document libraries based on
       Syntex lets you build simple rules-driven actions in document libraries based on metadata. From a document library, you can create rules to automate tasks such as sending a notification when metadata changes in a file, when a new file is created in the library, or when files are moved or copied based on metadata extracted by Syntex models.
    :::column-end:::
 :::row-end:::
---->
+
 
 ### Solution accelerators
 
@@ -354,7 +354,7 @@ Learn more about how to apply [retention labels](apply-a-retention-label-to-a-mo
       ![Image of generic compliance icon.](../media/content-understanding/compliance-image.png)
    :::column-end:::
 :::row-end:::
---->
+
 
 ### Premium taxonomy features
 
