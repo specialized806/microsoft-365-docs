@@ -78,9 +78,7 @@ You can dive deeper into your content to truly understand it, and you can turn t
 
 ## Scenarios and use cases
 
-Microsoft Syntex can help your organization automate business processes, improve search accuracy, and manage compliance risk. With content AI services and capabilities, you can build content understanding and classification directly into the content management flow.
-
-[Learn more about scenarios and use cases for Microsoft Syntex.](adoption-scenarios.md)
+Microsoft Syntex can help your organization automate business processes, improve search accuracy, and manage compliance risk. With content AI services and capabilities, you can build content understanding and classification directly into the content management flow. [Learn more about scenarios and use cases for these services.](adoption-scenarios.md)
 
 <!---
 ## Scenarios and use cases
