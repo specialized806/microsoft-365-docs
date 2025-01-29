@@ -26,9 +26,9 @@ description: Learn about the capabilities, services, and features in Microsoft S
 
 </br>--->
 
-Microsoft Syntex provides a powerful suite of content management and productivity services that harnesses AI and machine learning to intelligently discover, analyze, organize, and classify your organization's documents.
+Microsoft Syntex provides a powerful suite of content management and productivity services that harnesses AI and machine learning to intelligently discover, analyze, organize, classify, and process your organization's documents.
 
-By automating content workflows and enhancing understanding, these services transform your business documents into actionable knowledge. This streamlines processes and provides valuable insights, empowering your organization to make informed decisions.
+By automating content workflows and enhancing understanding, these services transform your business documents into actionable knowledge. This streamlines everyday processes and provides valuable insights, empowering your organization to make informed decisions.
 
 <!---
 Microsoft Syntex is a content understanding, processing, and compliance service that uses intelligent document processing, content artificial intelligence (AI), and advanced machine learning to automatically and thoughtfully find, organize, and classify documents in your SharePoint libraries, Microsoft Teams, OneDrive for Business, and Exchange.
