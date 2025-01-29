@@ -33,6 +33,11 @@ description: In this article, find information about using PowerShell to turn of
 You can use PowerShell to turn off directory synchronization and convert your synchronized users to cloud-only. However, it isn't recommended that you turn off directory synchronization as a troubleshooting step. If you need assistance with troubleshooting directory synchronization, see the [Fixing problems with directory synchronization for Microsoft 365](fix-problems-with-directory-synchronization.md) article.
   
 [Contact support](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b) if you need help with this procedure.
+
+> [!note]
+> If your goal is to permanently disable synchronization in the tenant, you should first uninstall the synchronization client, like Connect Sync or Cloud Sync.
+> Disabling synchronization before uninstalling the sync client, may result in the Entra Id Portal showing directory synchronization as disabled, but optional features such as Password Hash Synchronization show enabled.
+> Although this would not cause any issue, and the optional feature would not work when directory synchronization is disabled, it may lead to an unexpected status in the Portal which may be cause for confusion.
   
 ## Turn off directory synchronization
 
