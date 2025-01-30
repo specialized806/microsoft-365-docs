@@ -13,13 +13,15 @@ ms.collection:
 - m365copilot
 - magic-ai-copilot
 hideEdit: true
-ms.date: 01/28/2025
+ms.date: 01/30/2025
 ---
 
 # Multiple account access to Copilot for work and school documents
 
 > [!NOTE]
-> Multiple account access to Copilot is currently disabled for all work and school documents. Multiple account access to Copilot will be enabled in March 2025 at the earliest, but a policy setting to turn it off ahead of time is expected to be available by the end of January 2025.
+> - Multiple account access to Copilot is currently disabled for all work and school documents. 
+> - Multiple account access to Copilot will be enabled in March 2025 at the earliest
+> - In the meantime, there is a policy setting to turn it off ahead of time. For more information, see [Manage multiple account access to Copilot using Cloud Policy](#manage-multiple-account-access-to-copilot-using-cloud-policy).
 
 ## What is multiple account access to Copilot?
 
@@ -56,7 +58,8 @@ You can use the "Multiple account access to Copilot for work documents" policy s
 To configure this policy setting, you can use [Cloud Policy service for Microsoft 365](/microsoft-365-apps/admin-center/overview-cloud-policy).
 
 > [!NOTE]
-> This policy setting is expected to be available in Cloud Policy by the end of January 2025.
+> - The policy setting is available in Cloud Policy as of January 30, 2025.
+> - Currently the policy setting is only available in English. But we’re working on making the localized versions available as soon as we can.
 
 If you enable or don't configure this policy setting, your users can use Copilot on work and school documents with a Copilot license that is from outside your organization.
 
