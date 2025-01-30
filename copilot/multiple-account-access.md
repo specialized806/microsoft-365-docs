@@ -20,7 +20,7 @@ ms.date: 01/30/2025
 
 > [!NOTE]
 > - Multiple account access to Copilot is currently disabled for all work and school documents. 
-> - Multiple account access to Copilot will be enabled in March 2025 at the earliest
+> - Multiple account access to Copilot will be enabled in March 2025 at the earliest.
 > - In the meantime, there's a policy setting to turn it off ahead of time. For more information, see [Manage multiple account access to Copilot using Cloud Policy](#manage-multiple-account-access-to-copilot-using-cloud-policy).
 
 ## What is multiple account access to Copilot?
