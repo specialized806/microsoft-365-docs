@@ -39,7 +39,7 @@ description: "The Microsoft 365 admin center - learn about the features that wer
 
 We're continuously adding new features to [the Microsoft 365 admin center](admin-overview/admin-center-overview.md), fixing issues we learn about, and making changes based on your feedback. Some features get rolled out at different speeds to our customers. If you aren't seeing a feature yet, [try adding yourself to targeted release](manage/release-options-in-office-365.md).
 
-And if you'd like to know what's new with other Microsoft cloud services:
+And if you'd like to know what's new with other Microsoft cloud services, check out the following:
 
 - [What's new in Microsoft Entra ID](/azure/active-directory/fundamentals/whats-new)
 - [What's new in the Exchange admin center](/Exchange/whats-new)
@@ -53,7 +53,7 @@ And if you'd like to know what's new with other Microsoft cloud services:
 
 ## January 2025
 
-### AI Administrator Role in Microsoft 365 Admin Center
+### AI Administrator role in Microsoft 365 Admin Center
 
 The AI administrator role is designed to manage all settings related to Copilot within the Microsoft 365 admin center. You can manage Copilot settings by using the Copilot page in the admin center, which serves as the central hub for all Copilot controls. To learn more about the Copilot page, see [Manage Microsoft 365 Copilot settings in the Microsoft 365 admin center](/copilot/microsoft-365/microsoft-365-copilot-page).
 
