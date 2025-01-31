@@ -28,7 +28,7 @@ Use the information in this article to determine if your organization has the co
 To learn more, see:
 
 - For businesses - [Upgrade or change to a different Microsoft 365 for business plan](/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)
-- For home - [Switch between Microsoft 365 subscriptions](https://support.microsoft.com/office/switch-between-microsoft-365-subscriptions-3fcc1efc-2722-427f-8efa-db94b9b0a36b).
+- For home - [Switch between Microsoft 365 subscriptions](https://support.microsoft.com/office/switch-between-microsoft-365-subscriptions-3fcc1efc-2722-427f-8efa-db94b9b0a36b)
 
   To determine your current subscription, including canceling any subscriptions, sign into your [Microsoft account subscription](https://account.microsoft.com/services).
 
@@ -109,7 +109,7 @@ The following plans are only available using [Enrollment for Education Solutions
 
 ## Microsoft 365 Copilot Chat license
 
-Copilot Chat is the popular prompt and response experience. There are two Copilot Chat options available: web-based chat and work-based chat.
+[Copilot Chat](/copilot/overview) is the popular prompt and response experience. There are two Copilot Chat options available: web-based chat and work-based chat.
 
 - Web-based chat:
 
@@ -123,6 +123,7 @@ Copilot Chat is the popular prompt and response experience. There are two Copilo
 
 To learn more, see:
 
+- [Learn more about Copilot Chat](/copilot/overview)
 - [Manage Microsoft 365 Copilot Chat](/copilot/manage)
 - [Select the Copilot that's right for your organization](which-copilot-for-your-organization.md)
 
