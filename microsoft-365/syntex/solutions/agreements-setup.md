@@ -52,7 +52,7 @@ Before creating a workspace for SharePoint Agreements, you need to ensure:
 
 - It is recommended that only the latest version of the SharePoint Online Management Shell is installed.
 
-- Review instructions at [Get Started with the SharePoint Online Management Shell](https://learn.microsoft.com/en-us/powershell/sharepoint/sharepoint-online/connect-sharepoint-online) to validate the version you have installed, uninstall previous versions or update the current version to ensure the pre-requisites have been met.
+- Review instructions at [Get Started with the SharePoint Online Management Shell](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online) to validate the version you have installed, uninstall previous versions or update the current version to ensure the pre-requisites have been met.
 
    > [!NOTE]
    > You must be a SharePoint Administrator or Global Administrator to create sites through the SharePoint Online Management Shell.
