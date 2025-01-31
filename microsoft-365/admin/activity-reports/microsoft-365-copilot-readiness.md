@@ -106,3 +106,9 @@ To make the data in the Microsoft 365 Copilot report anonymous, you must be a gl
 2. Select **Reports**, and then choose to **Display anonymous identifiers**. This setting gets applied both to the usage reports in Microsoft 365 admin center and Teams admin center.
 
 3. Select **Save changes**.
+
+## More resources
+
+- [Microsoft 365 Copilot service description](/office365/servicedescriptions/office-365-platform-service-description/microsoft-365-copilot) (article)
+- [Set up Microsoft 365 Copilot](/copilot/microsoft-365/microsoft-365-copilot-setup) (article)
+- [Microsoft 365 Copilot Adoption](https://adoption.microsoft.com/copilot/)
