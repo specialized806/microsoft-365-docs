@@ -45,15 +45,15 @@ You can see the following summary charts in this report:
 
 :::image type="content" alt-text="Screenshot showing how you can ensure users are eligible for Microsoft 365 Copilot." source="../../media/copilot-usage-ensure-readiness.png":::
 
-**Total Prerequisite Licenses** The number is the sum of all users who have at least one license assigned to them or who could be assigned a license. To learn more about the license types eligible for Copilot, see [Licensing requirements for Microsoft 365 Copilot](/copilot/microsoft-365/microsoft-365-copilot-licensing).
+**Total Prerequisite Licenses**: The number is the sum of all users who have at least one license assigned to them or who could be assigned a license. To learn more about the license types eligible for Copilot, see [Licensing requirements for Microsoft 365 Copilot](/copilot/microsoft-365/microsoft-365-copilot-licensing).
 
-**Users on an eligible update channel** This number is the sum of all users who are enrolled in Current Channel or Monthly Enterprise Channel for app updates in your organization and could be assigned with a Copilot license.
+**Users on an eligible update channel**: This number is the sum of all users who are enrolled in Current Channel or Monthly Enterprise Channel for app updates in your organization and could be assigned with a Copilot license.
 
 :::image type="content" alt-text="Screenshot showing an organization's number of available licenses to assign." source="../../media/copilot-usage-licenses-assigned.png":::
 
-**Assigned Licenses** This number is the sum of all users who have already been assigned with a Copilot license in your organization.
+**Assigned Licenses**: This number is the sum of all users who have already been assigned with a Copilot license in your organization.
 
-**Available Licenses** This number is the sum of all users who do not have a Copilot license assigned, and should be prioritized first.
+**Available Licenses**: This number is the sum of all users who do not have a Copilot license assigned, and should be prioritized first.
 
 :::image type="content" alt-text="Screenshot showing recommendation cards for Microsoft 365 Copilot usage report." source="../../media/copilot-usage-recommend-cards.png" lightbox="../../media/copilot-usage-recommend-cards.png":::
 
