@@ -23,19 +23,24 @@ appliesto:
 
 Microsoft 365 Copilot is available as an [add-on plan](https://www.microsoft.com/microsoft-365/microsoft-copilot) with one of the licensing prerequisites listed in this article. To learn more about Microsoft 365 Copilot, see [Microsoft 365 Copilot overview](microsoft-365-copilot-overview.md) and [Microsoft 365 Copilot architecture and how it works](microsoft-365-copilot-architecture.md).
 
-Use the information in the article to determine if your organization has the correct Microsoft 365 subscription plan to add Microsoft 365 Copilot. If you or your account doesn't have the right plan, you can purchase a new plan or possibly upgrade your existing plan.
+Use the information in this article to determine if your organization has the correct Microsoft 365 subscription plan to add Microsoft 365 Copilot. If you or your account doesn't have the right plan, you can purchase a new plan or possibly upgrade your existing plan.
 
 To learn more, see:
 
 - For businesses - [Upgrade or change to a different Microsoft 365 for business plan](/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)
-- For home - [Switch between Microsoft 365 subscriptions](https://support.microsoft.com/office/switch-between-microsoft-365-subscriptions-3fcc1efc-2722-427f-8efa-db94b9b0a36b). To determine your current subscription, including canceling any subscriptions, sign into your [Microsoft account subscription](https://account.microsoft.com/services).
+- For home - [Switch between Microsoft 365 subscriptions](https://support.microsoft.com/office/switch-between-microsoft-365-subscriptions-3fcc1efc-2722-427f-8efa-db94b9b0a36b).
+
+  To determine your current subscription, including canceling any subscriptions, sign into your [Microsoft account subscription](https://account.microsoft.com/services).
+
 - For pricing - [Microsoft 365 Copilot pricing and plans](https://www.microsoft.com/en-us/microsoft-365/copilot)
 
 This article applies to:
 
 - Microsoft 365 Copilot
 
-## Microsoft 365 Copilot
+## Microsoft 365 Copilot license
+
+To add Microsoft 365 Copilot to your Microsoft 365 subscription, you need one of the following Microsoft 365 subscription plans. The Copilot license is available as an add-on.
 
 ### Business and Enterprise licenses
 
@@ -90,26 +95,26 @@ This article applies to:
 
 ### Education Faculty and Higher Education Students Aged 18+ licenses
 
-- Microsoft 365 A1*
-- Microsoft 365 A3*
-- Microsoft 365 A5*
-- Office 365 A1*
-- Office 365 A3*
-- Office 365 A5*
+The following plans are only available using [Enrollment for Education Solutions (EES)](https://download.microsoft.com/download/F/6/6/F6611596-992F-498A-A8EE-B0B39A6A4D0A/Enrollment_for_Education_Solutions_Licensing_Guide.pdf) or Cloud Solution Provider (CSP).
 
-*Available via Enrollment for Education Solutions (EES) or Cloud Solution Provider (CSP) only.
+- Microsoft 365 A1
+- Microsoft 365 A3
+- Microsoft 365 A5
+- Office 365 A1
+- Office 365 A3
+- Office 365 A5
 
 > [!NOTE]
-> Customers with Education or Business subscriptions that don't include Teams can still purchase Microsoft 365 Copilot licenses.
+> Customers with Education or Business subscriptions that don't include Teams can purchase Microsoft 365 Copilot licenses.
 
-## Microsoft 365 Copilot Chat
+## Microsoft 365 Copilot Chat license
 
-There are two Copilot Chat options available: web-based chat and work-based chat.
+Copilot Chat is the popular prompt and response experience. There are two Copilot Chat options available: web-based chat and work-based chat.
 
 - Web-based chat:
 
   - Shows results from the internet.
-  - Automatically included in your Microsoft 365 subscription.
+  - Automatically included in your Microsoft 365 subscription with no extra cost.
 
 - Work-based chat:
 
@@ -125,7 +130,7 @@ To learn more, see:
 
 In the Microsoft 365 admin center, there's a [Microsoft 365 Copilot setup guide](https://admin.microsoft.com/Adminportal/Home?Q=learndocs#/modernonboarding/microsoft365copilotsetupguide). You can use this guide to step through the admin center to assign the required licenses.
 
-The [Set up Microsoft 365 Copilot admin guide](microsoft-365-copilot-setup.md) describes other features that you should configure, including reviewing your Microsoft 365 apps privacy settings, setting the update channels, and more.
+The [Set up Microsoft 365 Copilot admin guide](microsoft-365-copilot-setup.md) describes other features that you should also configure, including reviewing your Microsoft 365 apps privacy settings, setting the update channels, and more.
 
 For more information, see:
 
