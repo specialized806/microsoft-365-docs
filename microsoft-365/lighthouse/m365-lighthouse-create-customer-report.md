@@ -5,7 +5,7 @@ ms.author: sharik
 author: SKjerland
 manager: scotv
 ms.reviewer: ebamoh
-ms.date: 01/27/2025
+ms.date: 02/03/2025
 audience: Admin
 ms.topic: how-to
 ms.service: microsoft-365-lighthouse
@@ -32,13 +32,13 @@ To create a customer report, you must hold at least the Global Reader role in Mi
 
 ## Create a customer report
 
-1. In the left navigation pane in Lighthouse, select **Tenants**.
+1. In the left navigation pane in <a href="https://go.microsoft.com/fwlink/p/?linkid=2168110" target="_blank">Lighthouse</a>, select **Tenants**.
  
 2. Select a tenant that shows **Managed** in the **Lighthouse management** column to open the tenant details page for that tenant.
 
 3. On the **Overview** tab, select **Summary** in the left pane, and then select **Create customer report**.
 
-    A detail pane opens showing an overview of the information contained in the report.
+    A details pane opens showing an overview of the information contained in the report.
 
 4. To create and download a PDF copy of the report, select **Download PDF**.
  
