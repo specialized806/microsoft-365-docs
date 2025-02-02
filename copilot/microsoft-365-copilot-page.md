@@ -67,7 +67,7 @@ This link navigates you to the Microsoft Purview compliance portal where you can
 
 This link directs you to the Security Copilot portal to manage settings. Security Copilot is a separate product and license from Microsoft 365 Copilot. If purchased, you can use this link to navigate to Security Copilot settings page. To learn more, see [Security Copilot](/copilot/security/).
 
-### Microsoft 365 Copilot feedback logs
+### Microsoft 365 Copilot diagnostics logs
 
 When users have an issue and aren't able to send feedback logs to Microsoft, you can submit feedback logs on their behalf. The data will include prompts and generated responses, relevant content samples, and additional log files. Using this feature to send feedback logs will temporarily override any user level feedback policy.
 
@@ -110,3 +110,15 @@ To learn more, see [Copilot in Viva Goals](/viva/copilot/viva-copilot-overview#c
 ### Copilot in Viva Insights 
 
 Copilot in Viva Insights simplifies the query building process for analysts by suggesting a template, metrics, filters, and attributes relevant to their analysis. Use a combination of org-wide setting and custom policies to refine access for the people in your organization. [Learn more](/viva/insights/advanced/analyst/copilot-query). 
+
+### Copilot in Edge 
+
+‎Copilot‎ in ‎Edge‎ gives your organization AI-powered chat for work with enterprise data protection. To configure AI features for ‎Copilot‎ in ‎Edge,‎ you'll need to add a configuration profile in the settings for ‎Microsoft Edge‎.
+
+To learn more, see [Copilot in Viva Edge](/deployedge/microsoft-edge-management-service).
+
+### Copilot in Power Platform and Dynamics 365 
+
+This links directs you to the Power Platform admin center to manage settings specific to ‎Microsoft Copilot‎, agents, and ‎Copilot‎ agents in ‎Power Platform‎ and ‎Dynamics 365‎ products.
+
+To learn more, see [Copilot in Viva Edge](/power-platform/copilot).
