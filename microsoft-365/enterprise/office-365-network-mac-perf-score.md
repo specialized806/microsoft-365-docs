@@ -46,7 +46,7 @@ Each network assessment, whether scoped to the tenant or to a specific office lo
 > [!div class="mx-imgBorder"]
 > ![Example network assessment value.](../media/m365-mac-perf/m365-mac-perf-overview-score.png)
 
-The **Assessment breakdown** in the panel shows the assessment for each of the component workloads.
+The **Points breakdown** in the panel shows the assessment for each of the component workloads.
 
 The **Assessment history** shows the past 30 days of the assessment and the benchmark. You can also report on the metrics history for any office location for up to two years using the history tab. The history tab allows you to select your attributes to report on. By choosing a report time frame, you can highlight the impact of a network update project and see the improvement to your network assessment.
 
