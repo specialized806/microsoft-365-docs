@@ -49,7 +49,7 @@ By default, the autofill columns service is turned on for libraries in all Share
 
 4. Under **Document & image services**, select **Autofill columns**.
 
-6. On the **Autofill columns** panel, under **Sites where Autofill can be used when it's turned on**, select **Edit**. :
+6. On the **Autofill columns** panel, under **Sites where Autofill can be used when it's turned on**, select **Edit**.
 
 7. On the **Sites where models can be created** panel, change the setting from **All sites** to **Selected sites (up to 100)** or **No sites**. For selected sites, follow the instructions to select the sites or upload a CSV listing of the sites. You can then manage site access permissions for the sites you selected.
 
