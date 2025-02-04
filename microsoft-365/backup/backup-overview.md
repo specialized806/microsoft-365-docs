@@ -30,7 +30,7 @@ Key features include:
 
 - **Partner ecosystem**: Leverage additional features and workflows through integrated partner applications to manage all your backups in one place.
 --->
-Note: Microsoft 365 Backup is currently not available for government cloud customers. 
+Note: Microsoft 365 Backup is currently not available for Government Community Cloud (GCC) customers. 
 
 ## Scenarios and value proposition
 
