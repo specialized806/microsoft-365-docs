@@ -25,7 +25,7 @@ This article provides an overview of Microsoft 365 Archive for Education, includ
 Education customers that are subject to the pooled storage limit are eligible for the Microsoft 365 Archive for Education offering. If your tenant has assigned most (greater than 50%) EDU licenses compared to non-EDU licenses, or if your tenant has purchased more EDU licenses than non-EDU licenses, then the tenant is managed as an EDU tenant and is subject to Education Pooled Storage. For more information on pooled storage, see [Education Pooled Storage limits](/office365/servicedescriptions/office-365-platform-service-description/office-365-education#education-pooled-storage-limits).
 
 > [!NOTE]
-> If there are changes to the license assignment or purchases that change the pooled storage eligibility, these changes can take 24-48 hours to reflect. 
+> Any changes to the license assignment or purchases that change the pooled storage eligibility can take 24-48 hours to reflect. 
 
 ## Pooled storage status
 
@@ -33,7 +33,7 @@ When you [turn on Microsoft 365 Archive](archive-setup.md#set-up-microsoft-365-a
 
 :::image type="content" source="../media/archive/m365-archive-1.png" alt-text="Screenshot of Microsoft 365 archive." :::
 
-For customers that are subject to the pooled storage policy, they'll have access to the storage report in the Microsoft 365 admin center under **Reports** > **[Storage](https://admin.microsoft.com/Adminportal/Home#/storagemanagement)**. The user must be signed in as a Global Admin or SharePoint Admin to access the storage report. 
+For customers that are subject to the pooled storage policy, they'll have access to the storage report in the Microsoft 365 admin center under **Reports** > **[Storage](https://admin.microsoft.com/Adminportal/Home#/storagemanagement)**. The user must be logged in as a Global Admin or SharePoint Admin to access the storage report. 
 
 If the storage report isn't available, then it’s possible that your tenant isn't subject to the pooled storage policy. To determine if your tenant is subject to the pooled storage policy, review whether most (greater than 50%) EDU licenses are assigned compared to non-EDU licenses, or if your tenant has purchased more EDU licenses than non-EDU licenses. 
 
@@ -49,7 +49,7 @@ Microsoft 365 Archive charges you for storage and reactivation.
 - **Storage consumption** is charged at a per-GB monthly rate. For SharePoint sites, this meter is charged only when archived storage in SharePoint plus active pooled storage exceeds the included or licensed allocated pooled storage capacity limit of the tenant. In other words, there's no additional storage cost for archived sites if the tenant hasn't consumed its already licensed storage quota. For unlicensed OneDrive accounts, this meter is charged for every OneDrive account that is archived. For more information on unlicensed OneDrive accounts, see [Manage unlicensed OneDrive user accounts.](/sharepoint/unlicensed-onedrive-accounts)  
 - **Site reactivation** is charged at a per-GB rate. The reactivation fee is charged regardless of whether a tenant is over or below its pooled storage capacity limit and only if reactivation is executed more than seven days after the site was most recently put into an archive state. This seven-day grace period provides you with the opportunity to reverse an accidental archival without reaction costs.
 
-Monthly archive usage is calculated as the sum of the usage of all currently archived sites. Each site’s usage can be seen on the site itself or from the Active sites page in the SharePoint admin center. The size of an archived site, and therefore the storage for which it’s billed, changes only if the content in the site changes, for example, content naturally expiring in the recycle bin or a retention policy deleting content within the site directly from archive to the recycle bin.
+Monthly archive usage is calculated as the sum of the usage of all currently archived sites. Each site’s usage can be seen on the site itself or from the Active sites page in the SharePoint admin center. The size of an archived site, and therefore the storage for which it’s billed, changes only if the content in the site changes. For example, content naturally expiring in the recycle bin or a retention policy deleting content within the site directly from archive to the recycle bin.
 
 For more information on the pricing for Microsoft 365 Archive, see [Pay-as-you-go services and pricing for Microsoft Syntex.](../syntex/syntex-pay-as-you-go-services.md).
 
