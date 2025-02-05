@@ -25,7 +25,7 @@ ms.date: 02/05/2025
 
 A *License Reservation* lets a customer get started immediately with online services, without going through the standard order submission process, first.
 
-This article explains reservation restrictions, the online services available for reservation, and how reservations are invoiced. It also includes steps for how to make, cancel, and view your license reservations in the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">Microsoft 365 admin center</a>.
+This article explains reservation restrictions, the online services available for reservation, and how reservations are invoiced. It also includes steps for how to make, cancel, and view your License Reservations in the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">Microsoft 365 admin center</a>.
 
 ## Before you begin
 
@@ -38,7 +38,7 @@ This article explains reservation restrictions, the online services available fo
 
 ## License Reservation restrictions
 
-License reservations have the following restrictions:
+License Reservations have the following restrictions:
 
 - Only online services are eligible for License Reservation orders.
 - A reservation order is a financial obligation that's realized during the annual true-up order process, based on the reservation usage date and the quantity of licenses reserved.
@@ -49,11 +49,11 @@ License reservations have the following restrictions:
 > [!NOTE]
 > You don’t need to place an online reservation to renew services you already use. Instead, contact your Microsoft partner or seller to renew your existing seats before they expire. Renewals don't add more seats or more services.
 
-## Online services available for license reservations
+## Online services available for License Reservations
 
 To reduce the risk that customers unintentionally order incorrect or incompatible services, not all Microsoft services are available to reserve in the Microsoft 365 admin center. The following list explains the three types of available services:
 
-1. Standard online services are available to EA customers in the Microsoft 365 admin center volume licensing reservations page.
+1. Standard online services are available to EA customers on the Microsoft 365 admin center volume licensing reservations page.
 2. A second category of services is only available if customers have either a prior purchase or preagreed pricing for that service.
 3. A third category of more complex services isn't configured for online reservation and must be ordered via your Microsoft partner or seller.
 
@@ -62,16 +62,16 @@ If you want to use a Microsoft online service not listed on the Microsoft 365 ad
 > [!IMPORTANT]
 > If you want to subscribe to the Microsoft Azure cloud platform, contact your Microsoft seller or licensing solution partner. You can't reserve seats for Azure in the VL section of the Microsoft 365 admin center.
 
-## Invoicing License Reservation orders## Invoicing License Reservation orders
+## Invoicing License Reservation orders
 
 As part of your VL agreement's annual order process, your Microsoft partner or seller submits purchase orders to invoice you based on the reservation usage date and the quantity of licenses reserved.
 
-All the licenses committed to in the license reservation are invoiced, even if some of the licenses aren't in use.
+All the licenses committed to in the License Reservation are invoiced, even if some of the licenses aren't in use.
 
 > [!NOTE]
-> When your partner places an order to reconcile the license reservation, the reservation status changes from "active" to "canceled" in the Microsoft 365 admin center.
+> When your partner places an order to reconcile the License Reservation, the reservation status changes from "active" to "canceled" in the Microsoft 365 admin center.
 
-Reservations canceled more than 72- hours before the usage date aren't invoiced.
+Reservations canceled more than 72 hours before the usage date aren't invoiced.
 
 If you have any questions that relate to invoices resulting from the reconciliation of reserved licenses into VL orders, contact your Microsoft partner or seller.
 
@@ -80,7 +80,7 @@ If you have any questions that relate to invoices resulting from the reconciliat
 > [!IMPORTANT]
 > A License Reservation order is a financial commitment to purchase reserved items. If you don't have the authority to accept this commitment, work with the person in your organization who is authorized to do so.
 
-1. Go to the Microsoft 365 admin center and sign in with your credentials.
+1. Go to the <a href="https://go.microsoft.com/fwlink/p/?linkid=2024339" target="_blank">Microsoft 365 admin center</a> and sign in with your credentials.
 2. In the **Navigation** menu, select **Billing** > <a href="https://go.microsoft.com/fwlink/p/?linkid=842054" target="_blank">**Your products**</a>, then select the **Volume licensing** tab.
 3. Select **Make reservations**.
 4. From your list of Enterprise Agreement **contracts available for reservation**, select an active agreement, then select **Confirm** to proceed with the online reservation.
@@ -90,7 +90,7 @@ If you have any questions that relate to invoices resulting from the reconciliat
 >
 > - Selecting a usage date within 60 days of your anniversary date might affect your ability to step-up to higher edition licenses. Speak with your Microsoft partner or seller first.
 > - You can’t place a reservation within 30 days of the agreement's anniversary date.
-> - After you make a reservation, you can't edit it. However, you can cancel a reservation up to 72 hours from the start of the usage date (weekends and holidays included).
+> - After you make a reservation, you can't edit it. However, you can [cancel a reservation](#cancel-a-license-reservation-order) up to 72 hours from the start of the usage date (weekends and holidays included).
 
 6. Select **Add services** to see a list of online services available for reserving online.
 7. Select the online services that you want to reserve, then select **Add services**.
