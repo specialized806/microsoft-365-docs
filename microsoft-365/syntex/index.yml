@@ -150,10 +150,6 @@ landingContent:
             url: /sharepoint/dev/apis/syntex/syntex-model-rest-api
           - text: PowerShell for Microsoft Syntex
             url: powershell-syntex-intro.md
-          - text: SharePoint Advanced Management
-            url: /sharepoint/advanced-management
-          - text: SharePoint Embedded
-            url: /sharepoint/dev/embedded/overview
 
 # Card 9
   - title: Video services
