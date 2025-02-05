@@ -361,17 +361,16 @@ items:
             - name: Work with explanations
               href: powershell-syntex-explanations.md
 
-    - name: Microsoft 365 Archive
-      href: /microsoft-365/archive
-
-    - name: Microsoft 365 Backup
-      href: /microsoft-365/backup
-
-    - name: SharePoint Advanced Management
-      href: /sharepoint/advanced-management
-
-    - name: SharePoint Embedded
-      href: /sharepoint/dev/embedded/overview
+    - name: More content solutions
+      items: 
+        - name: Microsoft 365 Archive
+          href: /microsoft-365/archive
+        - name: Microsoft 365 Backup
+          href: /microsoft-365/backup
+        - name: SharePoint Advanced Management
+          href: /sharepoint/advanced-management
+        - name: SharePoint Embedded
+          href: /sharepoint/dev/embedded/overview
 
 
 
