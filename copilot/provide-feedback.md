@@ -33,7 +33,7 @@ Before you begin, you must have the following:
 
 - A Microsoft 365 subscription with a Microsoft 365 Copilot license
 
-- Global admin role to complete the task in this article. For more information, see [About admin roles in the Microsoft 365 admin center](/microsoft-365/admin/add-users/about-admin-roles).
+- Global administrator or AI administrator role to complete the task in this article. For more information, see [About admin roles in the Microsoft 365 admin center](/microsoft-365/admin/add-users/about-admin-roles).
 
 - An email address of the user who experienced an issue with Microsoft 365 Copilot.
 
@@ -51,12 +51,12 @@ To provide feedback to Microsoft on behalf of a user who encountered a problem w
 
 4. Select the specific date range for the feedback submission. The range can be up to the past 30 days.
 
+:::image type="content" source="media/feedback/aif-collect-data.png" alt-text="Screenshot highlighting the entry fields for submitting Copilot diagnostic logs." lightbox="media/feedback/aif-collect-data.png":::
+
 5. Choose the number of rounds of conversations that you'd like to share with Microsoft, and then select **Next**.
 
    > [!NOTE]
    > The maximum number of conversations you can share is 30.
-
-:::image type="content" source="media/feedback/aif-collect-data.png" alt-text="Screenshot highlighting the entry fields for submitting Copilot diagnostic logs." lightbox="media/feedback/aif-collect-data.png":::
 
 6. Review the available chat log prompt-response pairs. You can search using keywords or scroll through the list. Hover over each pair to view the full prompt-response pair. Select or deselect specific pairs to include in the feedback.
 
