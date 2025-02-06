@@ -74,6 +74,8 @@ Once pay-as-you-go billing is enabled for Microsoft Syntex in the Microsoft 365 
 
 8. On the **Enable billing for unlicensed OneDrive accounts** panel, select **Confirm**.
 
+Microsoft 365 Archive is now enabled for you, and you're able to archive content from the SharePoint admin center.
+
 <!---
 7. On the **Manage SharePoint site archive** panel, select the checkbox to manage site archiving on SharePoint and select **Save**. 
 
@@ -81,8 +83,6 @@ Once pay-as-you-go billing is enabled for Microsoft Syntex in the Microsoft 365 
 
     :::image type="content" source="../media/archive/syntex2.png" alt-text="Screenshot of Microsoft 365 Archive enabled." lightbox="../media/archive/syntex2.png":::
 --->
-
-    Microsoft 365 Archive is now enabled for you, and you're able to archive content from the SharePoint admin center.
 
 ## Turn off Microsoft 365 Archive
 
