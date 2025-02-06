@@ -24,18 +24,19 @@ appliesto:
 
 When [Microsoft 365 Copilot](microsoft-365-copilot-overview.md) is available in a tenant, there are some Copilot features that admins can configure in the Microsoft 365 admin center.
 
-The admin center also gives shortcuts to other features that can affect how Copilot is used in your organization, like the Power Platform pay-as-you-go plan.
+The admin center also gives shortcuts to other features that can affect how Copilot is used in your organization.
 
 This article is for IT administrators, and lists some of the Copilot features you can control in the Microsoft 365 admin center.
-
-> [!NOTE]
-> If you're an end user on a work device, then it's possible your IT admin group turned on Copilot for you. The [Copilot Prompt Gallery](https://copilot.cloud.microsoft/prompts) can help you get started.
->
-> If you're an end user on a Windows personal device, then you might automatically get Microsoft Copilot, which is the free consumer version. To learn how Copilot can help you, see [How can Copilot help you?](https://www.microsoft.com/microsoft-copilot/for-individuals).
 
 This article applies to:
 
 - Microsoft 365 Copilot
+
+> [!NOTE]
+>
+> - If you're an end user on a work device, then it's possible your IT admin group turned on Copilot for you. The [Copilot Prompt Gallery](https://copilot.cloud.microsoft/prompts) can help you get started.
+>
+> - If you're an end user on a Windows personal device, then you might automatically get Microsoft Copilot, which is the free consumer version. To learn how Copilot can help you, see [How can Copilot help you?](https://www.microsoft.com/microsoft-copilot/for-individuals).
 
 ## Before you begin
 
@@ -62,13 +63,13 @@ This article applies to:
   To learn more about these roles, see [About admin roles in the Microsoft 365 admin center](/microsoft-365/admin/add-users/about-admin-roles).
 
   > [!TIP]
-  > Microsoft recommends you sign in with the least privileged role that you need to complete your task. Typically, the Global Administrator role is too powerful for most tasks, including managing the Copilot features in this article.
+  > Microsoft recommends you sign in with the least privileged role that you need to complete your task. Typically, the Global Administrator role is too powerful for most tasks, including managing the Copilot features described in this article.
 
 - The admin center only shows the services licensed in your tenant. So, this article lists more features than what you might see.
 
   For example, if you have a Microsoft Viva license, then you see the Viva features. If you have a Power Platform license, then you see the Power Platform features.
 
-  Some features are shortcuts to other admin centers, like Viva and Teams. For these features, you need the appropriate role to access those admin centers, like [Viva Insights administrator](/viva/microsoft-viva-admin-roles) or Teams administrator.
+  Some features are shortcuts to other admin centers, like Teams. For these features, you need the appropriate role to access those admin centers, like Teams administrator.
 
   To learn more about the different roles in the admin center, see [Microsoft 365 admin center admin roles](/microsoft-365/admin/add-users/about-admin-roles).
 
@@ -245,7 +246,7 @@ In the [Microsoft 365 admin center](https://admin.microsoft.com), select **Copil
 
 ### Data, security, and compliance
 
-✅ Shortcut to Microsoft Purview portal
+✅ Shortcut to the Microsoft Purview portal
 
 In the [Microsoft 365 admin center](https://admin.microsoft.com), select **Copilot** > **Settings** > **Data, Security, and Compliance**.
 
@@ -303,7 +304,7 @@ To learn more, see:
 
 In the [Microsoft 365 admin center](https://admin.microsoft.com), select **Copilot** > **Settings** > **Microsoft Security Copilot**.
 
-This feature is a shortcut to the Security Copilot portal to manage settings. You don't configure this feature in the Microsoft 365 admin center.
+This feature is a shortcut to the Security Copilot portal. You don't configure this feature in the Microsoft 365 admin center.
 
 Security Copilot is a separate product and license from Microsoft 365 Copilot. If it's available in your tenant, you can use this link to go to Security Copilot.
 
@@ -315,7 +316,7 @@ To learn more, see [Security Copilot](/copilot/security).
 
 In the [Microsoft 365 admin center](https://admin.microsoft.com), select **Copilot** > **Settings** > **Pin Copilot Chat**.
 
-This setting lets you pin Microsoft 365 Copilot Chat to the navigation bar in Teams, Outlook, and the Microsoft 365 Copilot app. By default, Copilot Chat is pinned for users with a Microsoft 365 Copilot license.
+This setting lets you pin Microsoft 365 Copilot Chat to the navigation bar in Teams, Outlook, and the Microsoft 365 Copilot app. By default, Copilot Chat might be pinned for users with a Microsoft 365 Copilot license.
 
 :::image type="content" source="media/microsoft-365-copilot-page/microsoft-365-admin-center-pin-copilot-chat.png" alt-text="Screenshot that lets admins pin Microsoft 365 Copilot Chat to the navigation bar in the Copilot page in the Microsoft 365 admin center." lightbox="media/microsoft-365-copilot-page/microsoft-365-admin-center-pin-copilot-chat.png":::
 
