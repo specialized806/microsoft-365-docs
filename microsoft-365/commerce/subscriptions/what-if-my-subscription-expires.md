@@ -113,7 +113,7 @@ Before the subscription reaches its expiration date, you have two options:
 
 1. **Enable recurring billing for the subscription.**
     - If **Recurring billing** is already turned on, you don't have to take any action. Your subscription is automatically billed, and you're charged for another year or month, depending on your current billing frequency.
-    - If you turned off **Recurring billing**, you can [turn it back on](renew-your-subscription.md) to keep your subscription active
+    - If you turned off **Recurring billing**, you can [turn it back on](renew-your-subscription.md) to keep your subscription active. 
     - If you bought Microsoft 365 Apps for business with a prepaid card, you can [turn on **Recurring billing**](renew-your-subscription.md) for your subscription and provide a payment method to continue the subscription.
     - If you have Microsoft 365 Apps for business, see [Manage recurring billing for your subscription](renew-your-subscription.md).
 2. **Let the subscription expire.**
