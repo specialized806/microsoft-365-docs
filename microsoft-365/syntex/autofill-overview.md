@@ -4,7 +4,7 @@ ms.author: chucked
 author: chuckedmonson
 manager: jtremper
 ms.reviewer: ssquires
-ms.date: 09/19/2024
+ms.date: 02/06/2025
 audience: admin
 ms.topic: conceptual
 ms.service: microsoft-syntex
@@ -14,7 +14,7 @@ ms.collection:
     - enabler-strategic
     - m365initiative-syntex
 ms.localizationpriority:  medium
-description: Learn about the autofill columns service in Microsoft Syntex.
+description: Learn about the autofill columns service in SharePoint.
 ---
 
 # Overview of autofill columns in Microsoft Syntex
@@ -30,6 +30,14 @@ Autofill columns can work alongside other Microsoft Syntex models. You can assoc
 
 ## Requirements and limitations
 
+| Icon          | Description   |
+| ------------- | ------------- |
+| ![Files symbol.](/office/media/icons/files-blue.png)  | **Supported file types** <br>This service supports the following file types: .csv, .doc, .docx, .eml, .heic, .heif, .htm, .html, .jpeg, .jpg, .md, .msg, .pdf, .png, .ppt, .pptx, .rtf, .tif, .tiff, .txt, .xls, and .xlsx. |
+| ![Conversation symbol.](/office/media/icons/chat-room-conversation-blue.png)  | **Supported languages** <br>This service is available for English language files. Other languages will be added in future releases. |
+| ![Check mark in a circle symbol.](/office/media/icons/success-blue.png)  | **Supported column types** <br>The maximum file size for documents to be translated is limited to 40 MB. |
+| ![Conversation symbol.](/office/media/icons/chat-room-conversation-blue.png)  | **Supported languages** <br>This service is available for the following column data types: Text, Multiple lines of text, Number, Yes/No, Date and time, Choice, Hyperlink, and Currency.<br> Currently, this service is not available for the following column data types: Person or Group, Location, Image, Lookup, and Managed metadata.|
+
+<!---
 ### Support languages
 
 Currently, autofill columns are available for English language files. Other languages will be added in future releases.
@@ -40,7 +48,7 @@ Autofill columns are available for the following file types: .csv, .doc, .docx, 
 
 ### Supported column data types
 
-Currently, autofill columns are available for the following column data types:
+Currently, This service is available for the following column data types:
 
 - Text
 - Multiple lines of text
@@ -51,13 +59,14 @@ Currently, autofill columns are available for the following column data types:
 - Hyperlink
 - Currency
 
-Currently, autofill columns are not available for the following column data types:
+Currently, this service is not available for the following column data types:
 
 - Person or Group
 - Location
 - Image
 - Lookup
 - Managed metadata
+--->
 
 ### Current release notes
 
