@@ -358,58 +358,16 @@ These settings at the organization-level are evaluated to check for misconfigura
 
 |Setting|Where it is located|Setting values considered “misconfigured”|
 | -------- | -------- | -------- |
-|Setting |Where it is located |Setting values considered “misconfigured” |
 |External collaboration setting’s guest invite setting 	|Microsoft Entra Admin Center |"No one in this organization can invite guest users including admins (most restrictive)"  "Only users assigned to specific admin roles can invite guests" |
 |M365 group guest settings 	|Microsoft Admin Center |Either one or both settings are turned off:   "Let group owners add people outside your organization to Microsoft 365 Groups as guests"  "Let guest group members access group content" |
 |SharePoint External Sharing settings |SharePoint Admin Center |"Only people in your organization" Existing guests only" |
 |Guest Access setting |Teams Admin Center |Off |
 
-<!---
-### Guest Access in Teams
-
-The **Guest Access Diagnostic for Microsoft Teams** helps troubleshoot various issues that may hinder guests from accessing a team, such as inviting guests, accessing team content, and using specific guest features. Since guest settings are managed at both organizational and team levels, this diagnostic checks for any misconfigurations that could impact guest access. It aggregates these issues and presents them in one place, with each misconfigured setting accompanied by guidance for admins. Additionally, the diagnostic assesses the provisioning of guest user accounts. It also allows for optional inputs at org, team and user levels, giving you the flexibility to customize the output you receive.
-
-#### Org-level settings
-
-These settings at the organization level are evaluated to check for misconfiguration.  
-
-|Setting|Where it's located|Setting values considered “misconfigured”|
-| -------- | -------- | -------- |
-|External collaboration setting's guest invite setting|Microsoft Entra Admin Center |<li>No one in this organization can invite guest users including admins (most restrictive)</li><li>Only users assigned to specific admin roles can invite guests</li> |
-|M365 group guest setting|Microsoft Admin Center |Either one or both of these settings are turned off:<li>Let group owners add people outside your organization to Microsoft 365 Groups as guests</li><li>Let guest group members access group content</li> |
-|SharePoint External Sharing settings |SharePoint Admin Center |<li>Only people in your organization</li><li>Existing guests only</li> |
-|Guest Access setting |Teams Admin Center |Off |
-
-#### User-level setup
-
-This diagnostic checks the guest user account provisioning in both Entra and Teams when a guest user is provided as input. If a Teams team is also specified, it will verify the guest user's membership in that team. 
-
-#### Additional settings
-
-In addition, this diagnostic also displays some settings that could affect your guest access experience. These settings are not evaluated for misconfiguration.  
-
-1. Guest user access restriction setting and collaboration restrictions setting in Microsoft Entra Admin Center 
-
-    ![Guest user access restriction setting and collaboration restriction setting](../media/eng-direct-portal/eng-direct-portal-additional-settings-1.png)   
-
-2. Guest feature settings in Teams Admin Center 
-
-    ![Guest feature settings](../media/eng-direct-portal/eng-direct-portal-additional-settings-2.png)   
-
-3. Teams guest permissions in Teams app 
-
-    ![Teams guest permissions in Teams app](../media/eng-direct-portal/eng-direct-portal-additional-settings-3.png) 
-
-This diagnostic should assist to resolve your guest access issues and provide a seamless guest experience in Teams.  
-
-If problems persist, reach out to Microsoft support for assistance. 
--->
-
 #### User-level Setup 
 
 If a guest user is supplied as an input, the diagnostic verifies their account provisioning in both Entra and Teams. Furthermore, if a Teams team is also provided, it checks whether that guest is a member of the specified team. 
 
-Additional Settings 
+##### Additional Settings 
 
 In addition, this diagnostic also displays some settings that could affect your guest access experience. These settings are not evaluated for misconfiguration.  
 
