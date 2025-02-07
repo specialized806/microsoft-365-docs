@@ -15,6 +15,7 @@ ms.collection:
 - m365solution-3tiersprotection
 - m365solution-securecollab
 - m365initiative-externalcollab
+- m365solution-overview
 ms.custom: 
 - seo-marvel-apr2020
 - admindeeplinkSPO
