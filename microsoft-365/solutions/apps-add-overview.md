@@ -11,6 +11,7 @@ ms.service: o365-solutions
 ms.localizationpriority: high
 ms.collection:
 - highpri
+- m365solution-overview
 ms.custom:
 keywords:
 ---
