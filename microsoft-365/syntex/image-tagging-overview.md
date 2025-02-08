@@ -5,7 +5,7 @@ author: chuckedmonson
 manager: jtremper
 audience: admin
 ms.reviewer: shrganguly
-ms.date: 06/18/2024
+ms.date: 01/16/2025
 ms.topic: conceptual
 ms.service: microsoft-syntex
 ms.subservice: syntex-content-intelligence
@@ -14,7 +14,7 @@ ms.collection:
     - enabler-strategic
     - m365initiative-syntex
 ms.localizationpriority: medium
-description: Learn about enhanced image tagging in Microsoft Syntex.
+description: Learn about enhanced image tagging in SharePoint.
 ---
 
 # Overview of enhanced image tagging in Microsoft Syntex
@@ -26,13 +26,13 @@ Microsoft Syntex makes it easier to find and manage images in SharePoint documen
 
 ![Screenshot of the library view showing the Image Tags column.](../media/content-understanding/image-tagger-image-tags-column-overview.png)  
 
-The image tagging feature makes it even easier to tag images without any training, which means reducing the need for manual tagging or custom AI model building. This result means you can quickly find images in your libraries and set up processes based on the tags for the images.
+The image tagging feature makes it even easier to tag images without any training, which means to reduce the need for manual tagging or custom AI model building. This result means you can quickly find images in your libraries and set up processes based on the tags for the images.
 
 ## Requirements and limitations
 
 | Icon          | Description   |
 | ------------- | ------------- |
-| ![Files symbol.](/office/media/icons/files-blue.png)  | **Supported file types** <br>This service supports the following file types: .bmp, .png, .gif, .jpeg, .jpg, .tif, .tiff, .ari, .arw, .bay, .cap, .crw, .cr2, .cr3, .dcr, .dcs, .dng, .drf, .eip, .erf, .fff, .heic, .heif, .iiq, .kdc, .k25, .mef, .mos, .mrw, .nef, .nrw, .orf, .pef, .ptx, .pxn, .raf, .raw, .rwl, .rw2, .sr2, .srf, .srw, .x3f, and .3fr. |
+| ![Files symbol.](/office/media/icons/files-blue.png)  | **Supported file types** <br>This service supports the following file types: `.bmp, .png, .gif, .jpeg, .jpg, .tif, .tiff, .ari, .arw, .bay, .cap, .crw, .cr2, .cr3, .dcr, .dcs, .dng, .drf, .eip, .erf, .fff, .heic, .heif, .iiq, .kdc, .k25, .mef, .mos, .mrw, .nef, .nrw, .orf, .pef, .ptx, .pxn, .raf, .raw, .rwl, .rw2, .sr2, .srf, .srw, .x3f, and .3fr.` |
 
 <!---
 ### Supported file types
@@ -48,6 +48,6 @@ Image tagging is available for the following image file types: .bmp, .png, .gif,
 
 - If the image already has custom metadata applied, that information is extracted and displayed in the **Image** Tags column.
 
-- Existing images are not processed when the image tagger is enabled. Only newly uploaded images are processed for automatic image tagging.
+- Existing images aren't processed when the image tagger is enabled. Only newly uploaded images are processed for automatic image tagging.
 
 - Send us feedback on the image tagging quality. We closely monitor feedback and take appropriate action based on it.
