@@ -1,12 +1,12 @@
 ---
-title: Microsoft 365 admin center features that configure Copilot
-description: Learn about some of the Microsoft 365 Copilot features IT admins can configure in the Microsoft 365 admin center.
+title: Microsoft 365 admin center scenarios that configure Copilot
+description: Learn about some of the Microsoft 365 Copilot scenarios and some settings that IT admins can configure in the Microsoft 365 admin center.
 f1.keywords:
 - NOCSH
 ms.author: camillepack
 author: camillepack
 manager: scotv
-ms.date: 02/06/2025
+ms.date: 02/10/2025
 ms.reviewer: elvaf
 audience: Admin
 ms.topic: how-to
@@ -20,13 +20,13 @@ appliesto:
  - ✅ Microsoft 365 Copilot
 ---
 
-# Admins can manage some Microsoft 365 Copilot features in the Microsoft 365 admin center
+# Admins can manage some Microsoft 365 Copilot scenarios in the Microsoft 365 admin center
 
-When [Microsoft 365 Copilot](microsoft-365-copilot-overview.md) is available in a tenant, there are some Copilot features that admins can configure in the Microsoft 365 admin center.
+When [Microsoft 365 Copilot](microsoft-365-copilot-overview.md) is available in a tenant, there are some Copilot scenarios that admins can configure in the Microsoft 365 admin center.
 
-The admin center also gives shortcuts to other features that can affect how Copilot is used in your organization.
+The admin center also gives shortcuts to other services that can affect how Copilot is used in your organization.
 
-This article is for IT administrators, and lists some of the Copilot features you can control in the Microsoft 365 admin center.
+This article is for IT administrators, and lists some of the Copilot scenarios you can control in the Microsoft 365 admin center.
 
 This article applies to:
 
@@ -42,7 +42,7 @@ This article applies to:
 
 - The Copilot experience in the Microsoft 365 admin center depends on the Copilot license you have.
 
-  If your organization has a Microsoft 365 Copilot license, then you see settings that can manage some Microsoft 365 Copilot features. If your organization doesn't have a Copilot license, then you see the features that apply to Microsoft Copilot, which is the consumer version of Copilot.
+  If your organization has a Microsoft 365 Copilot license, then you see settings that can manage some Microsoft 365 Copilot scenarios. If your organization doesn't have a Copilot license, then your configuration options apply to Microsoft Copilot, which is the consumer version of Copilot.
 
   For more information, see:
 
@@ -51,31 +51,31 @@ This article applies to:
 
 - There are different role requirements, depending on your task.
 
-  To view and make changes to the Copilot features in the Microsoft 365 admin center, sign in with one of the following accounts:
+  To view and make changes to the Copilot scenarios in the Microsoft 365 admin center, sign in with one of the following accounts:
 
   - AI Administrator
   - Global Administrator
 
-  To view the Copilot features in the Microsoft 365 admin center, sign in with the following account:
+  To view the Copilot scenarios in the Microsoft 365 admin center, sign in with the following account:
 
   - Global Reader
 
   To learn more about these roles, see [About admin roles in the Microsoft 365 admin center](/microsoft-365/admin/add-users/about-admin-roles).
 
   > [!TIP]
-  > Microsoft recommends you sign in with the least privileged role that you need to complete your task. Typically, the Global Administrator role is too powerful for most tasks, including managing the Copilot features described in this article.
+  > Microsoft recommends you sign in with the least privileged role that you need to complete your task. Typically, the Global Administrator role is too powerful for most tasks, including managing the Copilot scenarios described in this article.
 
-- The admin center only shows the services licensed in your tenant. So, this article lists more features than what you might see.
+- The admin center only shows the services licensed in your tenant. So, this article lists more scenarios than what you might see.
 
-  For example, if you have a Microsoft Viva license, then you see the Viva features. If you have a Power Platform license, then you see the Power Platform features.
+  For example, if you have a Microsoft Viva license, then you see some Viva scenarios. If you have a Power Platform license, then you see some Power Platform scenarios.
 
-  Some features are shortcuts to other admin centers, like Teams. For these features, you need the appropriate role to access those admin centers, like Teams administrator.
+  Some services are shortcuts to other admin centers, like Teams. For these services, you need the appropriate role to access those admin centers, like Teams administrator.
 
   To learn more about the different roles in the admin center, see [Microsoft 365 admin center admin roles](/microsoft-365/admin/add-users/about-admin-roles).
 
 - Your agreement for Online Services governs Microsoft 365 Copilot used with Microsoft Entra ID. For more information, see the [Microsoft Online Services Terms](https://www.microsoft.com/licensing/docs/customeragreement).
 
-- The Microsoft 365 admin center changes frequently. So the features in this article can be different than what you see in the Microsoft 365 admin center.
+- The Microsoft 365 admin center changes frequently. So the scenarios in this article can be different than what you see in the Microsoft 365 admin center.
 
 ## Open the Copilot page
 
@@ -97,19 +97,19 @@ Make sure you sign in with the appropriate role needed for your task. In our exa
 
     :::image type="content" source="media/microsoft-365-copilot-page/microsoft-365-admin-center-copilot-discover-settings.png" alt-text="Screenshot that shows the Discover and Settings options in the Copilot page in the Microsoft 365 admin center." lightbox="media/microsoft-365-copilot-page/microsoft-365-admin-center-copilot-discover-settings.png":::
 
-## Features you can manage
+## Scenarios you can manage
 
-This section lists some of the features shown in the Microsoft 365 admin center. Some features are configured in the admin center, while others are shortcuts to other admin centers.
+This section lists some of the scenarios shown in the Microsoft 365 admin center. Some scenarios are configured in the admin center, while others are shortcuts to other admin centers.
 
-Remember, only the features licensed for your tenant are shown in your admin center experience.
+Remember, only the services licensed for your tenant are shown in your admin center experience.
 
 ### Reports and licenses
 
 In the [Microsoft 365 admin center](https://admin.microsoft.com) > **Copilot** > **Overview** page, you can view reports and assign (or unassign) Copilot licenses. You can also view the number of active users and the number of licenses that are available.
 
-This view lists some of the popular features that are available in Microsoft 365 Copilot. It also provides shortcuts to more in-depth settings in the admin center, like more usage reports (**Reports** > **Usage**) and license management (**Billing** > **Licenses**).
+This view lists some of the popular scenarios that are available in Microsoft 365 Copilot. It also provides shortcuts to more in-depth settings in the admin center, like more usage reports (**Reports** > **Usage**) and license management (**Billing** > **Licenses**).
 
-To learn more about these features, see:
+To learn more, see:
 
 - [Microsoft 365 reports in the admin center](/microsoft-365/admin/activity-reports/microsoft-365-copilot-usage)
 - [Set up Microsoft 365 Copilot](microsoft-365-copilot-setup.md) and [Enable users for Microsoft 365 Copilot](microsoft-365-copilot-enable-users.md)
@@ -120,9 +120,9 @@ To learn more about these features, see:
 
 In the [Microsoft 365 admin center](https://admin.microsoft.com), select **Copilot** > **Settings** > **Copilot agent consumption meter**.
 
-In the admin center, this feature is a shortcut to the [Power Platform pay-as-you-go plan](/power-platform/admin/pay-as-you-go-overview). You don't configure this feature in the Microsoft 365 admin center.
+In the admin center, this scenario is a shortcut to the [Power Platform pay-as-you-go plan](/power-platform/admin/pay-as-you-go-overview). You don't configure this scenario in the Microsoft 365 admin center.
 
-This feature creates a billing plan that tracks and manages Microsoft 365 Copilot Chat consumption. When you set up a billing plan, you also select an Azure subscription, and link the necessary environments. This configuration helps manage message capacity, monitor usage, and handle overages, which can help with costs.
+This scenario creates a billing plan that tracks and manages Microsoft 365 Copilot Chat consumption. When you set up a billing plan, you also select an Azure subscription, and link the necessary environments. This configuration helps manage message capacity, monitor usage, and handle overages, which can help with costs.
 
 To learn more, see:
 
@@ -135,7 +135,7 @@ To learn more, see:
 
 In the [Microsoft 365 admin center](https://admin.microsoft.com), select **Copilot** > **Settings** > **Copilot diagnostics logs**.
 
-When users have an issue and aren't able to send Copilot feedback logs to Microsoft, you can submit feedback logs on their behalf. The data includes prompts and generated responses, relevant content samples, and log files. When you use this feature to send feedback logs, it temporarily overrides any user level feedback policy.
+When users have an issue and aren't able to send Copilot feedback logs to Microsoft, you can submit feedback logs on their behalf. The data includes prompts and generated responses, relevant content samples, and log files. When you use this scenario to send feedback logs, it temporarily overrides any user level feedback policy.
 
 :::image type="content" source="media/microsoft-365-copilot-page/microsoft-365-admin-center-copilot-diagnostics-log.png" alt-text="Screenshot that allows admins to collect Microsoft 365 Copilot diagnostic logs in the Microsoft 365 admin center." :::
 
@@ -150,7 +150,7 @@ To learn more, see:
 
 In the [Microsoft 365 admin center](https://admin.microsoft.com), select **Copilot** > **Settings** > **Copilot image generation**.
 
-When this feature is allowed, end users can ask Copilot to create, design, and edit images. Users can add these images to their work.
+When this scenario is allowed, end users can ask Copilot to create, design, and edit images. Users can add these images to their work.
 
 :::image type="content" source="media/microsoft-365-copilot-page/microsoft-365-admin-center-copilot-image-generation.png" alt-text="Screenshot that allows admins to allow or prevent end users from creating images using Microsoft 365 Copilot in the Microsoft 365 admin center." :::
 
@@ -165,7 +165,7 @@ To learn more, see:
 
 In the [Microsoft 365 admin center](https://admin.microsoft.com), select **Copilot** > **Settings** > **Copilot in Bing, Edge, and Windows**.
 
-This feature refers to AI-powered **Copilot Chat** and is automatically available to Bing, Microsoft Edge, and Windows users. You don't configure this feature in the Microsoft 365 admin center. But, you should know that Copilot Chat for the web is available to everyone.
+This scenario refers to AI-powered **Copilot Chat** and is automatically available to Bing, Microsoft Edge, and Windows users. You don't configure this scenario in the Microsoft 365 admin center. But, you should know that Copilot Chat for the web is available to everyone.
 
 - For **organizations with a Microsoft 365 subscription**, you get **Microsoft 365 Copilot Chat**. It gives your users internet-based chat and work-based chat with [enterprise data protection](/copilot/privacy-and-protections). Enterprise data protection applies to Copilot Chat prompts and responses when users sign in with a Microsoft Entra account, and is designed for work and education.
 
@@ -186,7 +186,7 @@ To learn more, see:
 
 In the [Microsoft 365 admin center](https://admin.microsoft.com), select **Copilot** > **Settings** > **Copilot in Edge**.
 
-This feature is a shortcut to create a Microsoft Edge configuration profile in the Microsoft 365 admin center (**Settings** > **Microsoft Edge** > **Configuration Profiles**). In a configuration profile, you create a policy that includes settings that configure some Copilot features in Microsoft Edge. You can also upload settings in a JSON file.
+This scenario is a shortcut to create a Microsoft Edge configuration profile in the Microsoft 365 admin center (**Settings** > **Microsoft Edge** > **Configuration Profiles**). In a configuration profile, you create a policy that includes settings that configure some Copilot features in Microsoft Edge. You can also upload settings in a JSON file.
 
 To learn more, see [Configure Copilot in Microsoft Edge with configuration profiles](/deployedge/microsoft-edge-management-service).
 
@@ -196,7 +196,7 @@ To learn more, see [Configure Copilot in Microsoft Edge with configuration profi
 
 In the [Microsoft 365 admin center](https://admin.microsoft.com), select **Copilot** > **Settings** > **Copilot in Power Platform and Dynamics 365**.
 
-This feature is a shortcut to the Power Platform admin center. You don't configure this feature in the Microsoft 365 admin center.
+This scenario is a shortcut to the Power Platform admin center. You don't configure this scenario in the Microsoft 365 admin center.
 
 In the Power Platform admin center, you can manage settings specific to Microsoft Copilot, agents, and Copilot agents in Power Platform and Dynamics 365 products.
 
@@ -211,7 +211,7 @@ To learn more, see:
 
 In the [Microsoft 365 admin center](https://admin.microsoft.com), select **Copilot** > **Settings** > **Copilot in Teams meetings**.
 
-This feature is a shortcut to the [Microsoft Teams admin center](https://admin.teams.microsoft.com). You don't configure this feature in the Microsoft 365 admin center.
+This scenario is a shortcut to the [Microsoft Teams admin center](https://admin.teams.microsoft.com). You don't configure this scenario in the Microsoft 365 admin center.
 
 In the Teams admin center, you can manage how Copilot interacts with some Teams features, including meeting transcripts.
 
@@ -250,7 +250,7 @@ In the [Microsoft 365 admin center](https://admin.microsoft.com), select **Copil
 
 In the [Microsoft 365 admin center](https://admin.microsoft.com), select **Copilot** > **Settings** > **Data, Security, and Compliance**.
 
-This feature is a shortcut to the [Microsoft Purview portal](https://purview.microsoft.com/). You don't configure this feature in the Microsoft 365 admin center.
+This scenario is a shortcut to the [Microsoft Purview portal](https://purview.microsoft.com/). You don't configure this scenario in the Microsoft 365 admin center.
 
 Microsoft Purview has several features that can help get your data ready for Copilot. You can create sensitivity labels and apply them to your data, create retention policies to remove outdated data, and analyze Copilot prompts and responses.
 
@@ -287,7 +287,7 @@ To learn more, see:
 
 In the [Microsoft 365 admin center](https://admin.microsoft.com), select **Copilot** > **Settings** > **Microsoft 365 Copilot self-service purchases**.
 
-This setting lets you allow (or block) users from purchasing Microsoft 365 Copilot licenses without admin approval or help. This feature can help admins understand and manage the demand.
+This setting lets you allow (or block) users from purchasing Microsoft 365 Copilot licenses without admin approval or help. This scenario can help admins understand and manage the demand.
 
 :::image type="content" source="media/microsoft-365-copilot-page/microsoft-365-admin-center-copilot-self-service.png" alt-text="Screenshot that allows users to purchase Microsoft 365 Copilot without admin approval in the Copilot page in the Microsoft 365 admin center.":::
 
@@ -304,7 +304,7 @@ To learn more, see:
 
 In the [Microsoft 365 admin center](https://admin.microsoft.com), select **Copilot** > **Settings** > **Microsoft Security Copilot**.
 
-This feature is a shortcut to the Security Copilot portal. You don't configure this feature in the Microsoft 365 admin center.
+This scenario is a shortcut to the Security Copilot portal. You don't configure this scenario in the Microsoft 365 admin center.
 
 Security Copilot is a separate product and license from Microsoft 365 Copilot. If it's available in your tenant, you can use this link to go to Security Copilot.
 
@@ -333,7 +333,7 @@ To learn more, see:
 
 In the [Microsoft 365 admin center](https://admin.microsoft.com), select **Copilot** > **Settings** > **Web search for Microsoft 365 Copilot and Microsoft Copilot**.
 
-This feature is a shortcut to create a cloud policy in the Microsoft 365 Apps admin center. You don't configure this feature in the Microsoft 365 admin center.
+This scenario is a shortcut to create a cloud policy in the Microsoft 365 Apps admin center. You don't configure this scenario in the Microsoft 365 admin center.
 
 When the `Allow web search in Copilot` policy is enabled, Copilot can reference web content to improve the quality of its responses.
 
