@@ -88,37 +88,27 @@ You now have a tool registration configured in the Microsoft registration portal
 1. Scroll down to select **View Links**.
 
 **To create a Basic Launch Link for course navbars:**
-
-
-
-
-
+1. For the **URL**, enter: **`https://assignments.edu.cloud.microsoft/lti-ui`**.
 1. For the **URL**, enter: **`https://assignments.edu.cloud.microsoft/lti-ui`**.
-
+
+
 
 1. For the **URL**, enter: **`https://assignments.edu.cloud.microsoft/lti-ui`**.
-
-1. For the **Type**, select **Basic Launch**.
-1. Select **Save and Close** to create the link.
 1. For the **URL**, enter: **`https://assignments.edu.cloud.microsoft/lti-ui`**.
-
-
-
+
 
 1. For the **URL**, enter: **`https://assignments.edu.cloud.microsoft/lti-ui`**.
 
 
-
-1. Enter **Teams Assignments** as the **Name**.
-1. For the **URL**, enter: **`https://assignments.edu.cloud.microsoft/lti-ui`**.
+**To create a Widget link to add to course homepage layouts:**
 1. For the **URL**, enter: **`https://assignments.edu.cloud.microsoft/lti-ui`**.
-
-
-
 1. For the **Type**, select **Widget**.
-
-
-
+1. For the **Type**, select **Widget**.
+
+
+
+
+
 **To create a Widget link to add to course homepage layouts:**
 1. For the **URL**, enter: **`https://assignments.edu.cloud.microsoft/lti-ui`**.
 
