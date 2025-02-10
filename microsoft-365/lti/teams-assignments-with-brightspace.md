@@ -90,7 +90,7 @@ You now have a tool registration configured in the Microsoft registration portal
 
 1. Select **New Link**.
 1. Enter **Teams Assignments** as the **Name**.
-1. For the **URL**, enter: **<https://assignments.edu.cloud.microsoft/lti-ui>**
+1. For the **URL**, enter: **`https://assignments.edu.cloud.microsoft/lti-ui`**
 1. For the **Type**, select **Basic Launch**.
 1. Select **Save and Close** to create the link.
 
@@ -98,7 +98,7 @@ You now have a tool registration configured in the Microsoft registration portal
 
 1. Select **New Link**.
 1. Enter **Teams Assignments** as the **Name**.
-1. For the **URL**, enter: **<https://assignments.edu.cloud.microsoft/lti-ui>**
+1. For the **URL**, enter: **`https://assignments.edu.cloud.microsoft/lti-ui`**
 1. Select **Deep Linking Quicklink** for the **Type**.
 1. Select **Save and Close** to create the link.
 
@@ -106,7 +106,7 @@ You now have a tool registration configured in the Microsoft registration portal
 
 1. Select **New Link**.
 1. Enter **Teams Assignments** as the **Name**.
-1. For the **URL**, enter: **<https://assignments.edu.cloud.microsoft/lti-ui>**
+1. For the **URL**, enter: **`https://assignments.edu.cloud.microsoft/lti-ui`**
 1. For the **Type**, select **Widget**
 1. Select **Save and Close** to create the link.
 
