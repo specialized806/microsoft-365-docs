@@ -39,7 +39,7 @@ By installing and using the Teams Assignments LTI app, educators and students ca
 
 | Field in Brightspace         | Value                                                   |
 |------------------------------|---------------------------------------------------------|
-| Name                         | Microsoft Teams Assignments                             |
+| Name                         | Microsoft Teams Assignments.                             |
 | Domain                       | Copy the **Target Link URL** value from the Microsoft registration. |
 | Redirect URLs                | Copy the **Redirect URL** value from the Microsoft registration. |
 | OpenID Connect Login URL     | Copy the **Open ID connection URL** value from the Microsoft registration. |
@@ -90,7 +90,7 @@ You now have a tool registration configured in the Microsoft registration portal
 
 1. Select **New Link**.
 1. Enter **Teams Assignments** as the **Name**.
-1. For the **URL**, enter: **`https://assignments.edu.cloud.microsoft/lti-ui`**
+1. For the **URL**, enter: **`https://assignments.edu.cloud.microsoft/lti-ui`**.
 1. For the **Type**, select **Basic Launch**.
 1. Select **Save and Close** to create the link.
 
@@ -98,7 +98,7 @@ You now have a tool registration configured in the Microsoft registration portal
 
 1. Select **New Link**.
 1. Enter **Teams Assignments** as the **Name**.
-1. For the **URL**, enter: **`https://assignments.edu.cloud.microsoft/lti-ui`**
+1. For the **URL**, enter: **`https://assignments.edu.cloud.microsoft/lti-ui`**.
 1. Select **Deep Linking Quicklink** for the **Type**.
 1. Select **Save and Close** to create the link.
 
@@ -106,8 +106,8 @@ You now have a tool registration configured in the Microsoft registration portal
 
 1. Select **New Link**.
 1. Enter **Teams Assignments** as the **Name**.
-1. For the **URL**, enter: **`https://assignments.edu.cloud.microsoft/lti-ui`**
-1. For the **Type**, select **Widget**
+1. For the **URL**, enter: **`https://assignments.edu.cloud.microsoft/lti-ui`**.
+1. For the **Type**, select **Widget**.
 1. Select **Save and Close** to create the link.
 
 **To add links to your Navigation and Themes for instructors to use in their courses:**
