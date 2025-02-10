@@ -44,7 +44,15 @@ Integrated Apps can be accessed via the Microsoft 365 Admin Center. Select **Set
 
 ## Who can access Integrated Apps
 
-The Integrated apps portal is available to world-wide customers only and can be accessed by Global Admins, Global Readers, Exchange admins, and Azure Application Admins (made available in May 2023). This feature is not available in sovereign and government clouds.
+The Integrated apps portal is available to world-wide customers only and can be accessed by the following roles:
+
+- Global administrator
+- Global reader
+- AI administrator
+- Exchange administrator
+- Azure Application Admins (made available in May 2023).
+
+This feature is not available in sovereign and government clouds.
 
 To learn more about these roles, see [Microsoft Entra built-in roles - Microsoft Entra|Microsoft Learn](/azure/active-directory/roles/permissions-reference#all-roles).
 
