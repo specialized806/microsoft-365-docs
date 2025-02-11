@@ -160,6 +160,16 @@
     "redirect_url":"/microsoft-365/syntex/syntex-licensing",
     "redirect_document_id":true
    }
+   {
+    "source_path":"microsoft-365/syntex/train-model.md",
+    "redirect_url":"/microsoft-365/syntex/syntex-overview",
+    "redirect_document_id":true
+   },
+   {
+    "source_path":"microsoft-365/syntex/video-library.md",
+    "redirect_url":"/microsoft-365/syntex/syntex-overview",
+    "redirect_document_id":true
+   }
   ]
 }
  
