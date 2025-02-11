@@ -2,10 +2,10 @@
 title: "Set up the Standard or Targeted release options"
 f1.keywords:
 - CSH
-ms.author: nkagole
-author: nataliekagole
+ms.author: kvice
+author: kelleyvice-msft
 manager: scotv
-ms.date: 09/14/2023
+ms.date: 02/11/2025
 audience: Admin
 ms.topic: article
 ms.service: microsoft-365-business
