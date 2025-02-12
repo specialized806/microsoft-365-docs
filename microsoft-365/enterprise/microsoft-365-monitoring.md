@@ -36,7 +36,7 @@ Monitoring provides you with information about incidents and advisories that are
 
 - **Customer infrastructure**. Issue is detected in your organization's infrastructure and requires action from your organization for resolution. For example, users can't access Exchange Online because they're unable to obtain an authentication token from STS provider hosted by your organization because of an expired certificate.
 
-Here's an example of the **Service health** page in the Microsoft 365 admin center, which is available at **Health** > **Service health** for an Overview of **Issues for your organization to act on, Active issues Microsoft is working on** and **Service status**.
+Here's an example of the **Service health** page in the Microsoft 365 admin center, which is available at **Health** > **Service health** for an overview of **issues for your organization to act on, active issues Microsoft is working on** and **service status**.
 
 :::image type="content" source="../media/microsoft-365.png" alt-text="Screenshot of the Service health page in the Microsoft 365 admin center." lightbox="../media/microsoft-365.png":::
 
