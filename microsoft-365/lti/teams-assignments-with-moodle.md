@@ -53,7 +53,7 @@ By installing and using the Teams Assignments LTI app, educators and students ca
 
 **To save the values obtained from Moodle into the Microsoft registration portal:**
 
-1. On the Microsoft registration portal tab, select Next to navigate to LMS provided registration keys. Enter the values listed in the table:
+1. On the Microsoft registration portal tab, select **Next** to navigate to LMS provided registration keys. Enter the values listed in the table:
 
     | Field in Microsoft registration portal | Value                                                      |
     |----------------------------------------|------------------------------------------------------------|
