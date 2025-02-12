@@ -21,6 +21,8 @@ appliesto:
 
 # Submit admin-initiated Copilot feedback from the Microsoft 365 admin center
 
+> [!VIDEO <c67f2b9c-8ba4-44b5-8713-00063e92ba54>]
+
 Microsoft 365 Copilot is a product that helps users boost their productivity with large-language models (LLM). While Copilot is designed to provide accurate and informative responses based on the knowledge and data available in the Microsoft Graph, it's important to note that answers may not always be accurate. This is because Copilot generates responses based on patterns and probabilities in language data. Providing feedback is essential to improve the product and make it more dependable for users.
 
 Microsoft 365 Copilot currently allows user-initiated feedback. As an admin, you can give feedback to supplement the user-initiated process. This helps Microsoft receive comprehensive diagnostic data to aid in debugging, especially in cases where users may not be able to provide feedback themselves. By providing feedback on behalf of your users, you can help enhance the overall experience of Copilot for your organization by improving the quality and relevance of its responses.
@@ -64,15 +66,17 @@ To provide feedback to Microsoft on behalf of a user who encountered a problem w
 
 7. Choose from a predefined list of frequently occurring issues or enter the issue details in the text box.
 
+:::image type="content" source="media/feedback/aif-review.png" alt-text="Screenshot showing the options to select from a list of predefined issues." lightbox="media/feedback/aif-prompt-pair.png":::
+
 8. Decide whether or not to move forward with the feedback submission to Microsoft. If you choose to share the data, select **Submit**. If you don't want to share the data, select **Cancel**.
 
-9. If you choose **Submit**, make sure that all selected data is accurate and relevant. Once you've reviewed and confirmed all information, select **Submit** to send the feedback. The log files will be sent to Microsoft along with your consent and you'll see a confirmation message. 
+9. If you choose **Submit**, make sure that all selected data is accurate and relevant. Once you've reviewed and confirmed all information, select **Submit** to send the feedback. You can view the submitted feedback under **Health** > **Product feedback** in the Microsoft 365 admin center.
 
     If you select **Cancel**, no data will be sent to Microsoft, and you'll see cancellation message. Microsoft doesn't collect anything before you select **Submit**.
 
-10. Once submitted, the user who you submitted feedback on behalf of receives an automatic email from Microsoft to inform them about the feedback submission.
+10. Once submitted, you'll receive confirmation that the feedback has been submitted to Microsoft.
 
-   :::image type="content" source="media/copilot-user-feedback-email.jpg" alt-text="Screenshot showing the email users receive when their feedback has been submitted by an admin." lightbox="media/copilot-user-feedback-email.jpg":::
+   :::image type="content" source="media/feedback/aif-files-sent.png" alt-text="Screenshot showing the email users receive when their feedback has been submitted by an admin." lightbox="media/feedback/aif-files-sent.png":::
 
 11. The submitted feedback goes through a triage process and is assigned to the appropriate Microsoft product team. The product team will then connect with you to address the issue and provide updates.
 
