@@ -55,7 +55,7 @@ And if you'd like to know what's new with other Microsoft cloud services, check 
 
 ### Provide admin-initiated feedback for Microsoft 365 Copilot
 
-> [!VIDEO <c67f2b9c-8ba4-44b5-8713-00063e92ba54>]
+> [!VIDEO c67f2b9c-8ba4-44b5-8713-00063e92ba54]
 
 You can provide feedback about Microsoft 365 Copilot on behalf of your users within the Microsoft 365 admin center, supplementing the user-initiated feedback process. This helps Microsoft receive comprehensive diagnostic data to aid in debugging and improving the quality and relevance of Copilot's responses. Recent enhancements to this feature include:
 

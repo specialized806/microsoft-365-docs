@@ -21,7 +21,7 @@ appliesto:
 
 # Submit admin-initiated Copilot feedback from the Microsoft 365 admin center
 
-> [!VIDEO <c67f2b9c-8ba4-44b5-8713-00063e92ba54>]
+> [!VIDEO c67f2b9c-8ba4-44b5-8713-00063e92ba54]
 
 Microsoft 365 Copilot is a product that helps users boost their productivity with large-language models (LLM). While Copilot is designed to provide accurate and informative responses based on the knowledge and data available in the Microsoft Graph, it's important to note that answers may not always be accurate. This is because Copilot generates responses based on patterns and probabilities in language data. Providing feedback is essential to improve the product and make it more dependable for users.
 
