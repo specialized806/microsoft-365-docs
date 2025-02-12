@@ -5,7 +5,7 @@ items:
   href: release-notes.md
 - name: Get started with Microsoft 365 Copilot
   items:
-    - name: Overview
+    - name: What is Microsoft 365 Copilot?
       href: microsoft-365-copilot-overview.md
     - name: Architecture and data protection diagrams
       items:
@@ -36,7 +36,7 @@ items:
       href: microsoft-365-copilot-setup.md
     - name: Requirements and prerequisites
       href: microsoft-365-copilot-requirements.md
-    - name: License add-on list
+    - name: License options
       href: microsoft-365-copilot-licensing.md
     - name: Enable users and welcome email
       href: microsoft-365-copilot-enable-users.md  

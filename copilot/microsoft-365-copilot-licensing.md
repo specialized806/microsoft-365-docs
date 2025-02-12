@@ -127,7 +127,7 @@ To learn more, see:
 - [Manage Microsoft 365 Copilot Chat](/copilot/manage)
 - [Select the Copilot that's right for your organization](which-copilot-for-your-organization.md)
 
-## Setup and assign licenses
+## Setup help and guidance
 
 In the Microsoft 365 admin center, there's a [Microsoft 365 Copilot setup guide](https://admin.microsoft.com/Adminportal/Home?Q=learndocs#/modernonboarding/microsoft365copilotsetupguide). You can use this guide to step through the admin center to assign the required licenses.
 
