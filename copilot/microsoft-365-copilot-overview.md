@@ -6,7 +6,7 @@ f1.keywords:
 ms.author: camillepack
 author: camillepack
 manager: scotv
-ms.date: 02/11/2025
+ms.date: 02/12/2025
 audience: Admin
 ms.reviewer: mandia
 ms.topic: overview
@@ -26,15 +26,15 @@ appliesto:
 
 **Microsoft 365 Copilot is an AI-powered tool that helps with your work tasks**.
 
-In its simplest form, users enter a prompt in Copilot, like asking a question, and Copilot responds with AI-generated information. The responses are in real-time and can include internet-based content and work content that users have permission to access.
+Users enter a prompt in Copilot and Copilot responds with AI-generated information. The responses are in real-time and can include internet-based content and work content that users have permission to access.
 
-Copilot can help users complete tasks, and in a conversational tone. Users get content relevant to their work tasks, and in the context of the Microsoft 365 app they're using.
+Users get content relevant to their work tasks, and in the context of the Microsoft 365 app they're using.
 
-For example, you're an Operations Manager and are working with human resources to update job descriptions. You can use Copilot to help create job descriptions. Then, continue the prompting session in Copilot to expand the descriptions to create different levels.
+For example, you're an Operations Manager and are working with human resources to update job descriptions. In a Copilot prompting session, you can ask Copilot to create a job description and also add qualifications that should be included in the description. In the same prompting session, you can expand the generated job description to also create different levels, like Level 1, Level 2, and Level 3.
 
 You can also [create and use agents](/microsoft-365-copilot/extensibility) to customize your Copilot experience with your organization's data sources. For example, you're a warehouse manager and you need to know the status of a shipment. You can ask your Copilot shipping agent "What is the status of shipment 1234?" Copilot uses your data sources to get the information and can respond with the status.
 
-This article is for IT admins. It describes the different components that Microsoft 365 Copilot uses and the Copilot features in Microsoft 365 apps. To learn more about the architecture and how Copilot works, see [Microsoft 365 Copilot architecture and how it works](microsoft-365-copilot-architecture.md).
+This article is for IT admins. It describes the different components that Microsoft 365 Copilot uses and the Copilot features in the Microsoft 365 apps. To learn more about the architecture and how Copilot works, see [Microsoft 365 Copilot architecture and how it works](microsoft-365-copilot-architecture.md).
 
 This article applies to:
 
