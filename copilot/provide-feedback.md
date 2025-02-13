@@ -53,7 +53,7 @@ To provide feedback to Microsoft on behalf of a user who encountered a problem w
 
 4. Select the specific date range for the feedback submission. The range can be up to the past 30 days.
 
-:::image type="content" source="media/feedback/aif-collect-data.png" alt-text="Screenshot highlighting the entry fields for submitting Copilot diagnostic logs." lightbox="media/feedback/aif-collect-data.png":::
+   :::image type="content" source="media/feedback/aif-collect-data.png" alt-text="Screenshot highlighting the entry fields for submitting Copilot diagnostic logs." lightbox="media/feedback/aif-collect-data.png":::
 
 5. Choose the number of rounds of conversations that you'd like to share with Microsoft, and then select **Next**.
 
@@ -62,11 +62,11 @@ To provide feedback to Microsoft on behalf of a user who encountered a problem w
 
 6. Review the available chat log prompt-response pairs. You can search using keywords or scroll through the list. Hover over each pair to view the full prompt-response pair. Select or deselect specific pairs to include in the feedback.
 
-:::image type="content" source="media/feedback/aif-prompt-pair.png" alt-text="Screenshot showing the options to select prompt pairs for Copilot diagnostic logs." lightbox="media/feedback/aif-prompt-pair.png":::
+   :::image type="content" source="media/feedback/aif-prompt-pair.png" alt-text="Screenshot showing the options to select prompt pairs for Copilot diagnostic logs." lightbox="media/feedback/aif-prompt-pair.png":::
 
 7. Choose from a predefined list of frequently occurring issues or enter the issue details in the text box.
 
-:::image type="content" source="media/feedback/aif-review.png" alt-text="Screenshot showing the options to select from a list of predefined issues." lightbox="media/feedback/aif-prompt-pair.png":::
+   :::image type="content" source="media/feedback/aif-review.png" alt-text="Screenshot showing the options to select from a list of predefined issues." lightbox="media/feedback/aif-prompt-pair.png":::
 
 8. Decide whether or not to move forward with the feedback submission to Microsoft. If you choose to share the data, select **Submit**. If you don't want to share the data, select **Cancel**.
 
@@ -76,7 +76,7 @@ To provide feedback to Microsoft on behalf of a user who encountered a problem w
 
 10. Once submitted, you'll receive confirmation that the feedback has been submitted to Microsoft.
 
-   :::image type="content" source="media/feedback/aif-files-sent.png" alt-text="Screenshot showing the email users receive when their feedback has been submitted by an admin." lightbox="media/feedback/aif-files-sent.png":::
+    :::image type="content" source="media/feedback/aif-files-sent.png" alt-text="Screenshot showing the email users receive when their feedback has been submitted by an admin." lightbox="media/feedback/aif-files-sent.png":::
 
 11. The submitted feedback goes through a triage process and is assigned to the appropriate Microsoft product team. The product team will then connect with you to address the issue and provide updates.
 
