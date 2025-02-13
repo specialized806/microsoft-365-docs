@@ -117,7 +117,7 @@ You'll probably only need to assign the following roles in your organization. By
 | Skype admin  | Read | Read | Read | Read |
 | Service admin  | Read | Read  | Read | Read |
 | Group admin  | Create, Read, Update, Delete, ***Can't update EXO properties*** | Create, Read, Update, Delete | Read | Read |
-| AI administrator | Read | Read | Read | Read | 
+| AI administrator | Read | Read | Read | Read |
 
 ## Delegated administration for Microsoft Partners
 
