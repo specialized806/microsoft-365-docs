@@ -83,6 +83,9 @@ With the AI administrator role, you can:
 
 This new role is designed to empower your organization by providing specialized administrative capabilities for managing AI-related enterprise services, starting with Microsoft 365 Copilot, and slowly extending to other AI-driven functionalities. For more information about the AI administrator role and other roles in the admin center, see [About admin roles in the Microsoft 365 admin center](/admin/add-users/about-admin-roles).
 
+>[!NOTE]
+> The AI Administrator role is currently limited. For full administrative capabilities, it's recommended to use the Global Admin role until the AI Administrator role is fully functional. We're continuously expanding support for more functionalities to enhance the AI Administrator role.
+
 ## May 2023
 
 ### Sign up for Windows release health email notifications
