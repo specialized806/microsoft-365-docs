@@ -3,7 +3,7 @@ title: "Engineering Direct Portal in the Microsoft 365 Admin Center"
 author: kelleyvice-msft
 ms.author: kvice  
 manager: scotv
-ms.date: 12/03/2024
+ms.date: 02/13/2025
 ms.topic: article
 ms.service: microsoft-365-enterprise
 ms.subservice: administration
@@ -95,8 +95,7 @@ In this section:
 - [Remediate a Compromised Account](#remediate-a-compromised-account)
 - [Audit Log Summary](#audit-log-summary)
 - [Issues with Guest Access in Teams](#issues-with-guest-access-in-teams)
-
-- Teams PSTN Calling Diagnostic 
+- [Teams PSTN Calling Diagnostic](#teams-pstn-calling-diagnostic)
 
 ### Visual Mail Flow
 
