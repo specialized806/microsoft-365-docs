@@ -6,7 +6,7 @@ ms.reviewer: ssquires, kkameth
 ms.date: 06/20/2024
 manager: jtremper
 audience: admin
-ms.topic: conceptual
+ms.topic: how-to
 ms.service: microsoft-syntex
 ms.collection: 
     - essentials-get-started
