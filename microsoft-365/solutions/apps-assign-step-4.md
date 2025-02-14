@@ -39,7 +39,7 @@ For specific timing for each of the above issues, see [Delivery timing summary](
 ## Troubleshoot app installation issues
 
 An app may fail to install for a variety of reasons. The following list provides possible reasons why an app installation might fail:
-- An installation file is deleted after the it's downloaded, but before the app is installed
+- An installation file is deleted after it's downloaded, but before the app is installed
 - The installation command for the app failed
 - The network connection was lost
 - The device was rebooted during the installation process
