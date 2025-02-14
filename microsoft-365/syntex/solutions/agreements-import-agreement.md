@@ -18,11 +18,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 description: Learn how to import and organize your agreements in the SharePoint Agreements solution.
 ---
 
+# Import agreements in SharePoint Agreements
+
 SharePoint Agreements allows you to import your existing agreements effortlessly and gain immediate, valuable insights to help you stay on top of your contractual obligations.
 During the import process, important details about each agreement, such as the first party, second party, effective date, and expiry date, are automatically detected. This ensures that all relevant information is accurately captured and organized.
 Once your agreements are imported, you can immediately gain valuable insights into your contracts such as a clear breakdown of your agreements by category, the key players in your agreements, insights and reminders for agreements that are about to expire. 
-
-# Import agreements in SharePoint Agreements
 
 You can add existing agreements by uploading signed documents. Details about the agreements will be automatically detected after you save.
 
