@@ -4,7 +4,7 @@ ms.author: erikre
 author: erikre
 manager: dougeby
 audience: ITPro
-ms.topic: article
+ms.topic: troubleshooting-general
 ms.date: 09/12/2024
 description: Step 4. Troubleshoot app deployment issues.
 ms.service: o365-solutions
