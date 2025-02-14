@@ -47,7 +47,7 @@ To import agreements, follow these steps:
 
 5. To see the list of agreements pending your confirmation, go to the **Agreements** tab, select the **Import** button and select **Review pending imports**.
 
-[![A screenshot of Agreements app showing the pending imports page with one file.](../../media/content-understanding/agreements-pendingImport.png)](../../media/content-understanding/agreements-pendingImport.png#lightbox)
+   [![A screenshot of Agreements app showing the pending imports page with one file.](../../media/content-understanding/agreements-pendingImport.png)](../../media/content-understanding/agreements-pendingImport.png#lightbox)
 
 6. The **Pending imports** page will open and show you the list of all imported agreements that are pending your review.
 
