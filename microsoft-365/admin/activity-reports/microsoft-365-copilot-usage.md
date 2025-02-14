@@ -29,7 +29,7 @@ description: "Learn how to get the Microsoft 365 Copilot usage report and gain i
 
 # Microsoft 365 reports in the admin center – Microsoft 365 Copilot usage
 
-The Microsoft 365 Usage dashboard shows you the activity overview across the Microsoft 365 productivity apps in your organization. It enables you to drill into individual product-level reports to give you more granular insight about the activities within each app. To view all reports, check out the [Reports overview article](activity-reports.md).
+The Microsoft 365 Usage page shows you the activity overview across the Microsoft 365 productivity apps in your organization. It enables you to drill into individual product-level reports to give you more granular insight about the activities within each app. To view all reports, check out the [Reports overview article](activity-reports.md).
 
 In the Microsoft 365 Copilot usage report, which is in continuous enhancement, you can view a summary of how users' adoption, retention, and engagement are with Microsoft 365 Copilot, and the activity of every Copilot user in your organization, including agent usage. For Copilot activity on a given day, the report becomes available within 72 hours of the end of that day (in UTC).
 
@@ -83,7 +83,7 @@ When switching to Trend view, you can select one product in the dropdown list to
 
 **Copilot Chat adoption** shows enabled users and total usage of Copilot Chat and split usage between Copilot Chat (work) and Copilot Chat (web).
 
-:::image type="content" source="../../media/copilot-usage-business-chat.png" alt-text="Screenshot showing the business chat usage chart in the Microsoft 365 Copilot usage report." lightbox="../../media/copilot-usage-business-chat.png":::
+:::image type="content" source="../../media/copilot-chat-usage.png" alt-text="Screenshot showing the business chat usage chart in the Microsoft 365 Copilot usage report." lightbox="../../media/copilot-chat-usage.png":::
 
 **Agent adoption** shows active users of agents in Microsoft 365 Copilot for the selected period. As described earlier, only usage of agents that have been created by your org including both admin-approved agents and agents shared by users in your org.
 
@@ -144,7 +144,7 @@ You can view a table list to show each Microsoft 365 Copilot enabled user's last
 
 Select **Choose columns** to add or remove columns from the table.
 
-:::image type="content" alt-text="Screenshot showing the columns you can select for the Microsoft 365 Copilot usage report." source="../../media/copilot-usage-column.png" lightbox="../../media/copilot-usage-column.png":::
+:::image type="content" alt-text="Screenshot showing the columns you can select for the Microsoft 365 Copilot usage report." source="../../media/copilot-usage-chat-columns.png" lightbox="../../media/copilot-usage-chat-columns.png":::
 
 You can also export the report data into an Excel .csv file by selecting the Export link. This exports the Microsoft 365 Copilot usage data of all users and enables you to do simple sorting, filtering, and searching for further analysis.
 
