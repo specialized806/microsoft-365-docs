@@ -4,16 +4,15 @@ ms.author: chucked
 author: chuckedmonson
 manager: jtremper
 ms.reviewer: ssquires
-ms.date: 07/01/2024
+ms.date: 08/19/2024
 audience: admin
-ms.topic: conceptual
+ms.topic: how-to
 ms.service: microsoft-syntex
 search.appverid: 
 ms.collection: 
     - enabler-strategic
     - m365initiative-syntex
 ms.localizationpriority:  medium
-ROBOTS: NOINDEX, NOFOLLOW
 description: Learn how to specify a page range for extracting information from documents in a SharePoint document library with Microsoft Syntex.
 ---
 
